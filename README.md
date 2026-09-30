@@ -133,6 +133,7 @@ The core tokens `-ain` and `-aiin` are verified as autonomous systemic environme
 
 ### B. Syntactic Operators & Flags (From Concept-Symbol Library 1.0)
 *   **`old` / `oldy` / `edy` -> Dynamic Olomuoto Generator (Active State Operator):** Converts an abstract semantic archetype into an active physical state of matter or ongoing process (e.g., the thermal core `cthy` [heat] + `edy` = `cthedy` -> *Active Caloric State / Stewing*).
+*   **`zar` / `zepchy` / `z` / `j` -> System Overload Intercept (Mechanical Security Latch):** Functions strictly as a conditional check or safety flag indicating an emergency boundary condition, critical boiling point, toxicity risk, or a physical latch requirement to freeze fluid movement.
 *   **`-g` / `-damg` / `-dlyg` -> Inert Solid Residue (Stop Flag):** A boolean flag indicating the absolute termination of a physical cycle, representing dry spent matter or non-reactive bottom sediment.
 *   **`-am` / `-amam` -> Sequential Continuity Link:** Directs the process flow to chain instantly into the subsequent node without system delay.
 
