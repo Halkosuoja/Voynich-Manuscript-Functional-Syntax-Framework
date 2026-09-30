@@ -105,3 +105,70 @@ When decoupled from phonetic assumptions, isolated textual tokens near structura
 
 Under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** legal code, any utilize, derivation, reference, or expansion of this algorithmic model in academic publications, AI testing, or cryptographic decoders **must explicitly credit the original author**:
 **Juho Laakso (Paimio, Finland)**
+
+
+# 🚀 Release Notes: Voynich Manuscript Functional Syntax Framework (VFSF-1.6.1)
+**Author:** Juho Laakso (Paimio, Finland)  
+**Date:** October 1, 2026  
+**License:** Creative Commons Attribution 4.0 International (CC BY 4.0)  
+**Status:** Unified Pictographic-Ideographic Matrix & Empirical Multi-Page Validation
+
+---
+
+## 1. Executive Architecture Refinement
+The VFSF model has been upgraded from a static token-mapping system to a **dynamic, position-dependent, pictographic-ideographic process control language**. Under Version 1.6, the universal structural array remains non-phonetic and mathematically locked:
+
+`[ PREFIX (Operational Quality) ] + [ INFIX (Duration/Multiplier) ] + [ ROOT / CHANNEL STATE ] + [ SUFFIX (State Locking / Flag) ]`
+
+This update officially decouples terminal markers into functional variables and introduces structural channel states, shifting the framework from legacy word-matching into a fully modular state-machine.
+
+---
+
+## 2. Advanced Component Core Matrix (Expanded Definitions)
+
+### A. Independent Channel States & Multipliers
+The core tokens `-ain` and `-aiin` are verified as autonomous systemic environments that casts the operational prefix into a physical matrix:
+*   **`-ain` -> Open Flow Conduit / Low-Pressure Matrix:** Defines unresisted, gravity-driven or uniform progression (e.g., open sap-tapping gutters, collecting troughs, non-sealed vats).
+*   **`-aiin` -> Pressurized Enclosed System / High-Intensity Matrix:** Utilizing the internal loop doubling (`ii`), this state represents constrained fluid dynamics, pressurized conduit routing, or specialized closed-loop processing.
+
+### B. Syntactic Operators & Flags (From Concept-Symbol Library 1.0)
+*   **`old` / `oldy` / `edy` -> Dynamic Olomuoto Generator (Active State Operator):** Converts an abstract semantic archetype into an active physical state of matter or ongoing process (e.g., the thermal core `cthy` [heat] + `edy` = `cthedy` -> *Active Caloric State / Stewing*).
+*   **`-g` / `-damg` / `-dlyg` -> Inert Solid Residue (Stop Flag):** A boolean flag indicating the absolute termination of a physical cycle, representing dry spent matter or non-reactive bottom sediment.
+*   **`-am` / `-amam` -> Sequential Continuity Link:** Directs the process flow to chain instantly into the subsequent node without system delay.
+
+---
+
+## 3. Pictographic Sign-Form Verification (Brushstroke Anomalies)
+To support empirical repeatability and prevent phonetic confirmation bias, the structural syntax has been cross-referenced with the original ink brushstrokes from the manuscript scans. Characters are identified as stylized technical drawings (pictograms) mimicking the plumbing layout:
+
+1.  **Gallows Characters (`k`, `t`, `p`, `f`):** Visually resemble vertical pressure shafts or valve assemblies. Single loops indicate a single-line block/initiation; double loops (e.g., `f-` = filtration/purging) indicate multi-path physical separation checkpoints.
+2.  **Bench/Conduit Characters (`ch`, `sh`, `cth`):** Visually depict the profile of an open horizontal gutter or trough. When enclosed with an upper arc loop (`cth-`), it represents a **Thermal Hood / Distillation Cap** designed to trap steam and caloric energy (`cthy` = thermal processing).
+3.  **Terminal Flow Tails (`-m`):** Visually mimic a downward drainage pipeline dropping below the baseline row, matching its functional role as a sequential continuity controller (`-am`).
+
+---
+
+## 4. Empirical Blind Testing & Stress Testing Logs
+
+### Test A: Unified Fluid-Harvesting Sequence (The Zodiac-Mahlakierre)
+Comparative testing across three randomized "Zodiac" segments confirms a continuous, seasonal process manual (e.g., spring sap-extraction, tracking, and final container batching) rather than static astrology:
+*   **Pisces Cycle Segment (`f70v2.1`):** `okcheo.dar.otey.ykeey.tchy.otsheo.oteotey`
+    *   *Operational Code:* Allow pressure to stabilize passively in open flow (`okcheo`) -> direct operation to the primary extraction basin (`dar`) -> calibrate absolute macrocycle duration (`otey`) -> initiate system duration runtime loop (`ykeey`) -> execute controlled adjustment loop at connection node (`tchy`) -> calibrate operator-controlled open flow timing (`otsheo`) -> activate the rotational inner-rim volvelle cycle duration (`oteotey`).
+*   **Aries Cycle Segment (`f70v1.1`):** `dalalody.oteoshey.okoksheo.shokey`
+    *   *Operational Code:* Enforce high-intensity pressurized upward vector pumping at local node (`dalalody`) -> calibrate absolute macrocycle for iteration descent adjustment (`oteoshey`) -> apply double high-pressure coefficient to stabilize the open flow conduit (`okoksheo`) -> execute operator-controlled pressure cycle (`shokey`).
+    *   *Systemic Logic:* Matches the peak hydrostatic extraction pressure required to force deep sap upwards from the source matrix against gravity during early spring.
+*   **Taurus Cycle Segment (`f71v.1`):** `oteeodaiin.she.ateey.dain.oteokeey.dal.al`
+    *   *Operational Code:* Calibrate absolute flow macrocycle under prolonged duration until final structural halt/lock is achieved (`oteeodaiin` - batch collection complete) -> execute brief controlled adjustment (`she`) -> define solid-state basin baseline iteration duration (`ateey`) -> transition altered matter into open channel for link routing (`dain`) -> calibrate absolute cycle duration for pressurized kiertolukitus (`oteokeey`) -> initiate pressurized upward vector pumping (`dal`) -> continue upward vector flow (`al`).
+    *   *Systemic Logic:* Progresses logically from initial collection into stable storage vats, managing settled sediments (`ateey`), and low-intensity batch transfer.
+
+### Test B: Hapax Legomena Control & Node Label Verification (Page f67r2 & f75v)
+The framework was cross-tested against `dolchsody`, a high-anomaly compound appearing **only once** in the entire manuscript context:
+*   **Token Isolation (`dolchsody`):** `dol-` (descending vector) + `-ch-` (controlled gating) + `-shod-` (sedimentation/stratification) + `-dy` (phase anchor).
+    *   *Systemic Translation:* *Controlled gravity-descent sedimentation lock at local node.*
+*   **Visual-Textual Synthesis:** On page `f75v` (biological conduit network), this unique token maps precisely to a structural node where the pipeline drops down a level. On page `f67r2` (schematic volvelle wheel), it sits at sector 10:30, providing a precise operational manual for the operator to slow down the fluid descent using the rotational wheel to allow solid-state separation before venting.
+
+---
+
+## 5. Peer Review & Attribution Requirements
+Any adaptation, machine-learning replication, compilation into algorithmic decoders, or reference to this VFSF structural matrix in academic, digital, or cryptographic publications **must provide full attribution under the CC BY 4.0 legal code to the original author**:
+**Juho Laakso (Paimio, Finland)**
+
