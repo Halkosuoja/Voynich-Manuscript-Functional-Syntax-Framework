@@ -60,5 +60,48 @@ The model has been mathematically validated via programmatic cross-page testing:
 ## 4. Open-Source Contribution & Legal Attribution
 This project is deployed as an open framework. Researchers, cryptographers, and data scientists are invited to map out further roots utilizing this structural architecture. 
 
+# 🚀 Release Notes: Voynich Manuscript Functional Syntax Framework (VFSF-1.6)
+**Author:** Juho Laakso (Paimio, Finland)  
+**Date:** October 1, 2026  
+**Status:** Architecture Refinement & Multi-Page Empirical Validation
+
+## 1. Architectural Expansion: Decoupling of Channel States (`-ain` / `-aiin`)
+Through rigorous regression testing in the hydrodynamic (biological) and schematic profiles, the terminal state terminators have been refactored. The core tokens `-ain` and `-aiin` are no longer treated as static suffix extensions, but as **independent systemic channel states** that operate dynamically with operational prefixes:
+
+*   **`-ain` -> Open Flow Channel / Low-Pressure System:** Represents a state where the matter/fluid moves freely under its own gravity or uniform progression (e.g., sap-tapping channels, open conduits, collecting vats).
+*   **`-aiin` -> Pressurized-Closed Channel / High-Intensity System:** Adhering to the Infix Multiplier Rule, the doubled internal token `ii` functions as an intensity coefficient, changing the channel quality from a free conduit into a tightly pressurized or enclosed system.
+
+### Functional Matrix Mapping Examples:
+*   `ol-` (passive state) + `-ain` (open channel) -> **`olain`**: The channel is open, allowing fluid to flow passively under its own weight.
+*   `qok-` (external force) + `-ain` (open channel) -> **`qokain`**: Active command to enforce/accelerate flow through the open main conduit.
+*   `or-` (discharge route) + `-aiin` (enclosed system) -> **`oraiin`**: Execute fluid evacuation under high pressure or via a closed specialized pipeline.
+
+---
+
+## 2. Real-Time Blind Testing & Empirical Falsification
+To eliminate verification bias, the updated matrix (VFSF-1.6) was tested against three unanalyzed, randomized sequences across different structural and macrocycle contexts. The framework yielded programmatic and structurally continuous results without breaking the rigid syntax array:
+
+### Test A: Distillation/Extraction Cycle Loop (Page f102r1.13-14)
+*   **Sequence 13:** `teesody.qoeol.olcheor.qokey.okshey.qokeol.sheofol{ckhh}y`
+    *   *Systemic Translation:* Initialize loop tracked by iteration counter and duration extender at local node (`teesody`) -> enforce high pressure to descend fluid (`qoeol`) -> execute passive discharge under operator control (`olcheor`) -> force mechanical loop circulation (`qokey`) -> allow passive extraction during runtime loop (`okshey`) -> enforce gravity descent to the next phase (`qokeol`) -> direct controlled fluid evacuation into the structural boundary/valve checkpoint (`sheofol{ckhh}y`).
+*   **Sequence 14 (Continuous Phase Alteration):** `doeey.keeol.qokeo.daor.shey.qoteol.okol`
+    *   *Systemic Translation:* Maintain phase alteration under prolonged duration at local node (`doeey` - signaling a successful state transition/condensation) -> continue prolonged descent iteration (`keeol`) -> enforce fluid descent through open conduit (`qokeo`) -> direct altered matter to settle at the basin/solid-state bottom for discharge (`daor`) -> execute controlled adjustment loop (`shey`) -> calibrate absolute macrocycle boundary for this descent (`qoteol`) -> allow passive structural settling at the loop termination (`okol`).
+
+### Test B: Macrocycle Profile Cross-Examination (Page f70v1 - Aries & Page f71v - Taurus)
+A strict comparative test between the traditional "Aries" and "Taurus" profiles revealed a programmatic progression rather than redundant phonetic text, validating a dynamic fluid-harvesting timeline (e.g., sap-tapping and stabilization):
+*   **Aries Sequence (`f70v1.1`):** `dalalody.oteoshey.okoksheo.shokey`
+    *   *Systemic Translation:* Execute high-intensity pressurized upward vector pumping at local node (`dalalody`) -> calibrate absolute macrocycle for iteration descent adjustment (`oteoshey`) -> apply double high-pressure coefficient to stabilize the open flow conduit (`okoksheo`) -> execute operator-controlled pressure cycle (`shokey`). 
+    *   *Context Match:* Reflects high system pressure designed to force fluids upwards against gravity (matching the early sap-extraction phase where internal natural pressure forces fluid release).
+*   **Taurus Sequence (`f71v.1`):** `oteeodaiin.she.ateey.dain.oteokeey.dal.al`
+    *   *Systemic Translation:* Calibrate absolute flow macrocycle under prolonged duration until final structural halt/lock is achieved (`oteeodaiin` - batch collection complete) -> execute brief controlled adjustment (`she`) -> define solid-state basin baseline iteration duration (`ateey`) -> transition altered matter into open channel for link routing (`dain`) -> calibrate absolute cycle duration for pressurized kiertolukitus (`oteokeey`) -> initiate pressurized upward vector pumping (`dal`) -> continue upward vector flow (`al`).
+    *   *Context Match:* Transitions logically from high initial extraction pressure (Aries) into batch finalization, basin-settling tracking (`ateey`), and low-intensity redirection (Taurus).
+
+---
+
+## 3. Structural Component Analysis (Labels/Nymphese)
+When decoupled from phonetic assumptions, isolated textual tokens near structural map elements function strictly as functional labels defining the node's task within the workflow vector:
+*   **Page f71v Node Label (`ofairom` / `ofamom`):** `o-` (passive) + `-f-` (filtration) + `-air-` (open conduit flow) + `-om` (continuity) -> *Defines a passive filtration node within the open conduit line where fluids are routed for unassisted sedimentation.*
+
+
 Under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** legal code, any utilize, derivation, reference, or expansion of this algorithmic model in academic publications, AI testing, or cryptographic decoders **must explicitly credit the original author**:
 **Juho Laakso (Paimio, Finland)**
