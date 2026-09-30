@@ -41,9 +41,15 @@ To eliminate confirmation bias, variables are defined strictly by their abstract
 ### C. Infix Multipliers (Intensity Control)
 *   The appearance of `e` / `ee` / `eee` behaves strictly as a **Duration Extender** within the root core, resolving the manuscript's unnatural word repetitions mechanically (*"prolong the operational state"*).
 
-### D. Suffix Functional Punctuation
-*   `...daiin` -> **Final Lock [return 0]:** End point reached, phase execution complete.
-*   `...dain` -> **Transition Link:** Evaluates the current state and passes the value to the subsequent node (`chal` -> `al.sheky`).
+### D. Suffix & Functional Punctuation Decoupling
+Through rigorous morphological analysis, terminal markers are decoupled into functional switches and universal state terminators:
+*   **Universal State Terminators (`-aiin` / `-ain`):**
+    *   `-aiin` -> **Final Lock [return 0]:** End point reached, complete structural halt and extraction.
+    *   `-ain` -> **Interlocking State / Wait:** Phase complete within the current node, remaining in standby for the next macro-trigger.
+*   **Functional Suffix Switches (Prefixing the Terminator):**
+    *   `d-` + `-aiin` (`daiin`) -> **Conversion Lock:** Phase alteration successfully completed and locked (`d` = conversion).
+    *   `s-` + `-aiin` (`saiin`) -> **Regulation Lock:** Controlled stabilization phase successfully reached and locked (`s`/`sh` = regulation).
+    *   `ch-` + `-aiin` (`chaiin`) -> **Channel Lock:** Active fluid evacuation route successfully closed and locked.
 
 ## 3. Real-Time Empirical Validation (Three-Step Contrast Test)
 The model has been mathematically validated via programmatic cross-page testing:
