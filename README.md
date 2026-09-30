@@ -166,6 +166,15 @@ The framework was cross-tested against `dolchsody`, a high-anomaly compound appe
     *   *Systemic Translation:* *Controlled gravity-descent sedimentation lock at local node.*
 *   **Visual-Textual Synthesis:** On page `f75v` (biological conduit network), this unique token maps precisely to a structural node where the pipeline drops down a level. On page `f67r2` (schematic volvelle wheel), it sits at sector 10:30, providing a precise operational manual for the operator to slow down the fluid descent using the rotational wheel to allow solid-state separation before venting.
 
+  ### Test C: Terminal Execution & System Shutdown (Page f116v - Back Cover)
+To verify chronological completion, the final Voynich token string on the absolute last line of the manuscript was subjected to VFSF-1.6 decryption. Rather than a random incantation, the sequence resolves as a rigid systemic cooldown:
+*   **Final Text Isolation (`f116v.1`):** `oror.sheey`
+*   **Token Decomposition:** `-or-or` (double discharge/evacuation vector) + `sh-ee-y` (prolonged regulated stabilization / equilibrium latch).
+    *   *Systemic Translation:* **System Evacuation Completed -> Machine Enforced to Permanent Equilibrium (Lepotila/Shutdown).**
+*   **Marginalia Cross-Test:** The surrounding Latin characters function as structural pipeline couplers (`+` = connection operators), terminating in rigid **`x`** cross-markers (`fix`, `marix`, `mocix`). These glyphs act as an exact graphic analog to the VFSF `zar` emergency stop-latch, marking specific fluid lines as physically closed and sealed.
+
+---
+
 ---
 
 ## 5. Peer Review & Attribution Requirements
