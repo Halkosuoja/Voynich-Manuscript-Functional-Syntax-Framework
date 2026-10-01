@@ -182,3 +182,40 @@ To verify chronological completion, the final Voynich token string on the absolu
 Any adaptation, machine-learning replication, compilation into algorithmic decoders, or reference to this VFSF structural matrix in academic, digital, or cryptographic publications **must provide full attribution under the CC BY 4.0 legal code to the original author**:
 **Juho Laakso (Paimio, Finland)**
 
+## 📌 Addendum VFSF-1.6.2: Dual-Language Convergence Proof (Page f116v)
+**Author:** Juho Laakso (Paimio, Finland)  
+**Date:** October 1, 2026  
+**License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+### 1. The Phenomenon of Meta-Level Structural Commentary
+A critical linguistic breakthrough has been achieved regarding the dual nature of the manuscript's back cover (`f116v`). While the VFSF framework strictly models Voynichese as a deterministic, non-spoken process control language, the absolute terminal line of the manuscript demonstrates a profound **Dual-Language Convergence (Dual Verification)**. 
+
+The author has discovered that the handwritten Latin Marginalia at the top of the folio and the pure Voynichese string at the bottom converge onto the exact same semantic and systemic outcome: **The permanent shutdown and operational closure of both the physical machinery and the physical writing task.**
+
+---
+
+## 2. Mathematical & Semantic Cross-Verification
+
+The two distinct layers on page f116v execute a "dual-key" confirmation system, translating the same operational finish line through two completely independent mediums:
+
+### A. The Natural Language Layer (Latin Marginalia)
+*   **Key Token:** `fix` (From the Latin *fixus* / *figere*)
+*   **Linguistic Meaning:** *"Fixed", "Fastened", "Closed"* or *"Brought to a permanent completion"*. 
+*   **Systemic Execution:** The scribe notes in their common literate language that the specific operational batch or the physical writing assignment is officially completed and locked. This is visually driven home by the sharp **`x`** cross-latches (`fix`, `marix`, `mocix`) acting as manual stop-valves.
+
+### B. The Process Control Layer (Voynichese VFSF-1.6 Matrix)
+*   **Key Token String:** `oror.sheey`
+*   **Algorithmic Translation:** `-or-or` (double discharge/evacuation vector) + `sh-ee-y` (prolonged regulated stabilization / equilibrium latch).
+*   **Systemic Execution:** **System Evacuation Completed -> Machine Enforced to Permanent Equilibrium (Lepotila/Shutdown).**
+
+---
+
+## 3. Cryptographic and Methodological Significance
+This convergence is a powerful defense against programmatic hallucination and confirmation bias. If the VFSF matrix were a product of coincidental pattern-matching, a randomized test on a rare terminal sequence (`oror.sheey`) would yield an unrelated or non-sensical pipeline state. 
+
+Instead, the mechanical architecture yields a strict **System Shutdown** command that mirrors the natural Latin notation `fix` directly above it. The author notes that in medieval operational philosophy, the flow of ink/text and the flow of physical matter (such as sap-processing and distillation) were often conceptualized via identical fluid dynamics. The scribe masterfully utilized the matrix to execute a dual-layered sign-off: the mechanical fluids have been drained, and the text has been successfully poured onto the vellum.
+
+---
+### Attribution Notice
+This dual-convergence discovery and its integration into the VFSF architecture are the intellectual priority of **Juho Laakso (Paimio, Finland)**. Any cryptographic replication or reference must preserve this attribution under CC BY 4.0.
+
