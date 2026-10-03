@@ -1,0 +1,1001 @@
+C:\Temp\voynich_interpreter_16>python voynich_batch_translator.py
+================================================================================
+VOYNICH AUTOMATED BATCH TRANSLATOR — VFSF-1.6.2 PRODUCTION OUTPUT
+Author: Juho Laakso, Paimio (Finland)
+================================================================================
+
+BATCH RECORD #1
+NODE LOCATION: <f13r.10,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Mechanical-Extraction/Isolation @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #2
+NODE LOCATION: <f15v.1,@P0>
+  PROCESS CHAIN:
+    [Initial-Activation -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Phase-Alteration/Conversion -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ [NODE-ANCHOR]]
+================================================================================
+BATCH RECORD #3
+NODE LOCATION: <f16r.10,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Phase-Alteration/Conversion -> Active-Pressure-Pumping-Upward @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #4
+NODE LOCATION: <f17r.7,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Intense-Force/Pressure -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Controlled-Adjustment-Phase -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Continuous -> Conduit-Conveyance/Discharge @ [NODE-ANCHOR]]
+================================================================================
+BATCH RECORD #5
+NODE LOCATION: <f28r.5,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle -> Conduit-Conveyance/Discharge @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Mechanical-Extraction/Isolation @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #6
+NODE LOCATION: <f36r.7,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Mechanical-Extraction/Isolation @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #7
+NODE LOCATION: <f37v.11,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] -> [CLOSED-LOCK-COMPLETE]
+================================================================================
+BATCH RECORD #8
+NODE LOCATION: <f56v.1,@P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix-Continuous -> Mechanical-Extraction/Isolation @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Free-Flow/Descending-Vector @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Critical-Safety-Latch/Intercept @ Default-Flow-Matrix] ->
+    [Intense-Force/Pressure -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #9
+NODE LOCATION: <f67r2.15,+L0>
+  PROCESS CHAIN:
+    [Phase-Alteration/Conversion -> Undefined-Target @ [NODE-ANCHOR]]
+================================================================================
+BATCH RECORD #10
+NODE LOCATION: <f78r.46,@Lt>
+  PROCESS CHAIN:
+    [Absolute-Time/Macrocycle -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #11
+NODE LOCATION: <f81r.18,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix-Prolonged -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Controlled-Adjustment-Phase-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Passive-Natural-State -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix-Prolonged -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #12
+NODE LOCATION: <f82r.40,*Ln>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #13
+NODE LOCATION: <f84r.46,+P1>
+  PROCESS CHAIN:
+    [Phase-Alteration/Conversion-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Intense-Force/Pressure-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Static-Container/Basin @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ [NODE-ANCHOR]]
+================================================================================
+BATCH RECORD #14
+NODE LOCATION: <f84v.23,+P0>
+  PROCESS CHAIN:
+    [Intense-Force/Pressure-Prolonged -> Critical-Safety-Latch/Intercept @ Default-Flow-Matrix] ->
+    [Passive-Natural-State -> Mechanical-Extraction/Isolation @ Pressurized-Closed-Conduit] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #15
+NODE LOCATION: <fRos.133,@Cc>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Basal-Stratum/Concentrate-Sediment @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Basal-Stratum/Concentrate-Sediment @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Static-Container/Basin @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Mechanical-Extraction/Isolation @ Pressurized-Closed-Conduit] ->
+    [Unassigned-Prefix-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Free-Flow/Descending-Vector @ Default-Flow-Matrix] -> [CLOSED-LOCK-COMPLETE] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle -> Static-Container/Basin @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Undefined-Target @ [CONTINUITY-LINK]] ->
+    [Controlled-Adjustment-Phase-Continuous -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle-Continuous -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Boundary-Setting/Gated-Valve @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle -> Free-Flow/Descending-Vector @ [NODE-ANCHOR]] ->
+    [Absolute-Time/Macrocycle -> Active-Pressure-Pumping-Upward @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Active-Pressure-Pumping-Upward @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Passive-Natural-State -> Basal-Stratum/Concentrate-Sediment @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ Default-Flow-Matrix] -> [CLOSED-LOCK-COMPLETE] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #16
+NODE LOCATION: <f86v6.38,+P0>
+  PROCESS CHAIN:
+    [Initial-Activation -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Passive-Natural-State -> Undefined-Target @ Pressurized-Closed-Conduit] ->
+    [Unassigned-Prefix-Continuous -> Boundary-Setting/Gated-Valve @ Default-Flow-Matrix] ->
+    [Passive-Natural-State-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Undefined-Target @ Pressurized-Closed-Conduit] ->
+    [Passive-Natural-State -> Undefined-Target @ [CONTINUITY-LINK]]
+================================================================================
+BATCH RECORD #17
+NODE LOCATION: <f88r.16,@Lf>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #18
+NODE LOCATION: <f99v.21,@P0>
+  PROCESS CHAIN:
+    [Phase-Alteration/Conversion -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Prolonged -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Basal-Stratum/Concentrate-Sediment @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Continuous -> Free-Flow/Descending-Vector @ Default-Flow-Matrix] -> [REGULATION-LOCK-COMPLETE] ->
+    [Absolute-Time/Macrocycle -> Conduit-Conveyance/Discharge @ Pressurized-Closed-Conduit] ->
+    [Controlled-Adjustment-Phase-Continuous -> Critical-Safety-Latch/Intercept @ Default-Flow-Matrix] ->
+    [Passive-Natural-State -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #19
+NODE LOCATION: <f101v.19,@P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix-Continuous -> Uniform-Drainage/Passive-Flow @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Physical-Filtration/Purging -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle -> Mechanical-Extraction/Isolation @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Pressurized-Closed-Conduit] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] -> [ROUTING-LINK-FORWARD]
+================================================================================
+BATCH RECORD #20
+NODE LOCATION: <f102v2.3,@Lf>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #21
+NODE LOCATION: <f104v.27,+P0>
+  PROCESS CHAIN:
+    [Initial-Activation -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Free-Flow/Descending-Vector @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Free-Flow/Descending-Vector @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Free-Flow/Descending-Vector @ Default-Flow-Matrix] ->
+    [Intense-Force-Isolation-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Controlled-Adjustment-Phase -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Pressurized-Closed-Conduit] ->
+    [Controlled-Adjustment-Phase -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Pressurized-Closed-Conduit] ->
+    [Unassigned-Prefix -> Active-Pressure-Pumping-Upward @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #22
+NODE LOCATION: <f106v.7,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Controlled-Adjustment-Phase -> Undefined-Target @ Open-Flow-Channel] ->
+    [Controlled-Adjustment-Phase -> Free-Flow/Descending-Vector @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Mechanical-Extraction/Isolation @ Open-Flow-Channel] ->
+    [Controlled-Adjustment-Phase -> Undefined-Target @ Pressurized-Closed-Conduit] ->
+    [Unassigned-Prefix -> Undefined-Target @ Pressurized-Closed-Conduit] ->
+    [Controlled-Adjustment-Phase -> Static-Container/Basin @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Active-Pressure-Pumping-Upward @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #23
+NODE LOCATION: <f107r.16,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Passive-Natural-State-Prolonged -> Mechanical-Extraction/Isolation @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Undefined-Target @ Pressurized-Closed-Conduit] ->
+    [Absolute-Time/Macrocycle -> Basal-Stratum/Concentrate-Sediment @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Critical-Safety-Latch/Intercept @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle -> Undefined-Target @ [CONTINUITY-LINK]]
+================================================================================
+BATCH RECORD #24
+NODE LOCATION: <f112v.10,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] -> [ROUTING-LINK-FORWARD] ->
+    [Controlled-Adjustment-Phase-Prolonged -> Critical-Safety-Latch/Intercept @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Continuous -> Mechanical-Extraction/Isolation @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #25
+NODE LOCATION: <f113v.12,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Absolute-Time/Macrocycle-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Basal-Stratum/Concentrate-Sediment @ Default-Flow-Matrix] ->
+    [Passive-Natural-State-Continuous -> Critical-Safety-Latch/Intercept @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #26
+NODE LOCATION: <f113v.17,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Basal-Stratum/Concentrate-Sediment @ Pressurized-Closed-Conduit] ->
+    [Controlled-Adjustment-Phase-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Passive-Natural-State -> Basal-Stratum/Concentrate-Sediment @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Pressurized-Closed-Conduit] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Pressurized-Closed-Conduit] ->
+    [System-Runtime/Internal-Duration-Prolonged -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #27
+NODE LOCATION: <f116v.1,@Lx>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Prolonged -> Critical-Safety-Latch/Intercept @ Default-Flow-Matrix]
+================================================================================
+
+C:\Temp\voynich_interpreter_16>python voynich_stress_tests.py
+================================================================================
+STRESS TEST A: QUANTITATIVE VECTOR DIRECTION ANALYSIS (-dal- vs -dol-)
+================================================================================
+
+CONTEXT PROFILE: ARIES
+  Active Upward Vector (-dal-): 8 counts (100.0%)
+  Passive Descending Vector (-dol-): 0 counts (0.0%)
+--------------------------------------------------
+CONTEXT PROFILE: TAURUS
+  Active Upward Vector (-dal-): 7 counts (100.0%)
+  Passive Descending Vector (-dol-): 0 counts (0.0%)
+--------------------------------------------------
+CONTEXT PROFILE: BIOMED
+  Active Upward Vector (-dal-): 150 counts (67.6%)
+  Passive Descending Vector (-dol-): 72 counts (32.4%)
+--------------------------------------------------
+
+================================================================================
+STRESS TEST B: TERMINAL STOP-FLAG LOCATOR (-g / -damg / -dlyg)
+================================================================================
+
+MATCH FOUND AT <Unknown>: ['resembling']
+  RAW LINE: # resembling an underlined 29 (commented as @254; )
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['cutting']
+  RAW LINE: # Two paragraphs of text, plant cutting through middle
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f3r.1,@P0>: ['daimg']
+  RAW LINE: <f3r.1,@P0>       <%>tsheos.qopal.chol.cthol.daimg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f3r.4,+P0>: ['chag']
+  RAW LINE: <f3r.4,+P0>       schey.chor.chal.chag.cham.cho
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f3r.16,+P0>: ['soleeg']
+  RAW LINE: <f3r.16,+P0>      oteol.chol.s.cheol.ekshy.qokeom.qokol.daiin<->soleeg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['climbing']
+  RAW LINE: # Plant ID: Convulvula Ipomea? (climbing plant)
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f4v.9,+P0>: ['cheog']
+  RAW LINE: <f4v.9,+P0>       qooko,iiin,cheog.chcthy.shoky.daiin
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f5v.2,+P0>: ['ychopordg']
+  RAW LINE: <f5v.2,+P0>       dchol.{c'y}.chol.otaiin.dain.cthor.chots.ychopordg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f5v.6,+P0>: ['dairodg']
+  RAW LINE: <f5v.6,+P0>       otol.chol.dairodg<$>
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['wrong']
+  RAW LINE: # Plant ID: Asclepiades, but with wrong leaves (of Pediculum)
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['cutting']
+  RAW LINE: # One paragraph with 14 lines, plant cutting through
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f8r.10,+P0>: ['dairg']
+  RAW LINE: <f8r.10,+P0>      daiin.cheey.teeodan.dy<->cheocthy.oksheo.dol.dairg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f8r.13,=Pt>: ['okokchodg']
+  RAW LINE: <f8r.13,=Pt>      okokchodg<$>
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['gathering', '13mg']
+  RAW LINE: # gathering mark 1: 13mg (Primus)
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f11v.6,=P0>: ['arg']
+  RAW LINE: <f11v.6,=P0>      soydy.qoteey.qot.chor.dy.ddy<->cthor.shy,arg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['missing']
+  RAW LINE: # Folio 12 is missing. Its stub is still visible.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f13r.1,@P0>: ['dchg']
+  RAW LINE: <f13r.1,@P0>      <%>torshor.opchy.shol.dy.qopchy.shol.opchor.dypchy.dchg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f14r.12,+P0>: ['chodalg']
+  RAW LINE: <f14r.12,+P0>     oeeeb.chey.keor.chey.tchyky<->chodalg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f14v.9,+P0>: ['ctholdg']
+  RAW LINE: <f14v.9,+P0>      dykchy.ctholdg<->dchckhy<$>
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['gathering']
+  RAW LINE: # gathering  mark 2: 29
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['writing']
+  RAW LINE: # has extraneous writing on top of page
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f17r.1,@P0>: ['chog']
+  RAW LINE: <f17r.1,@P0>      <%>fshody.daram.ydar,chog.opydy.ypod.chop.otchy.dody.oldckhy
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f17r.4,+P0>: ['opydg']
+  RAW LINE: <f17r.4,+P0>      <%>tcho@154;.shol.qokol.qor.olaiin.opydg<->som.ypchy.ypaim
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f17r.6,+P0>: ['cheteg']
+  RAW LINE: <f17r.6,+P0>      tsho.qof,cho.qokcheor.cheteg<$>
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f17v.3,+P0>: ['oldaig']
+  RAW LINE: <f17v.3,+P0>      oldaig.odaiin.okal.oldaiin.chockhol.olol
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f18r.3,+P0>: ['ytcharg']
+  RAW LINE: <f18r.3,+P0>      qokchor.chor.{c@139;h}{@246;k}ey.or,chey.qokchol.dy<->ytcharg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['fsg']
+  RAW LINE: # Same plant as f102r2[3,1] ? (FSG, Stolfi)
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f18v.1,@P0>: ['ytdg']
+  RAW LINE: <f18v.1,@P0>      <%>told.shor.ytshy.otchdal.dchal.dchy.ytdg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['fsg']
+  RAW LINE: # Same plant as f102r2[3,1] (FSG, GL)
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f23r.7,+P0>: ['alg']
+  RAW LINE: <f23r.7,+P0>      okar.olchar.shaiin.qokchol.dar.qokchol.dairo.r.ol.daiin.alg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f23v.2,+P0>: ['otchg']
+  RAW LINE: <f23v.2,+P0>      qot{co}tor.chy.okchaldy.qokchey.dol<->otchol.chal.otchg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f23v.3,+P0>: ['qotcholg']
+  RAW LINE: <f23v.3,+P0>      ycho.okaiin.okeol.eees.o,l.daiin.okeeor<->daiin.qotcholg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f23v.7,+P0>: ['ylg']
+  RAW LINE: <f23v.7,+P0>      otor.oiin.sho.shol.qokol.daiin<->sol.daiin.ylg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['gathering']
+  RAW LINE: # gathering mark 3
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f27r.9,+P0>: ['tolg']
+  RAW LINE: <f27r.9,+P0>      dchey.keeod.shotchey.chol.oty<->chy,tolg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f27v.4,+P0>: ['cheesg']
+  RAW LINE: <f27v.4,+P0>      okcho.chy.kch[ee:o]d.chl.chol.kod<->o.oksho.do,cheesg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['gathering']
+  RAW LINE: # gathering mark 4
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['fsg']
+  RAW LINE: # Same plant as f102r2[1,2] ? (FSG, Stolfi)
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f32v.5,+P0>: ['dosg']
+  RAW LINE: <f32v.5,+P0>      chokchy.daiin.shy.chor.qo.kaiin.dain<->dchol.dosg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f39r.4,+P0>: ['okalcheg']
+  RAW LINE: <f39r.4,+P0>      tchedy.chdy.olaiin.chedy.shckhdchy.chol.or.ordy.chees.aly.okalcheg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f39r.8,+P0>: ['daisog']
+  RAW LINE: <f39r.8,+P0>      lchedy.shedy.qokaiin.chkeey.fchedy.okam.ch{cfhh}y.saiin.chckhy.daisog
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ag']
+  RAW LINE: # Plant ID: Primulaceon(?) (ag arthritis)
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f40r.8,+P0>: ['dg']
+  RAW LINE: <f40r.8,+P0>      <%>ksheo.keeey.dar.ai[g:m]<->kcheo.cfhdy.or,ain.chefal.daiin.dg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['gathering']
+  RAW LINE: # gathering mark 5
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f41r.10,+P0>: ['qokeg']
+  RAW LINE: <f41r.10,+P0>     sshok.shedy.qekchdy.dchdaldy<->ykedy.qokeedy.qokedy.qokeg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['visicating']
+  RAW LINE: # Plant ID: Tropical Arum sagittarium visicating,
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f42v.4,+P0>: ['dg']
+  RAW LINE: <f42v.4,+P0>      qotchy.chkchy.sar.dy<->odaiil<->ykchy.o,kol,dg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f45v.6,+P0>: ['cheg']
+  RAW LINE: <f45v.6,+P0>      ?s,aiin.cphor.qok{cy}.tod<->ytchdy.dy<->dy.cheg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['along']
+  RAW LINE: # Plant ID: Boragine, Anchusa (has red mark along top of roots)
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f47r.5,+P0>: ['chokolg']
+  RAW LINE: <f47r.5,+P0>      dain.olshey.chokolg<$>
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['gathering']
+  RAW LINE: # gathering mark 6
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f48v.7,+P0>: ['cpheeg']
+  RAW LINE: <f48v.7,+P0>      <%>pchedar.chey<->ypchedy.otedy.shef,eeedy.al<->shedy.otedy.fcheodal.cpheeg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['starting']
+  RAW LINE: # the 1st paragraph, starting from line 2.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f49v.24,=P0>: ['chokag']
+  RAW LINE: <f49v.24,=P0>     ochokeey.ckhey.daiin.dain.chokag
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f49v.32,=P0>: ['dchog']
+  RAW LINE: <f49v.32,=P0>     tchotchey.chokeeodol.rcheey.otchodar<->dcho.dchog
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f51v.4,+P0>: ['shokog']
+  RAW LINE: <f51v.4,+P0>      otaiin.qodal.yt[o:a]l.cheodar.s,ody<->oteo,daiin.shokog
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f52v.5,+P0>: ['sarg']
+  RAW LINE: <f52v.5,+P0>      yteey.cthor,cheo[s:r].cpheodar.dy<->sarg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f52v.13,+P0>: ['daiig']
+  RAW LINE: <f52v.13,+P0>     yk[o:a]r.okaiiin.ckheeey.daiig
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['fsg']
+  RAW LINE: # not found in FSG item 1609
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f56r.16,+P0>: ['rg']
+  RAW LINE: <f56r.16,+P0>     qotchy.chody.ctho,r.chey.kch[a:o]rg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['gathering']
+  RAW LINE: # gathering mark 7
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f57r.7,+P0>: ['okaldg']
+  RAW LINE: <f57r.7,+P0>      daii[s:r].sheedy.qokeedy.chetey<->oteeod.shekey.tedy.okaldg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['writing']
+  RAW LINE: # has extraneous writing ==> Saturn symbol in lower right corner
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring']
+  RAW LINE: # of characters. Outside outer ring one word (@L0) possibly
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['meaning', 'ring']
+  RAW LINE: # meaning 'start here'. Inside innermost ring 8 labels,
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f58v.6,+P0>: ['org']
+  RAW LINE: <f58v.6,+P0>      qokair.ar.aly.sho[r:s].daiin.choly.dal.ykaiin.org.fchey.okaly.oky
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f58v.31,+P0>: ['oetalchg']
+  RAW LINE: <f58v.31,+P0>     tcheor.chor.kar.okal.qokeey.qokal.shol.qokain.ar.oetalchg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['missing']
+  RAW LINE: # folios 59-64 are missing
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['facing']
+  RAW LINE: # appears as Plate II in Newbold facing p44.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['writing']
+  RAW LINE: # has non-Voynich writing
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['lying']
+  RAW LINE: # R In the bottom left hand corner, there is a picture of a woman lying down
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f66r.82,@Lx>: ['cheg']
+  RAW LINE: <f66r.82,@Lx>     otcheo,daiin.chty.ykees,cheg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['gathering']
+  RAW LINE: # gathering mark 8
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['writing']
+  RAW LINE: # Has extraneous writing
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['fsg']
+  RAW LINE: # Petersen had some problems with this page, and FSG also on locus 7
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f66v.10,+P0>: ['okag']
+  RAW LINE: <f66v.10,+P0>     dshal.keedy.qok,[o:y]r.okaiin.dol.kaldaiin.otal.dokal.okag
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['gathering']
+  RAW LINE: # Has gathering mark 9
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['starting']
+  RAW LINE: # Radii of the circle, clockwise, starting from the North
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['writing']
+  RAW LINE: # One outer circle in red ink, with 12 pieces of scattered writing in red ink.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['radiating']
+  RAW LINE: # From one of the star point there is a radiating dotted line that runs up
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring']
+  RAW LINE: # Outside ring, all in red ink:
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['starting']
+  RAW LINE: # Blocked text and individual words in sectors, starting at 10:00
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f67r2.40,+Pb>: ['og']
+  RAW LINE: <f67r2.40,+Pb>    yteos.oiin.og<$>
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f67r2.43,+Pb>: ['qsg']
+  RAW LINE: <f67r2.43,+Pb>    daiin.aiin.os.qsg<$>
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['following']
+  RAW LINE: # The following single line is in red ink
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['branching']
+  RAW LINE: # branching broccoli-like structure.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f67v2.7,@Pb>: ['daig']
+  RAW LINE: <f67v2.7,@Pb>     <%>taol.daig.sakar.dam
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['radiating']
+  RAW LINE: # Radiating texts.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f67v2.13,@Ro>: ['okydseog']
+  RAW LINE: <f67v2.13,@Ro>    okydseog.oeepoaly
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['radiating']
+  RAW LINE: # Inside are 17 lines of text radiating outward from the central
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['smiling']
+  RAW LINE: # Sun face, which is smiling. There are  39 stars, 3 of which are blue, the
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['being']
+  RAW LINE: # rest being yellow.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f67v1.1,@L0>: ['long']
+  RAW LINE: <f67v1.1,@L0>     damamm<!long tail m>
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['radiating', 'going', 'starting']
+  RAW LINE: # Radiating from central Sun, going clockwise, starting at 09:30
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f67v1.20,@Ro>: ['olcheeg']
+  RAW LINE: <f67v1.20,@Ro>    dcheeos.qokeeeody.eeis.olcheeg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f67v1.21,@Ro>: ['ypcheg']
+  RAW LINE: <f67v1.21,@Ro>    ykeeo.cheo.daiin.ypcheg.oty
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring']
+  RAW LINE: # the middle and a ring of Voynich text around the circumference.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring']
+  RAW LINE: # the middle and a ring of Voynich text around the circumference.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring']
+  RAW LINE: # Bottom ring of text
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['containing']
+  RAW LINE: # Moon face in centre, 8 segments around it, four containing
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring']
+  RAW LINE: # Locus C1 is one ring of text around the diagram.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['radiating', 'starting']
+  RAW LINE: # Radiating lines ordered cf. ThP, starting at 10:30
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f68r3.19,+Ls>: ['otydg']
+  RAW LINE: <f68r3.19,+Ls>    otydg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring']
+  RAW LINE: # Small ring of text around central moon face
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['starting']
+  RAW LINE: # Outer Circle, starting at the marker
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f68v3.5,@Cc>: ['akeg']
+  RAW LINE: <f68v3.5,@Cc>     <!08:30>oky.otol.ees.choty.cheda[s:r].otchdy.s.ar.oekaiin.oteol.dar.cheo.dais.qoeeo,kaiin.okchey.dal.cheky.ykos.[y:q]akeg.s.ol.ay.ykoees.yty.dy.dy.chody.otol.ol,ees.oty.dar.qotay.otoy.chey.kodar.dar.sheody.shees.daiin.oteeoaly.oteeosol.ol.okol.olsey.tol.cheol.okeey.choekcheey.okchy.qokchshy.dchol.chshek
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['spiralling', 'radiating']
+  RAW LINE: # Spiralling lines, transcribed as radiating. Clock position indicated is that
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['long']
+  RAW LINE: # of point at outer circle. 4 are long (up to central circe) and 4 are short
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f68v3.11,@Ri>: ['okeeg']
+  RAW LINE: <f68v3.11,@Ri>    ycheeo.key.qokal.okeeg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f68v3.12,@Ri>: ['dkeeeg']
+  RAW LINE: <f68v3.12,@Ri>    ochey.chekchy.dkeeeg.cheekey.teokechey.saiir
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f68v3.16,=L0>: ['opcholdg']
+  RAW LINE: <f68v3.16,=L0>    opcholdg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['radiating', 'starting']
+  RAW LINE: # Radiating text, clockwise, starting at 00:30
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['radiating', 'starting']
+  RAW LINE: # Radiating texts, starting point cf. ThP
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['radiating']
+  RAW LINE: # 'organ pipes' radiating out from a small circle with a star in the middle.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['using']
+  RAW LINE: # Large circle divided into 16 segments, using L loci
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['radiating', 'ordering']
+  RAW LINE: # Radiating lines on 'organ pipes'. Ordering cf ThP with indication
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['using']
+  RAW LINE: # Small circle, using small gap as start point
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['numbering']
+  RAW LINE: # In the centre...ThP's numbering
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['along', 'radiating']
+  RAW LINE: # 28 words along radiating segments
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['starting']
+  RAW LINE: # ThP's starting points are questionable in this case.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f70r2.3,+P1>: ['oteog']
+  RAW LINE: <f70r2.3,+P1>     ykeeo.y.s.ald.shey.cthy.shekey.qokal,aiir.oteog
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f70r2.5,+P1>: ['cheeog']
+  RAW LINE: <f70r2.5,+P1>     tal.cheeog.dal.chcthy.qotal.ddl[a:o]r.chal.dal
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring', 'ring']
+  RAW LINE: # Between the inner ring and the middle ring are ten female(?) figures, each
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['holding', 'ring']
+  RAW LINE: # beside a barrel and holding a star. Between the middle and the outer ring
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['standing', 'holding']
+  RAW LINE: # are 19 (NOT 20) female figures, each standing in a barrel and holding a star
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f70v2.2,@Lz>: ['otalalg']
+  RAW LINE: <f70v2.2,@Lz>     <!09:00>otalalg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ordering']
+  RAW LINE: # Ordering cf. ThP.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['gathering']
+  RAW LINE: # Gathering mark 10
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['eating']
+  RAW LINE: # symbol for Aries (dark) eating a plant, word "Abril" in the Roman
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f70v1.7,&Lz>: ['oalcheg']
+  RAW LINE: <f70v1.7,&Lz>     <!04:30>oalcheg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ordering']
+  RAW LINE: # Clock position is that of nymph (approx). Ordering cf. ThP.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring']
+  RAW LINE: # Nymph labels, outer ring
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring']
+  RAW LINE: # Nymph labels, inner ring
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['feeding']
+  RAW LINE: # to inner). In the centre is a Taurus feeding from a manger. Below
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring', 'ring']
+  RAW LINE: # inner ring of text and the middle ring are five
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['holding']
+  RAW LINE: # human figures, each in a barrel, holding a star, and labelled with a word
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring']
+  RAW LINE: # of Voynich text. One is naked, four are clothed. Between the middle ring
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring', 'holding']
+  RAW LINE: # and the outer ring are 10 human figures, each in a barrel, holding a star,
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring']
+  RAW LINE: # The photograph in Newbold is cropped, so part of ring C1 isn't visible.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring']
+  RAW LINE: # to inner) and fifteen labled nymphs. Inner ring has nymphs in
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring', 'standing']
+  RAW LINE: # barrels, outer ring has standing nymphs, without barrels.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring']
+  RAW LINE: # Nymph labels, outer ring
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring']
+  RAW LINE: # Nymph labels, inner ring
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring']
+  RAW LINE: # to inner) and thirty labled nymphs. Inside inner ring the
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['holding']
+  RAW LINE: # emblem of Gemini: two persons holding each other's hands.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['ring']
+  RAW LINE: # of them are found on top of the outer ring.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['standing']
+  RAW LINE: # Three nymphs (outer complete ring) are standing on top of
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f72r2.6,@Cc>: ['long']
+  RAW LINE: <f72r2.6,@Cc>     <!10:00>oteos.aiin.okeo,daiin.okeey.cheo.keodal.chol.okeol.ol{ckhh}y.oteeykeey.tey.okalaiin.okalchal,chey.al.<!long gap>o.keey.daiin.otar.al.chotaiin.otchey.qoeeeo,s.[ckh:?]al.chekaiin.otaiin.chy.d.r.aiin.al.y.{chh}o.chekaiin.okedal.qokeodal.saiin.otois.otees
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['counting']
+  RAW LINE: # counting inner to outer (cf. Petersen). Clock position
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['missing']
+  RAW LINE: # Part of the start of C1 could be missing
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f72r3.14,@Cc>: ['cheeg']
+  RAW LINE: <f72r3.14,@Cc>    <!09:00>otochedy.otey.o,koey.sheedy.oteodar.ykeolol.y,air.oteos.cheo,l,aiin.ykeeoly.otaiin.shear.oiiin.oral.o,tealy.cheokeor.oteody.o{ck}es.otees,chteos,doteey.sosor.oteol.shol.cheeg.okeody.{ch'}eol.shey.sheysy.shoteey.cheor.yoeteey.okeeol.chy.okeeo.ykoly
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['counting']
+  RAW LINE: # counting inner to outer (cf. Petersen). Clock position
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['following']
+  RAW LINE: # in the following locus, add six characters (STA) from v101: .chlyiintee
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['counting']
+  RAW LINE: # counting inner to outer (cf. Petersen). Clock position
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f72v2.20,@Cc>: ['yteeg']
+  RAW LINE: <f72v2.20,@Cc>    <!10:00>oteesody.otey.oteeos.sheoty.yteeg.dchsaiin.shol.okeees.air,am,shey.qokeodal.oteotey.oteoldy.oteal,chedy.chotalal.okal,cheol.sar,aiin.cheokealy.sardy.otol.chekar.alteol.oltar,ar
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f72v2.24,&Lz>: ['opalg']
+  RAW LINE: <f72v2.24,&Lz>    <!01:00>opalg<!nymph has no star>
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['counting']
+  RAW LINE: # counting inner to outer (cf. Petersen). Clock position
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['gathering']
+  RAW LINE: # Has gathering mark 11.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['counting']
+  RAW LINE: # third section, 30 in total counting inner to outer (cf.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['counting']
+  RAW LINE: # third section, 30 in total counting inner to outer (cf.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['missing']
+  RAW LINE: # folio 74 missing
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['reading']
+  RAW LINE: # last character in first 5 lines aligned vertically reading slors
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['following']
+  RAW LINE: # Alignment of all following lines is very uncertain
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f76v.5,+P0>: ['teyteg']
+  RAW LINE: <f76v.5,+P0>      s.otain.okain.chcthedy.qoteed.y.kedy.okedy.chedy<->otedy.teyteg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f77r.46,+P0>: ['dag']
+  RAW LINE: <f77r.46,+P0>     daiin.chlchpsheey.tal.cheol.dag.as,otey.daiin
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['autobiog']
+  RAW LINE: # Newbold plate V, Kraus XXIX, Kraus Autobiog p220
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['carrying', 'something']
+  RAW LINE: # Two "ponds" with ladies and tube sections carrying something (GL)
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['being', 'coming']
+  RAW LINE: # Mermaid or lady being eaten or coming out of a fish.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['holding']
+  RAW LINE: # Lady with parasol holding a cross.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['holding', 'ring']
+  RAW LINE: # One lady holding a ring
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f79v.38,+P0>: ['dag']
+  RAW LINE: <f79v.38,+P0>     olkeeey.qokeey.okeedy.shedy.qokeey.okain.sheckhdy.dag
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['missing']
+  RAW LINE: # Right margin of text is irregular; missing picture?
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f82r.30,+P0>: ['rag']
+  RAW LINE: <f82r.30,+P0>     qoteey.raiin.cheol.qoteey.shedy.qokeey.lshedy.qokeedy.rag
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['writing']
+  RAW LINE: # Writing below tubes
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f83v.11,@P0>: ['lsheg']
+  RAW LINE: <f83v.11,@P0>     <%>pchedar.shedal.qokar.shedal<->okchdy.qokedy.okail.shedy.qoky.lsheg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['gathering']
+  RAW LINE: # gathering mark 13
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f85r1.27,+P0>: ['odeeeg']
+  RAW LINE: <f85r1.27,+P0>    ychedy.shetshdy.qotar.okedy.qokal.saiin.ol,karar.odeeeg<$>
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f85r2.22,+Pb>: ['og']
+  RAW LINE: <f85r2.22,+Pb>    <!W>los,ar.shedy.qokshey.qose?y.or.aiin,og
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['following']
+  RAW LINE: # The following are block left of circle, left margin unreadable
+--------------------------------------------------------------------------------
+MATCH FOUND AT <fRos.80,@L0>: ['dtedg']
+  RAW LINE: <fRos.80,@L0>     <!5:18>dtedg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['following']
+  RAW LINE: # Following are counter-clockwise from 09:00
+--------------------------------------------------------------------------------
+MATCH FOUND AT <fRos.132,@L0>: ['lashalg']
+  RAW LINE: <fRos.132,@L0>    <!6:12>lashalg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <fRos.133,@Cc>: ['long']
+  RAW LINE: <fRos.133,@Cc>    <!05:30>ok,ar,ar.okary.otodeed.odar.chekaiin.oees.???<!long gap>.oiin.okees.oiir.odaiin.okalol.aiiin.okal,ol.otar.chchdam.chetey.otodches.oteesey.chckhy.otody.otal.chedal.opal.olkar.okedaiin.oror
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['hiding']
+  RAW LINE: # moon, 5 frothy rings, 4 torsos hiding in bubble bath
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f86v6.26,+P0>: ['cholkeog']
+  RAW LINE: <f86v6.26,+P0>    saiin.shor.shekaiin.chedy.cholkeog.qokchy.orchcthy.olteedydar.otar.aim
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f86v5.8,+P0>: ['tarcheeg']
+  RAW LINE: <f86v5.8,+P0>     octhal.shckhy.otshey.opor.shey.tor,ar.otar.aiin.chdy.tarcheeg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f86v5.37,+P0>: ['oreeeg']
+  RAW LINE: <f86v5.37,+P0>    dchol.chedy.qotain.otaiin.ol.cheody.olkeeody.oreeeg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['writing']
+  RAW LINE: # Has a circle divided in 3 and some extraneous writing
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['gathering']
+  RAW LINE: # gathering mark  14
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f87v.7,+P0>: ['qokeog']
+  RAW LINE: <f87v.7,+P0>      qotechoep.cheos.cthey<->qokeod.qokeog
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f87v.14,+P0>: ['atolg']
+  RAW LINE: <f87v.14,+P0>     san.ainy.keol,dair.old<->ain.atolg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f87v.15,+P0>: ['daraiing']
+  RAW LINE: <f87v.15,+P0>     yksho.qos<->arolor.or<->al.daraiing
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['aug']
+  RAW LINE: # Washington Post, 5 Aug 62 (Sunday)
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f88r.21,+P0>: ['sheoldg']
+  RAW LINE: <f88r.21,+P0>     teol.chor.olsheody.qokeol.sho{ikh}y.ol.sheeol.sheoldg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f89r1.15,@P0>: ['darolg']
+  RAW LINE: <f89r1.15,@P0>    <%>tcheol.qoeair.sheol.qocphey.saiin.cheocphey.dal,darolg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f89r2.7,+P0>: ['okcheeg']
+  RAW LINE: <f89r2.7,+P0>     chos,aiin.cheodal.daiin.chy.chedain.dolchsyckheol.daiin.chody.cheedy.tchodol.chor.choldy.chos.dol.okcheeg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['following']
+  RAW LINE: # the following para may or may not be split.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f89v1.16,+P0>: ['dalg']
+  RAW LINE: <f89v1.16,+P0>    qokaiin.ykchol.qockhy.okaldy.okal.dal.chodar.okaiin.dalg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f90v2.7,+P0>: ['chog']
+  RAW LINE: <f90v2.7,+P0>     shey.s.shee[y:a]l.sheol.sheody.tol.sheo{cty}<->oteey.chodar.chog
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['gathering']
+  RAW LINE: # gathering  mark 15
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['missing']
+  RAW LINE: # folios  91-92 missing
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f93r.4,+P0>: ['ytchdg']
+  RAW LINE: <f93r.4,+P0>      sol.shotol.qokchodal.shody.chotol,s<->otol.ytchdg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f93v.5,+P0>: ['dchog']
+  RAW LINE: <f93v.5,+P0>      tshoky.cthody.qotchol.ckhol.dchog.s<->olo.oteo[?:s].chodaiindy
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f93v.8,+P0>: ['dsheog']
+  RAW LINE: <f93v.8,+P0>      dcho.chody.teol.sheol.cheeoldair.okchey.cthey<->dsheog.okeey.dama
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['gathering']
+  RAW LINE: # gathering mark 17
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['missing']
+  RAW LINE: # folios 97-98 missing
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f99r.1,@Lc>: ['okaradag']
+  RAW LINE: <f99r.1,@Lc>      <!68a>okaradag
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f99r.48,+P0>: ['alcheeg']
+  RAW LINE: <f99r.48,+P0>     ykeol.okeol.ockhey.chol.cheodal.okeo,r,alcheeg.orar
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['belonging']
+  RAW LINE: # Only the labels on f101v1 are transcribed as belonging to that page.
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f101v.14,@Lf>: ['dytolg']
+  RAW LINE: <f101v.14,@Lf>    dytolg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f102r2.1,@Lc>: ['kodaiig']
+  RAW LINE: <f102r2.1,@Lc>    kodaiig
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f102r2.2,@P0>: ['azg']
+  RAW LINE: <f102r2.2,@P0>    <%>lsais.azg.cheey.cfhey.por,aiin.chefol,y
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f102r2.13,@Lc>: ['loeekadag']
+  RAW LINE: <f102r2.13,@Lc>   loeekadag<!top word>
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['gathering']
+  RAW LINE: # gathering number 19
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['gathering']
+  RAW LINE: # gathering mark 20
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f103r.35,+P0>: ['lcheg']
+  RAW LINE: <f103r.35,+P0>    <%>qoke{ca}r.chain.olain.chey.kain.sheol.shedain.qokeedy.ykeedy,lcheg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f106r.11,+P0>: ['lchg']
+  RAW LINE: <f106r.11,+P0>    sar.aiin.cheol.aiin.cheokey.raiin.chokar.cholky.okeees.aiin.okeey.lchg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f106v.29,+P0>: ['cheog']
+  RAW LINE: <f106v.29,+P0>    ycheey.olchey.chedy.qotaiin.cheos.otaiin.otain.chotar.olos.aiin.cheog
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['long']
+  RAW LINE: # Light star, dotted, 7 points, long tail
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f108v.44,+P0>: ['lchg']
+  RAW LINE: <f108v.44,+P0>    y,shey.qol.lchey.shey.qoke[a:?]r.shey.qokeey.lsheey.oteey.sheey,qol.cheekeey.lchg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['missing']
+  RAW LINE: # folios  109-110 missing
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f111r.42,+P0>: ['kag']
+  RAW LINE: <f111r.42,+P0>    qokeol.qok[a:ee]l.qokeeol.cho,lkedy.l.chedy.chedy.chedyteokain.chedy.l,kag,am
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f111v.11,+P0>: ['shalg']
+  RAW LINE: <f111v.11,+P0>    y,lcheey.shear.aiin.shee[a:o]r.otain.otedy.qokain.chedkain.shedaitain.shalg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f112r.16,+P0>: ['amchg']
+  RAW LINE: <f112r.16,+P0>    solol.she?dy.shol.qokeey.qokeeey.qokedain.otain.ar,amchg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f112r.43,+P0>: ['oteeg']
+  RAW LINE: <f112r.43,+P0>    yteeo.r,aiin.okar.opor.aiin.ycheedy.q[ee:o]dar.yteeey.sheor.oteeg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f112v.47,+P0>: ['aig']
+  RAW LINE: <f112v.47,+P0>    [?:e].otar.aig.oaral.alor.aiiin.olkaiin.oty.ary<$>
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f113v.29,+P0>: ['aralg']
+  RAW LINE: <f113v.29,+P0>    ykeeol.chedy.qokeey.olkeeey.okaiin.a,r.cthey.okaiin.al.lor.air.aralg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f114v.12,+P0>: ['og']
+  RAW LINE: <f114v.12,+P0>    ochedy.choaiin.ch{cty}.chedal.daiin.ytar.otchedy.qotaiin.dain.dar,[y:q]og
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f116r.22,+P0>: ['lg']
+  RAW LINE: <f116r.22,+P0>    dol.shedy.shekchy.qokain.chedy.otar.okalain.shcthy.oteey.dar.chedy.lg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f116r.24,+P0>: ['lag']
+  RAW LINE: <f116r.24,+P0>    qokedy.okain.chcthy.oty.shedy.qokeey.chalkeey.okey.kedy.chey.lag
+--------------------------------------------------------------------------------
+MATCH FOUND AT <f116r.33,+P0>: ['rsheg']
+  RAW LINE: <f116r.33,+P0>    soraiin.ykeey.arain.sheeky.qokain.sheey.qol.cheds.ar.r.[?:a]rsheg
+--------------------------------------------------------------------------------
+MATCH FOUND AT <Unknown>: ['writing']
+  RAW LINE: # has extraneous writing mixed with voynich script
+--------------------------------------------------------------------------------
+
+Scan completed. Located 251 absolute dry-waste stop flags.
+
+C:\Temp\voynich_interpreter_16>

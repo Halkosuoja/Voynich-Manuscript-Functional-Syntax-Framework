@@ -1,0 +1,338 @@
+C:\Temp\voynich_interpreter_16>python voynich_stress_tests_v2.py
+================================================================================
+STRESS TEST A: QUANTITATIVE VECTOR DIRECTION ANALYSIS (-dal- vs -dol-)
+================================================================================
+
+CONTEXT PROFILE: ARIES
+  Active Upward Vector (-dal-): 8 counts (100.0%)
+  Passive Descending Vector (-dol-): 0 counts (0.0%)
+--------------------------------------------------
+CONTEXT PROFILE: TAURUS
+  Active Upward Vector (-dal-): 7 counts (100.0%)
+  Passive Descending Vector (-dol-): 0 counts (0.0%)
+--------------------------------------------------
+CONTEXT PROFILE: BIOMED
+  Active Upward Vector (-dal-): 150 counts (67.6%)
+  Passive Descending Vector (-dol-): 72 counts (32.4%)
+--------------------------------------------------
+
+================================================================================
+STRESS TEST B: CLEANED TERMINAL STOP-FLAG LOCATOR (-g / -damg / -dlyg)
+================================================================================
+
+GENUINE VMS MATCH AT <f3r.1,@P0>: ['daimg']
+  TEXT LINE: tsheos.qopal.chol.cthol.daimg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f3r.4,+P0>: ['chag']
+  TEXT LINE: schey.chor.chal.chag.cham.cho
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f3r.16,+P0>: ['daiinsoleeg']
+  TEXT LINE: oteol.chol.s.cheol.ekshy.qokeom.qokol.daiinsoleeg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f4v.9,+P0>: ['cheog']
+  TEXT LINE: qooko,iiin,cheog.chcthy.shoky.daiin
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f5v.2,+P0>: ['ychopordg']
+  TEXT LINE: dchol.{c'y}.chol.otaiin.dain.cthor.chots.ychopordg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f5v.6,+P0>: ['dairodg']
+  TEXT LINE: otol.chol.dairodg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f8r.10,+P0>: ['dairg']
+  TEXT LINE: daiin.cheey.teeodan.dycheocthy.oksheo.dol.dairg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f8r.13,=Pt>: ['okokchodg']
+  TEXT LINE: okokchodg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f11v.6,=P0>: ['arg']
+  TEXT LINE: soydy.qoteey.qot.chor.dy.ddycthor.shy,arg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f13r.1,@P0>: ['dchg']
+  TEXT LINE: torshor.opchy.shol.dy.qopchy.shol.opchor.dypchy.dchg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f14r.12,+P0>: ['tchykychodalg']
+  TEXT LINE: oeeeb.chey.keor.chey.tchykychodalg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f17r.1,@P0>: ['chog']
+  TEXT LINE: fshody.daram.ydar,chog.opydy.ypod.chop.otchy.dody.oldckhy
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f17r.6,+P0>: ['cheteg']
+  TEXT LINE: tsho.qof,cho.qokcheor.cheteg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f17v.3,+P0>: ['oldaig']
+  TEXT LINE: oldaig.odaiin.okal.oldaiin.chockhol.olol
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f18r.3,+P0>: ['dyytcharg']
+  TEXT LINE: qokchor.chor.{c@139;h}{@246;k}ey.or,chey.qokchol.dyytcharg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f18v.1,@P0>: ['ytdg']
+  TEXT LINE: told.shor.ytshy.otchdal.dchal.dchy.ytdg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f23r.7,+P0>: ['alg']
+  TEXT LINE: okar.olchar.shaiin.qokchol.dar.qokchol.dairo.r.ol.daiin.alg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f23v.2,+P0>: ['otchg']
+  TEXT LINE: qot{co}tor.chy.okchaldy.qokchey.dolotchol.chal.otchg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f23v.3,+P0>: ['qotcholg']
+  TEXT LINE: ycho.okaiin.okeol.eees.o,l.daiin.okeeordaiin.qotcholg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f23v.7,+P0>: ['ylg']
+  TEXT LINE: otor.oiin.sho.shol.qokol.daiinsol.daiin.ylg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f27r.9,+P0>: ['tolg']
+  TEXT LINE: dchey.keeod.shotchey.chol.otychy,tolg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f27v.4,+P0>: ['cheesg']
+  TEXT LINE: okcho.chy.kch[ee:o]d.chl.chol.kodo.oksho.do,cheesg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f32v.5,+P0>: ['dosg']
+  TEXT LINE: chokchy.daiin.shy.chor.qo.kaiin.daindchol.dosg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f39r.4,+P0>: ['okalcheg']
+  TEXT LINE: tchedy.chdy.olaiin.chedy.shckhdchy.chol.or.ordy.chees.aly.okalcheg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f39r.8,+P0>: ['daisog']
+  TEXT LINE: lchedy.shedy.qokaiin.chkeey.fchedy.okam.ch{cfhh}y.saiin.chckhy.daisog
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f40r.8,+P0>: ['dg']
+  TEXT LINE: ksheo.keeey.dar.ai[g:m]kcheo.cfhdy.or,ain.chefal.daiin.dg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f41r.10,+P0>: ['qokeg']
+  TEXT LINE: sshok.shedy.qekchdy.dchdaldyykedy.qokeedy.qokedy.qokeg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f42v.4,+P0>: ['dg']
+  TEXT LINE: qotchy.chkchy.sar.dyodaiilykchy.o,kol,dg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f45v.6,+P0>: ['cheg']
+  TEXT LINE: ?s,aiin.cphor.qok{cy}.todytchdy.dydy.cheg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f47r.5,+P0>: ['chokolg']
+  TEXT LINE: dain.olshey.chokolg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f48v.7,+P0>: ['cpheeg']
+  TEXT LINE: pchedar.cheyypchedy.otedy.shef,eeedy.alshedy.otedy.fcheodal.cpheeg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f49v.24,=P0>: ['chokag']
+  TEXT LINE: ochokeey.ckhey.daiin.dain.chokag
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f49v.32,=P0>: ['dchog']
+  TEXT LINE: tchotchey.chokeeodol.rcheey.otchodardcho.dchog
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f51v.4,+P0>: ['shokog']
+  TEXT LINE: otaiin.qodal.yt[o:a]l.cheodar.s,odyoteo,daiin.shokog
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f52v.5,+P0>: ['dysarg']
+  TEXT LINE: yteey.cthor,cheo[s:r].cpheodar.dysarg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f52v.13,+P0>: ['daiig']
+  TEXT LINE: yk[o:a]r.okaiiin.ckheeey.daiig
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f56r.16,+P0>: ['rg']
+  TEXT LINE: qotchy.chody.ctho,r.chey.kch[a:o]rg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f57r.7,+P0>: ['okaldg']
+  TEXT LINE: daii[s:r].sheedy.qokeedy.cheteyoteeod.shekey.tedy.okaldg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f58v.6,+P0>: ['org']
+  TEXT LINE: qokair.ar.aly.sho[r:s].daiin.choly.dal.ykaiin.org.fchey.okaly.oky
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f58v.31,+P0>: ['oetalchg']
+  TEXT LINE: tcheor.chor.kar.okal.qokeey.qokal.shol.qokain.ar.oetalchg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f66r.82,@Lx>: ['cheg']
+  TEXT LINE: otcheo,daiin.chty.ykees,cheg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f66v.10,+P0>: ['okag']
+  TEXT LINE: dshal.keedy.qok,[o:y]r.okaiin.dol.kaldaiin.otal.dokal.okag
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f67r2.40,+Pb>: ['og']
+  TEXT LINE: yteos.oiin.og
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f67r2.43,+Pb>: ['qsg']
+  TEXT LINE: daiin.aiin.os.qsg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f67v2.7,@Pb>: ['daig']
+  TEXT LINE: taol.daig.sakar.dam
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f67v2.13,@Ro>: ['okydseog']
+  TEXT LINE: okydseog.oeepoaly
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f67v1.20,@Ro>: ['olcheeg']
+  TEXT LINE: dcheeos.qokeeeody.eeis.olcheeg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f67v1.21,@Ro>: ['ypcheg']
+  TEXT LINE: ykeeo.cheo.daiin.ypcheg.oty
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f68r3.7,@Ri>: ['tgolg']
+  TEXT LINE: pchody.qokchy.dshol.d{c'y},o,tgolg?
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f68r3.19,+Ls>: ['otydg']
+  TEXT LINE: otydg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f68v3.5,@Cc>: ['akeg']
+  TEXT LINE: oky.otol.ees.choty.cheda[s:r].otchdy.s.ar.oekaiin.oteol.dar.cheo.dais.qoeeo,kaiin.okchey.dal.cheky.ykos.[y:q]akeg.s.ol.ay.ykoees.yty.dy.dy.chody.otol.ol,ees.oty.dar.qotay.otoy.chey.kodar.dar.sheody.shees.daiin.oteeoaly.oteeosol.ol.okol.olsey.tol.cheol.okeey.choekcheey.okchy.qokchshy.dchol.chshek
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f68v3.11,@Ri>: ['okeeg']
+  TEXT LINE: ycheeo.key.qokal.okeeg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f68v3.12,@Ri>: ['dkeeeg']
+  TEXT LINE: ochey.chekchy.dkeeeg.cheekey.teokechey.saiir
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f68v3.16,=L0>: ['opcholdg']
+  TEXT LINE: opcholdg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f70r2.3,+P1>: ['oteog']
+  TEXT LINE: ykeeo.y.s.ald.shey.cthy.shekey.qokal,aiir.oteog
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f70r2.5,+P1>: ['cheeog']
+  TEXT LINE: tal.cheeog.dal.chcthy.qotal.ddl[a:o]r.chal.dal
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f70v2.2,@Lz>: ['otalalg']
+  TEXT LINE: otalalg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f70v1.7,&Lz>: ['oalcheg']
+  TEXT LINE: oalcheg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f72r3.14,@Cc>: ['cheeg']
+  TEXT LINE: otochedy.otey.o,koey.sheedy.oteodar.ykeolol.y,air.oteos.cheo,l,aiin.ykeeoly.otaiin.shear.oiiin.oral.o,tealy.cheokeor.oteody.o{ck}es.otees,chteos,doteey.sosor.oteol.shol.cheeg.okeody.{ch'}eol.shey.sheysy.shoteey.cheor.yoeteey.okeeol.chy.okeeo.ykoly
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f72v2.20,@Cc>: ['yteeg']
+  TEXT LINE: oteesody.otey.oteeos.sheoty.yteeg.dchsaiin.shol.okeees.air,am,shey.qokeodal.oteotey.oteoldy.oteal,chedy.chotalal.okal,cheol.sar,aiin.cheokealy.sardy.otol.chekar.alteol.oltar,ar
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f72v2.24,&Lz>: ['opalg']
+  TEXT LINE: opalg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f76v.5,+P0>: ['teyteg']
+  TEXT LINE: s.otain.okain.chcthedy.qoteed.y.kedy.okedy.chedyotedy.teyteg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f77r.46,+P0>: ['dag']
+  TEXT LINE: daiin.chlchpsheey.tal.cheol.dag.as,otey.daiin
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f79v.38,+P0>: ['dag']
+  TEXT LINE: olkeeey.qokeey.okeedy.shedy.qokeey.okain.sheckhdy.dag
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f82r.30,+P0>: ['rag']
+  TEXT LINE: qoteey.raiin.cheol.qoteey.shedy.qokeey.lshedy.qokeedy.rag
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f83v.11,@P0>: ['lsheg']
+  TEXT LINE: pchedar.shedal.qokar.shedalokchdy.qokedy.okail.shedy.qoky.lsheg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f85r1.27,+P0>: ['odeeeg']
+  TEXT LINE: ychedy.shetshdy.qotar.okedy.qokal.saiin.ol,karar.odeeeg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f85r2.22,+Pb>: ['og']
+  TEXT LINE: los,ar.shedy.qokshey.qose?y.or.aiin,og
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <fRos.80,@L0>: ['dtedg']
+  TEXT LINE: dtedg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <fRos.132,@L0>: ['lashalg']
+  TEXT LINE: lashalg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f86v6.26,+P0>: ['cholkeog']
+  TEXT LINE: saiin.shor.shekaiin.chedy.cholkeog.qokchy.orchcthy.olteedydar.otar.aim
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f86v5.8,+P0>: ['tarcheeg']
+  TEXT LINE: octhal.shckhy.otshey.opor.shey.tor,ar.otar.aiin.chdy.tarcheeg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f86v5.37,+P0>: ['oreeeg']
+  TEXT LINE: dchol.chedy.qotain.otaiin.ol.cheody.olkeeody.oreeeg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f87v.7,+P0>: ['qokeog']
+  TEXT LINE: qotechoep.cheos.ctheyqokeod.qokeog
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f87v.14,+P0>: ['atolg']
+  TEXT LINE: san.ainy.keol,dair.oldain.atolg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f87v.15,+P0>: ['daraiing']
+  TEXT LINE: yksho.qosarolor.oral.daraiing
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f88r.21,+P0>: ['sheoldg']
+  TEXT LINE: teol.chor.olsheody.qokeol.sho{ikh}y.ol.sheeol.sheoldg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f89r1.15,@P0>: ['darolg']
+  TEXT LINE: tcheol.qoeair.sheol.qocphey.saiin.cheocphey.dal,darolg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f89r2.7,+P0>: ['okcheeg']
+  TEXT LINE: chos,aiin.cheodal.daiin.chy.chedain.dolchsyckheol.daiin.chody.cheedy.tchodol.chor.choldy.chos.dol.okcheeg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f89v1.16,+P0>: ['dalg']
+  TEXT LINE: qokaiin.ykchol.qockhy.okaldy.okal.dal.chodar.okaiin.dalg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f90v2.7,+P0>: ['chog']
+  TEXT LINE: shey.s.shee[y:a]l.sheol.sheody.tol.sheo{cty}oteey.chodar.chog
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f93r.4,+P0>: ['ytchdg']
+  TEXT LINE: sol.shotol.qokchodal.shody.chotol,sotol.ytchdg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f93v.5,+P0>: ['dchog']
+  TEXT LINE: tshoky.cthody.qotchol.ckhol.dchog.solo.oteo[?:s].chodaiindy
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f93v.8,+P0>: ['ctheydsheog']
+  TEXT LINE: dcho.chody.teol.sheol.cheeoldair.okchey.ctheydsheog.okeey.dama
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f99r.1,@Lc>: ['okaradag']
+  TEXT LINE: okaradag
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f99r.48,+P0>: ['alcheeg']
+  TEXT LINE: ykeol.okeol.ockhey.chol.cheodal.okeo,r,alcheeg.orar
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f101v.14,@Lf>: ['dytolg']
+  TEXT LINE: dytolg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f102r2.1,@Lc>: ['kodaiig']
+  TEXT LINE: kodaiig
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f102r2.2,@P0>: ['azg']
+  TEXT LINE: lsais.azg.cheey.cfhey.por,aiin.chefol,y
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f102r2.13,@Lc>: ['loeekadag']
+  TEXT LINE: loeekadag
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f103r.35,+P0>: ['lcheg']
+  TEXT LINE: qoke{ca}r.chain.olain.chey.kain.sheol.shedain.qokeedy.ykeedy,lcheg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f106r.11,+P0>: ['lchg']
+  TEXT LINE: sar.aiin.cheol.aiin.cheokey.raiin.chokar.cholky.okeees.aiin.okeey.lchg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f106v.29,+P0>: ['cheog']
+  TEXT LINE: ycheey.olchey.chedy.qotaiin.cheos.otaiin.otain.chotar.olos.aiin.cheog
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f108v.44,+P0>: ['lchg']
+  TEXT LINE: y,shey.qol.lchey.shey.qoke[a:?]r.shey.qokeey.lsheey.oteey.sheey,qol.cheekeey.lchg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f111r.42,+P0>: ['kag']
+  TEXT LINE: qokeol.qok[a:ee]l.qokeeol.cho,lkedy.l.chedy.chedy.chedyteokain.chedy.l,kag,am
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f111v.11,+P0>: ['shalg']
+  TEXT LINE: y,lcheey.shear.aiin.shee[a:o]r.otain.otedy.qokain.chedkain.shedaitain.shalg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f112r.16,+P0>: ['amchg']
+  TEXT LINE: solol.she?dy.shol.qokeey.qokeeey.qokedain.otain.ar,amchg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f112r.43,+P0>: ['oteeg']
+  TEXT LINE: yteeo.r,aiin.okar.opor.aiin.ycheedy.q[ee:o]dar.yteeey.sheor.oteeg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f112v.47,+P0>: ['aig']
+  TEXT LINE: [?:e].otar.aig.oaral.alor.aiiin.olkaiin.oty.ary
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f113v.29,+P0>: ['aralg']
+  TEXT LINE: ykeeol.chedy.qokeey.olkeeey.okaiin.a,r.cthey.okaiin.al.lor.air.aralg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f114v.12,+P0>: ['og']
+  TEXT LINE: ochedy.choaiin.ch{cty}.chedal.daiin.ytar.otchedy.qotaiin.dain.dar,[y:q]og
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f116r.22,+P0>: ['lg']
+  TEXT LINE: dol.shedy.shekchy.qokain.chedy.otar.okalain.shcthy.oteey.dar.chedy.lg
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f116r.24,+P0>: ['lag']
+  TEXT LINE: qokedy.okain.chcthy.oty.shedy.qokeey.chalkeey.okey.kedy.chey.lag
+--------------------------------------------------------------------------------
+GENUINE VMS MATCH AT <f116r.33,+P0>: ['rsheg']
+  TEXT LINE: soraiin.ykeey.arain.sheeky.qokain.sheey.qol.cheds.ar.r.[?:a]rsheg
+--------------------------------------------------------------------------------
+
+Scan completed. Located 104 genuine dry-waste stop flags.
+
+C:\Temp\voynich_interpreter_16>
