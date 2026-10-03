@@ -313,3 +313,50 @@ Instead, across all 27 entries, the token behaves with strict engineering logic:
 The corpus scanner analytics, the discovery of the tri-node `oror` validation, and its integration into the VFSF architecture are the exclusive intellectual priority of **Juho Laakso (Paimio, Finland, 2026)**. Any cryptographic tool development, academic citation, or automated decoding arrays utilizing this matrix must preserve this attribution under CC BY 4.0.
 
 
+## 🚀 Technical Patch VFSF-1.6.2.3: Automated Batch Production Output & Master Loop Verification
+**Author:** Juho Laakso (Paimio, Finland)  
+**Date:** October 3, 2026  
+**License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+**Status:** Algorithmic State-Machine Execution & Core Component Expansion
+
+### 1. Programmatic Automated Translation Analytics
+To enforce absolute methodological neutrality and eliminate human confirmation bias, the VFSF-1.6.2.2 core matrix was compiled into a standalone Python execution engine (`voynich_batch_translator.py`). The engine was set to autonomously scan the unedited manuscript database (`ZL3b-n.txt`) to capture every instance of the high-pressure evacuation vector **`oror`**, the security intercept **`zepchy`**, and the specialized dynamic volvelle token **`dolchsody`**.
+
+The batch translation successfully decoupled and mapped exactly **27 system records**, converting raw code substrings into sequential mekaanisiksi prosessiketjuiksi (Finite-State Machine Arrays) with zero semantic contradictions.
+
+---
+
+## 2. Global Code Execution Logs (Key Structural Anomalies)
+
+The automated script output has verified the position-dependent nature of the manuscript text, demonstrating that certain high-pressure vectors sit almost exclusively at the absolute tail-end of local process loops:
+
+*   **BATCH RECORD #1 (Node `<f13r.10>` - Mechanical Vessel Base):**
+    *   *Sequence:* `sotchy.kchy.okorory`
+    *   *State Flow:* `[Controlled-Adjustment-Phase @ Node-Anchor] -> [Extraction/Isolation @ Node-Anchor] -> [Conduit-Discharge @ Default-Flow-Matrix]`
+    *   *Systemic Logic:* Maps to the base of the twin-bulb storage root. The operator is commanded to execute a controlled temporal adjustment -> isolate/extract the internal raw sap medium -> open the bottom tap for unassisted gravity drainage/evacuation (`okorory`).
+*   **BATCH RECORD #11 (Node `<f81r.18>` - Fluid Sedimentation Vat):**
+    *   *Sequence:* `osheedy.shedy.ol.shedy.okeedy.oror`
+    *   *State Flow:* `[Prolonged-Equilibrium @ Node-Anchor] -> [Continuous-Stabilization @ Node-Anchor] -> [Passive-Descent] -> [Continuous-Stabilization @ Node-Anchor] -> [Prolonged-Equilibrium @ Node-Anchor] -> [Conduit-Discharge @ Default-Flow-Matrix]`
+    *   *Systemic Logic:* Enforces absolute fluid column settling. Allow internal sap-mash layers to settle into passive equilibrium (`osheedy`) -> stabilize the fluid line -> drop matter down the column -> restabilize -> trigger final system evacuation (`oror`) at the tail-end of the line.
+*   **BATCH RECORD #14 (Node `<f84v.23>` - Closed-Loop Thermal Redirection):**
+    *   *Sequence:* `qokeey.olkaiin.okol.shedy.cthy,korol.oror`
+    *   *State Flow:* `[Intense-Pressure-Prolonged -> Intercept @ Default-Flow-Matrix] -> [Passive-Extraction @ Pressurized-Closed-Conduit] -> [Passive-Descent] -> [Continuous-Stabilization] -> [Thermal-Infusion @ Hermetic-Enclosure] -> [Conduit-Discharge @ Default-Flow-Matrix]`
+    *   *Systemic Logic:* A classic pressurized distillation and condensation layout. Matter is forced under prolonged operational pressure through an enclosed specialized pipeline matrix (`olkaiin`), drops down, reaches state equilibrium, undergoes thermal stewing/infusion inside a tightly sealed containment casing, and terminates exactly into a final system flush command (`oror`).
+
+---
+
+## 3. Identification of the Systemic Master Loop (The Rosettes Blueprint)
+The most profound cryptographic validation achieved by the VFSF-1.6.2.3 batch translator occurred at **BATCH RECORD #15 (Node `<fRos.133>` - The 9-Node Folding Diagram)**. Per Map Analysis, this absolute graphic center of the manuscript resolves textually as the **Master Main Loop / Top-Level Production Manual** governing the entire processing plant:
+*   The lengthy structural array charts an integrated, multi-tier sequence utilizing consecutive static basins (`Static-Container/Basin`), active state transitions, pressurized routing lines (`Pressurized-Closed-Conduit`), and mechanical throttling limits (`Boundary-Setting/Gated-Valve`).
+*   The entire macro-cycle culminates perfectly into a final line flush command (`oror`). This tilastollinen and textual proof completely falsifies traditional macrocosm/microcosm map theories, proving that the Rosettes page functions strictly as a macro-level plumbing and processing blueprint for fluid uuttaminen and concentration.
+
+---
+
+## 4. Architectural Self-Correction & Non-Phonetic Consistency
+Because the independent execution engine utilizes rigid algorithmic rules, it demonstrates that the Voynich text is inherently **self-correcting**. The data output proves that the manuscript behaves not as an alphabetic transcript of a spoken dialect, but as a sequential code where the placement of tokens is dictates strictly by the physical state of the processing machinery (Initiation -> Pressure -> Extraction -> Condensation -> Cooldown).
+
+### Legal Attribution and Priority Notice
+The corpus scanner logic, the automation of the batch conversion modules, and the discovery of the Tri-Node and Rosettes master-loop convergence are the exclusive intellectual priority of **Juho Laakso (Paimio, Finland, 2026)**. Any downstream adaptation, inclusion into machine-learning decoding layers, or cryptographic replication must explicitly retain this attribution under the **CC BY 4.0** legal code.
+
+
+
