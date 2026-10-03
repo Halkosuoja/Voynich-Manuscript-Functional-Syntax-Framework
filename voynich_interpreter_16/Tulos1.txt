@@ -1,0 +1,280 @@
+C:\Temp\voynich_interpreter_16>python voynich_batch_translator.py
+================================================================================
+VOYNICH AUTOMATED BATCH TRANSLATOR — VFSF-1.6.2 PRODUCTION OUTPUT
+Author: Juho Laakso, Paimio (Finland)
+================================================================================
+
+BATCH RECORD #1
+NODE LOCATION: <f13r.10,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Mechanical-Extraction/Isolation @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #2
+NODE LOCATION: <f15v.1,@P0>
+  PROCESS CHAIN:
+    [Initial-Activation -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Phase-Alteration/Conversion -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ [NODE-ANCHOR]]
+================================================================================
+BATCH RECORD #3
+NODE LOCATION: <f16r.10,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Phase-Alteration/Conversion -> Active-Pressure-Pumping-Upward @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #4
+NODE LOCATION: <f17r.7,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Intense-Force/Pressure -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Controlled-Adjustment-Phase -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Continuous -> Conduit-Conveyance/Discharge @ [NODE-ANCHOR]]
+================================================================================
+BATCH RECORD #5
+NODE LOCATION: <f28r.5,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle -> Conduit-Conveyance/Discharge @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Mechanical-Extraction/Isolation @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #6
+NODE LOCATION: <f36r.7,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Mechanical-Extraction/Isolation @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #7
+NODE LOCATION: <f37v.11,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] -> [CLOSED-LOCK-COMPLETE]
+================================================================================
+BATCH RECORD #8
+NODE LOCATION: <f56v.1,@P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix-Continuous -> Mechanical-Extraction/Isolation @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Free-Flow/Descending-Vector @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Critical-Safety-Latch/Intercept @ Default-Flow-Matrix] ->
+    [Intense-Force/Pressure -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #9
+NODE LOCATION: <f67r2.15,+L0>
+  PROCESS CHAIN:
+    [Phase-Alteration/Conversion -> Undefined-Target @ [NODE-ANCHOR]]
+================================================================================
+BATCH RECORD #10
+NODE LOCATION: <f78r.46,@Lt>
+  PROCESS CHAIN:
+    [Absolute-Time/Macrocycle -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #11
+NODE LOCATION: <f81r.18,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix-Prolonged -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Controlled-Adjustment-Phase-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Passive-Natural-State -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix-Prolonged -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #12
+NODE LOCATION: <f82r.40,*Ln>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #13
+NODE LOCATION: <f84r.46,+P1>
+  PROCESS CHAIN:
+    [Phase-Alteration/Conversion-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Intense-Force/Pressure-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Static-Container/Basin @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ [NODE-ANCHOR]]
+================================================================================
+BATCH RECORD #14
+NODE LOCATION: <f84v.23,+P0>
+  PROCESS CHAIN:
+    [Intense-Force/Pressure-Prolonged -> Critical-Safety-Latch/Intercept @ Default-Flow-Matrix] ->
+    [Passive-Natural-State -> Mechanical-Extraction/Isolation @ Pressurized-Closed-Conduit] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #15
+NODE LOCATION: <fRos.133,@Cc>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Basal-Stratum/Concentrate-Sediment @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Basal-Stratum/Concentrate-Sediment @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Static-Container/Basin @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Mechanical-Extraction/Isolation @ Pressurized-Closed-Conduit] ->
+    [Unassigned-Prefix-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Free-Flow/Descending-Vector @ Default-Flow-Matrix] -> [CLOSED-LOCK-COMPLETE] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle -> Static-Container/Basin @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Undefined-Target @ [CONTINUITY-LINK]] ->
+    [Controlled-Adjustment-Phase-Continuous -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle-Continuous -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Boundary-Setting/Gated-Valve @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle -> Free-Flow/Descending-Vector @ [NODE-ANCHOR]] ->
+    [Absolute-Time/Macrocycle -> Active-Pressure-Pumping-Upward @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Active-Pressure-Pumping-Upward @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Passive-Natural-State -> Basal-Stratum/Concentrate-Sediment @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ Default-Flow-Matrix] -> [CLOSED-LOCK-COMPLETE] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #16
+NODE LOCATION: <f86v6.38,+P0>
+  PROCESS CHAIN:
+    [Initial-Activation -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Passive-Natural-State -> Undefined-Target @ Pressurized-Closed-Conduit] ->
+    [Unassigned-Prefix-Continuous -> Boundary-Setting/Gated-Valve @ Default-Flow-Matrix] ->
+    [Passive-Natural-State-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Undefined-Target @ Pressurized-Closed-Conduit] ->
+    [Passive-Natural-State -> Undefined-Target @ [CONTINUITY-LINK]]
+================================================================================
+BATCH RECORD #17
+NODE LOCATION: <f88r.16,@Lf>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #18
+NODE LOCATION: <f99v.21,@P0>
+  PROCESS CHAIN:
+    [Phase-Alteration/Conversion -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Prolonged -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Basal-Stratum/Concentrate-Sediment @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Continuous -> Free-Flow/Descending-Vector @ Default-Flow-Matrix] -> [REGULATION-LOCK-COMPLETE] ->
+    [Absolute-Time/Macrocycle -> Conduit-Conveyance/Discharge @ Pressurized-Closed-Conduit] ->
+    [Controlled-Adjustment-Phase-Continuous -> Critical-Safety-Latch/Intercept @ Default-Flow-Matrix] ->
+    [Passive-Natural-State -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #19
+NODE LOCATION: <f101v.19,@P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix-Continuous -> Uniform-Drainage/Passive-Flow @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Physical-Filtration/Purging -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle -> Mechanical-Extraction/Isolation @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Pressurized-Closed-Conduit] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] -> [ROUTING-LINK-FORWARD]
+================================================================================
+BATCH RECORD #20
+NODE LOCATION: <f102v2.3,@Lf>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #21
+NODE LOCATION: <f104v.27,+P0>
+  PROCESS CHAIN:
+    [Initial-Activation -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Free-Flow/Descending-Vector @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Free-Flow/Descending-Vector @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Free-Flow/Descending-Vector @ Default-Flow-Matrix] ->
+    [Intense-Force-Isolation-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Controlled-Adjustment-Phase -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Pressurized-Closed-Conduit] ->
+    [Controlled-Adjustment-Phase -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Pressurized-Closed-Conduit] ->
+    [Unassigned-Prefix -> Active-Pressure-Pumping-Upward @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #22
+NODE LOCATION: <f106v.7,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Controlled-Adjustment-Phase -> Undefined-Target @ Open-Flow-Channel] ->
+    [Controlled-Adjustment-Phase -> Free-Flow/Descending-Vector @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Mechanical-Extraction/Isolation @ Open-Flow-Channel] ->
+    [Controlled-Adjustment-Phase -> Undefined-Target @ Pressurized-Closed-Conduit] ->
+    [Unassigned-Prefix -> Undefined-Target @ Pressurized-Closed-Conduit] ->
+    [Controlled-Adjustment-Phase -> Static-Container/Basin @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Active-Pressure-Pumping-Upward @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #23
+NODE LOCATION: <f107r.16,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Passive-Natural-State-Prolonged -> Mechanical-Extraction/Isolation @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Undefined-Target @ Pressurized-Closed-Conduit] ->
+    [Absolute-Time/Macrocycle -> Basal-Stratum/Concentrate-Sediment @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Continuous -> Critical-Safety-Latch/Intercept @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Absolute-Time/Macrocycle -> Undefined-Target @ [CONTINUITY-LINK]]
+================================================================================
+BATCH RECORD #24
+NODE LOCATION: <f112v.10,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Undefined-Target @ Default-Flow-Matrix] -> [ROUTING-LINK-FORWARD] ->
+    [Controlled-Adjustment-Phase-Prolonged -> Critical-Safety-Latch/Intercept @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix-Continuous -> Mechanical-Extraction/Isolation @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #25
+NODE LOCATION: <f113v.12,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Absolute-Time/Macrocycle-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix -> Basal-Stratum/Concentrate-Sediment @ Default-Flow-Matrix] ->
+    [Passive-Natural-State-Continuous -> Critical-Safety-Latch/Intercept @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #26
+NODE LOCATION: <f113v.17,+P0>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Basal-Stratum/Concentrate-Sediment @ Pressurized-Closed-Conduit] ->
+    [Controlled-Adjustment-Phase-Continuous -> Undefined-Target @ [NODE-ANCHOR]] ->
+    [Unassigned-Prefix-Prolonged -> Undefined-Target @ Default-Flow-Matrix] ->
+    [Passive-Natural-State -> Basal-Stratum/Concentrate-Sediment @ Default-Flow-Matrix] ->
+    [Unassigned-Prefix -> Undefined-Target @ Pressurized-Closed-Conduit] ->
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Pressurized-Closed-Conduit] ->
+    [System-Runtime/Internal-Duration-Prolonged -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix]
+================================================================================
+BATCH RECORD #27
+NODE LOCATION: <f116v.1,@Lx>
+  PROCESS CHAIN:
+    [Unassigned-Prefix -> Conduit-Conveyance/Discharge @ Default-Flow-Matrix] ->
+    [Controlled-Adjustment-Phase-Prolonged -> Critical-Safety-Latch/Intercept @ Default-Flow-Matrix]
+================================================================================
+
+C:\Temp\voynich_interpreter_16>
