@@ -1,0 +1,183 @@
+C:\Temp\vdm_compiler_v12>python vdm_compiler_v12.py voynich_source.txt
+ Raportti generoitu lisenssiehtojen (CC BY 4.0) mukaisesti. Mainitse tekijä Juho Laakso jaettessa.
+===================================================================================================================
+Ladataan ja puhdistetaan tiedostoa: voynich_source.txt...
+
+Uutettu yhteensä 168 genuine-sanaa. Käynnistetään kääntäjä...
+===================================================================================================================
+ VFSF VDM COMPILER v1.2 (File-Reader) — AUTOMAATTINEN PROSESSI- JA TEHDASRAPORTTI
+===================================================================================================================
+ASKELE  | VMS TOKEN       | LAITETAGI                  | NESTE  | PAINE           | SUOMENKIELINEN OHJAUSKOMENTO / STATUS
+-------------------------------------------------------------------------------------------------------------------
+Askel 01 | sory            | SYSTEM_REBOOT              | 0      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 02 | ckhar           | REFRACTORY_RESTART         | 0      | LOW_PRESSURE    | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 03 | or,y            | REFRACTORY_RESTART         | 0      | LOW_PRESSURE    | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 04 | kair            | REFRACTORY_RESTART         | 0      | LOW_PRESSURE    | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 05 | chtaiin         | CLOSED_HIGH_PRESSURE_LINE  | 0      | LOW_PRESSURE    | RISTIRIITA: Kuivapumppaus ilman nestesyöttöä!
+Askel 06 | shar            | SYSTEM_REBOOT              | 0      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 07 | ase             | SYSTEM_REBOOT              | 0      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 08 | cthar           | REFRACTORY_RESTART         | 0      | LOW_PRESSURE    | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 09 | cthar,dan       | REFRACTORY_RESTART         | 0      | LOW_PRESSURE    | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 10 | syaiir          | SYSTEM_REBOOT              | 0      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 11 | sheky           | SYSTEM_REBOOT              | 0      | LOW_PRESSURE    | RISTIRIITA: Joutokäyntiviive ylittynyt!
+Askel 12 | or              | REFRACTORY_RESTART         | 0      | LOW_PRESSURE    | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 13 | ykaiin          | CLOSED_HIGH_PRESSURE_LINE  | 0      | LOW_PRESSURE    | RISTIRIITA: Kuivapumppaus ilman nestesyöttöä!
+Askel 14 | shod            | SYSTEM_REBOOT              | 0      | LOW_PRESSURE    | RISTIRIITA: Joutokäyntiviive ylittynyt!
+Askel 15 | cthoary         | REFRACTORY_RESTART         | 0      | LOW_PRESSURE    | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 16 | cthes           | SYSTEM_REBOOT              | 0      | LOW_PRESSURE    | RISTIRIITA: Joutokäyntiviive ylittynyt!
+Askel 17 | daraiin         | CONTAINMENT_RECEPTACLE     | 2      | LOW_PRESSURE    | MATERIAALILATAUS: Pääsyöttöallas online, uusi nestemassa ajettu sisään.
+Askel 18 | sy              | SYSTEM_REBOOT              | 2      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 19 | soiin           | SYSTEM_REBOOT              | 2      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 20 | oteey           | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 21 | oteos:r,roloty  | SYSTEM_REBOOT              | 2      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 22 | cthiar,daiin    | COMPLETED_LOCK_HALT        | 2      | PRESSURE_LOCK   | PROSESSILUKKO: Venttiilit suljettu hallitusti, kammio eristetty hautumista varten.
+Askel 23 | okaiin          | CLOSED_HIGH_PRESSURE_LINE  | 1      | HIGH_PRESSURE   | KORKEAPAINE LUKITTU: Korkeatehoinen ja tiivis reaktiotila kytketty.
+Askel 24 | or              | REFRACTORY_RESTART         | 1      | HIGH_PRESSURE   | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 25 | okan            | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 26 | sair,y          | SYSTEM_REBOOT              | 1      | HIGH_PRESSURE   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 27 | chear           | REFRACTORY_RESTART         | 1      | HIGH_PRESSURE   | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 28 | cthaiin         | CLOSED_HIGH_PRESSURE_LINE  | 0      | HIGH_PRESSURE   | KORKEAPAINE LUKITTU: Korkeatehoinen ja tiivis reaktiotila kytketty.
+Askel 29 | cphar           | PASSIVE_CROSS_FLOW         | 0      | HIGH_PRESSURE   | Rekisterivaste OK.
+Askel 30 | cfhaiin         | JET_FLOW_DISCHARGE         | 0      | HIGH_PRESSURE   | SUIHKUTUS: Korkeapaineinen purku kapeasta suuttimesta käynnistetty.
+Askel 31 | ydaraishy       | CONTAINMENT_RECEPTACLE     | 2      | HIGH_PRESSURE   | MATERIAALILATAUS: Pääsyöttöallas online, uusi nestemassa ajettu sisään.
+Askel 32 | yshey           | SYSTEM_REBOOT              | 2      | HIGH_PRESSURE   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 33 | shody           | SYSTEM_REBOOT              | 2      | HIGH_PRESSURE   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 34 | okchoy          | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 35 | otchol          | BYPASS_FREE_FLOW           | 2      | HIGH_PRESSURE   | OHIPUTKI KYTKETTY: Paineentasaus ja vapaavalunta aktivoitu ilman ulkoista painetta.
+Askel 36 | chocthy         | THERMAL_INFUSION           | 1      | THERMAL_VAPOR   | TERMISTEN KÄSITTELY: Lämpöenergia kytketty (Uutto/Tislausvaihe aktiivinen).
+Askel 37 | os,chy          | SYSTEM_REBOOT              | 1      | THERMAL_VAPOR   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 38 | dain            | OPEN_LOW_PRESSURE_LINE     | 0      | LOW_PRESSURE    | YLIVUOTO AVATTU: Matalapainelinja auki, aines siirtyy vapaasti eteenpäin.
+Askel 39 | chor            | REFRACTORY_RESTART         | 0      | LOW_PRESSURE    | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 40 | kos             | SYSTEM_REBOOT              | 0      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 41 | daiin           | COMPLETED_LOCK_HALT        | 4      | LOW_PRESSURE    | ERÄAJON ALUSTUS: Puskurilataus esiladattu linjaan, järjestelmä valvonnassa.
+Askel 42 | shos            | SYSTEM_REBOOT              | 4      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 43 | cfhol           | JET_FLOW_DISCHARGE         | 4      | LOW_PRESSURE    | SUIHKUTUS: Korkeapaineinen purku kapeasta suuttimesta käynnistetty.
+Askel 44 | shody           | SYSTEM_REBOOT              | 4      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 45 | dain            | OPEN_LOW_PRESSURE_LINE     | 3      | LOW_PRESSURE    | YLIVUOTO AVATTU: Matalapainelinja auki, aines siirtyy vapaasti eteenpäin.
+Askel 46 | os              | SYSTEM_REBOOT              | 3      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 47 | teody           | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 48 | oksho           | SYSTEM_REBOOT              | 3      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 49 | kshoy           | SYSTEM_REBOOT              | 3      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 50 | otairin         | REFRACTORY_RESTART         | 3      | LOW_PRESSURE    | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 51 | oteol           | BYPASS_FREE_FLOW           | 3      | LOW_PRESSURE    | OHIPUTKI KYTKETTY: Paineentasaus ja vapaavalunta aktivoitu ilman ulkoista painetta.
+Askel 52 | okan            | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 53 | shodain         | OPEN_LOW_PRESSURE_LINE     | 2      | LOW_PRESSURE    | YLIVUOTO AVATTU: Matalapainelinja auki, aines siirtyy vapaasti eteenpäin.
+Askel 54 | sckhey          | SYSTEM_REBOOT              | 2      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 55 | daiin           | COMPLETED_LOCK_HALT        | 4      | LOW_PRESSURE    | ERÄAJON ALUSTUS: Puskurilataus esiladattu linjaan, järjestelmä valvonnassa.
+Askel 56 | shoy            | SYSTEM_REBOOT              | 4      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 57 | ckhey           | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 58 | kodaiin         | COMPLETED_LOCK_HALT        | 4      | PRESSURE_LOCK   | PROSESSILUKKO: Venttiilit suljettu hallitusti, kammio eristetty hautumista varten.
+Askel 59 | cphy            | PASSIVE_CROSS_FLOW         | 4      | PRESSURE_LOCK   | Rekisterivaste OK.
+Askel 60 | cphodaiils      | PASSIVE_CROSS_FLOW         | 4      | PRESSURE_LOCK   | Rekisterivaste OK.
+Askel 61 | cthey           | THERMAL_INFUSION           | 3      | THERMAL_VAPOR   | TERMISTEN KÄSITTELY: Lämpöenergia kytketty (Uutto/Tislausvaihe aktiivinen).
+Askel 62 | sho             | SYSTEM_REBOOT              | 3      | THERMAL_VAPOR   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 63 | oldain          | OPEN_LOW_PRESSURE_LINE     | 2      | LOW_PRESSURE    | YLIVUOTO AVATTU: Matalapainelinja auki, aines siirtyy vapaasti eteenpäin.
+Askel 64 | d               | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 65 | dain            | OPEN_LOW_PRESSURE_LINE     | 1      | LOW_PRESSURE    | YLIVUOTO AVATTU: Matalapainelinja auki, aines siirtyy vapaasti eteenpäin.
+Askel 66 | oiin            | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 67 | chol            | BYPASS_FREE_FLOW           | 1      | LOW_PRESSURE    | OHIPUTKI KYTKETTY: Paineentasaus ja vapaavalunta aktivoitu ilman ulkoista painetta.
+Askel 68 | odaiin          | COMPLETED_LOCK_HALT        | 1      | PRESSURE_LOCK   | PROSESSILUKKO: Venttiilit suljettu hallitusti, kammio eristetty hautumista varten.
+Askel 69 | chodain         | OPEN_LOW_PRESSURE_LINE     | 0      | LOW_PRESSURE    | YLIVUOTO AVATTU: Matalapainelinja auki, aines siirtyy vapaasti eteenpäin.
+Askel 70 | chdy            | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 71 | oka:oin         | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 72 | d?n             | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 73 | cthy            | THERMAL_INFUSION           | 0      | THERMAL_VAPOR   | TERMISTEN KÄSITTELY: Lämpöenergia kytketty (Uutto/Tislausvaihe aktiivinen).
+Askel 74 | kod             | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 75 | daiin           | COMPLETED_LOCK_HALT        | 4      | THERMAL_VAPOR   | ERÄAJON ALUSTUS: Puskurilataus esiladattu linjaan, järjestelmä valvonnassa.
+Askel 76 | shckhey         | SYSTEM_REBOOT              | 4      | THERMAL_VAPOR   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 77 | ckeo            | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 78 | r               | REFRACTORY_RESTART         | 4      | THERMAL_VAPOR   | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 79 | char            | REFRACTORY_RESTART         | 4      | THERMAL_VAPOR   | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 80 | shey            | SYSTEM_REBOOT              | 4      | THERMAL_VAPOR   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 81 | kol             | BYPASS_FREE_FLOW           | 4      | THERMAL_VAPOR   | OHIPUTKI KYTKETTY: Paineentasaus ja vapaavalunta aktivoitu ilman ulkoista painetta.
+Askel 82 | chol            | BYPASS_FREE_FLOW           | 4      | THERMAL_VAPOR   | OHIPUTKI KYTKETTY: Paineentasaus ja vapaavalunta aktivoitu ilman ulkoista painetta.
+Askel 83 | chol            | BYPASS_FREE_FLOW           | 4      | THERMAL_VAPOR   | OHIPUTKI KYTKETTY: Paineentasaus ja vapaavalunta aktivoitu ilman ulkoista painetta.
+Askel 84 | kor             | REFRACTORY_RESTART         | 4      | THERMAL_VAPOR   | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 85 | chal            | VALVE_CALIBRATION          | 4      | THERMAL_VAPOR   | VENTTIILIN SÄÄTÖ: Virtausventtiilin dynaaminen kalibrointitila kytketty.
+Askel 86 | sho             | SYSTEM_REBOOT              | 4      | THERMAL_VAPOR   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 87 | chol            | BYPASS_FREE_FLOW           | 4      | THERMAL_VAPOR   | OHIPUTKI KYTKETTY: Paineentasaus ja vapaavalunta aktivoitu ilman ulkoista painetta.
+Askel 88 | shodan          | SYSTEM_REBOOT              | 4      | THERMAL_VAPOR   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 89 | kshy            | SYSTEM_REBOOT              | 4      | THERMAL_VAPOR   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 90 | kchy            | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 91 | d               | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 92 | or              | REFRACTORY_RESTART         | 4      | THERMAL_VAPOR   | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 93 | chodaiin        | COMPLETED_LOCK_HALT        | 4      | PRESSURE_LOCK   | PROSESSILUKKO: Venttiilit suljettu hallitusti, kammio eristetty hautumista varten.
+Askel 94 | sho             | SYSTEM_REBOOT              | 4      | PRESSURE_LOCK   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 95 | koeam           | CONTINUOUS_SEQUENCE_LINK   | 4      | PRESSURE_LOCK   | SARJAKYTKENTÄ: Suora väylälinkki seuraavaan moduuliin ilman latenssia.
+Askel 96 | ycho            | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 97 | tchey           | FLUID_STABILIZATION        | 4      | PRESSURE_LOCK   | NESTEEN TASAUS: Virtausnopeuden pudotus ja linjapuskurointi aktivoitu.
+Askel 98 | chekain         | OPEN_LOW_PRESSURE_LINE     | 3      | LOW_PRESSURE    | YLIVUOTO AVATTU: Matalapainelinja auki, aines siirtyy vapaasti eteenpäin.
+Askel 99 | sheo,pshol      | SYSTEM_REBOOT              | 3      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 100 | dydyd           | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 101 | cthy            | THERMAL_INFUSION           | 2      | THERMAL_VAPOR   | TERMISTEN KÄSITTELY: Lämpöenergia kytketty (Uutto/Tislausvaihe aktiivinen).
+Askel 102 | daicto:194;y    | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 103 | yto             | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 104 | shol            | SYSTEM_REBOOT              | 2      | THERMAL_VAPOR   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 105 | she             | SYSTEM_REBOOT              | 2      | THERMAL_VAPOR   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 106 | kodshey         | SYSTEM_REBOOT              | 2      | THERMAL_VAPOR   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 107 | cphealy         | PASSIVE_CROSS_FLOW         | 2      | THERMAL_VAPOR   | Rekisterivaste OK.
+Askel 108 | dar,ain         | CONTAINMENT_RECEPTACLE     | 4      | THERMAL_VAPOR   | MATERIAALILATAUS: Pääsyöttöallas online, uusi nestemassa ajettu sisään.
+Askel 109 | dain            | OPEN_LOW_PRESSURE_LINE     | 3      | LOW_PRESSURE    | YLIVUOTO AVATTU: Matalapainelinja auki, aines siirtyy vapaasti eteenpäin.
+Askel 110 | ckhyds          | SYSTEM_REBOOT              | 3      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 111 | dchar           | REFRACTORY_RESTART         | 3      | LOW_PRESSURE    | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 112 | shcthaiin       | SYSTEM_REBOOT              | 3      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 113 | okaiir          | REFRACTORY_RESTART         | 3      | LOW_PRESSURE    | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 114 | chey            | FLUID_STABILIZATION        | 3      | LOW_PRESSURE    | NESTEEN TASAUS: Virtausnopeuden pudotus ja linjapuskurointi aktivoitu.
+Askel 115 | 192;chy         | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 116 | 130;tol         | BYPASS_FREE_FLOW           | 3      | LOW_PRESSURE    | OHIPUTKI KYTKETTY: Paineentasaus ja vapaavalunta aktivoitu ilman ulkoista painetta.
+Askel 117 | cthols          | SYSTEM_REBOOT              | 3      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 118 | dlocto          | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 119 | shok            | SYSTEM_REBOOT              | 3      | LOW_PRESSURE    | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 120 | chor            | REFRACTORY_RESTART         | 3      | LOW_PRESSURE    | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 121 | chey            | FLUID_STABILIZATION        | 3      | LOW_PRESSURE    | NESTEEN TASAUS: Virtausnopeuden pudotus ja linjapuskurointi aktivoitu.
+Askel 122 | dain            | OPEN_LOW_PRESSURE_LINE     | 2      | LOW_PRESSURE    | YLIVUOTO AVATTU: Matalapainelinja auki, aines siirtyy vapaasti eteenpäin.
+Askel 123 | ckhey           | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 124 | otol            | BYPASS_FREE_FLOW           | 2      | LOW_PRESSURE    | OHIPUTKI KYTKETTY: Paineentasaus ja vapaavalunta aktivoitu ilman ulkoista painetta.
+Askel 125 | daiiin          | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 126 | ydoin           | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 127 | chol            | BYPASS_FREE_FLOW           | 2      | LOW_PRESSURE    | OHIPUTKI KYTKETTY: Paineentasaus ja vapaavalunta aktivoitu ilman ulkoista painetta.
+Askel 128 | dain            | OPEN_LOW_PRESSURE_LINE     | 1      | LOW_PRESSURE    | YLIVUOTO AVATTU: Matalapainelinja auki, aines siirtyy vapaasti eteenpäin.
+Askel 129 | cthal           | HYDROSTATIC_PUMP_UP        | 0      | HIGH_PRESSURE   | HYDROSTAATTINEN PUMPPAUS: Paine kytketty, neste pakotettu nousemaan ylöspäin.
+Askel 130 | dar             | CONTAINMENT_RECEPTACLE     | 2      | HIGH_PRESSURE   | MATERIAALILATAUS: Pääsyöttöallas online, uusi nestemassa ajettu sisään.
+Askel 131 | shear           | SYSTEM_REBOOT              | 2      | HIGH_PRESSURE   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 132 | kaiin           | CLOSED_HIGH_PRESSURE_LINE  | 1      | HIGH_PRESSURE   | KORKEAPAINE LUKITTU: Korkeatehoinen ja tiivis reaktiotila kytketty.
+Askel 133 | dar             | CONTAINMENT_RECEPTACLE     | 3      | HIGH_PRESSURE   | MATERIAALILATAUS: Pääsyöttöallas online, uusi nestemassa ajettu sisään.
+Askel 134 | shey            | SYSTEM_REBOOT              | 3      | HIGH_PRESSURE   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 135 | cthar           | REFRACTORY_RESTART         | 3      | HIGH_PRESSURE   | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 136 | cho             | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 137 | ?o              | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 138 | kaiin           | CLOSED_HIGH_PRESSURE_LINE  | 2      | HIGH_PRESSURE   | KORKEAPAINE LUKITTU: Korkeatehoinen ja tiivis reaktiotila kytketty.
+Askel 139 | shoaiin         | SYSTEM_REBOOT              | 2      | HIGH_PRESSURE   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 140 | okol            | BYPASS_FREE_FLOW           | 2      | HIGH_PRESSURE   | OHIPUTKI KYTKETTY: Paineentasaus ja vapaavalunta aktivoitu ilman ulkoista painetta.
+Askel 141 | daiin           | COMPLETED_LOCK_HALT        | 4      | HIGH_PRESSURE   | ERÄAJON ALUSTUS: Puskurilataus esiladattu linjaan, järjestelmä valvonnassa.
+Askel 142 | far             | REFRACTORY_RESTART         | 4      | HIGH_PRESSURE   | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 143 | cthol           | BYPASS_FREE_FLOW           | 4      | HIGH_PRESSURE   | OHIPUTKI KYTKETTY: Paineentasaus ja vapaavalunta aktivoitu ilman ulkoista painetta.
+Askel 144 | daiin           | COMPLETED_LOCK_HALT        | 4      | HIGH_PRESSURE   | ERÄAJON ALUSTUS: Puskurilataus esiladattu linjaan, järjestelmä valvonnassa.
+Askel 145 | ctholdar        | CONTAINMENT_RECEPTACLE     | 6      | HIGH_PRESSURE   | MATERIAALILATAUS: Pääsyöttöallas online, uusi nestemassa ajettu sisään.
+Askel 146 | ycheey          | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 147 | okeey           | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 148 | oky             | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 149 | daiin           | COMPLETED_LOCK_HALT        | 4      | HIGH_PRESSURE   | ERÄAJON ALUSTUS: Puskurilataus esiladattu linjaan, järjestelmä valvonnassa.
+Askel 150 | okchey          | FLUID_STABILIZATION        | 4      | HIGH_PRESSURE   | NESTEEN TASAUS: Virtausnopeuden pudotus ja linjapuskurointi aktivoitu.
+Askel 151 | kokaiin         | CLOSED_HIGH_PRESSURE_LINE  | 3      | HIGH_PRESSURE   | KORKEAPAINE LUKITTU: Korkeatehoinen ja tiivis reaktiotila kytketty.
+Askel 152 | o?chol          | BYPASS_FREE_FLOW           | 3      | HIGH_PRESSURE   | OHIPUTKI KYTKETTY: Paineentasaus ja vapaavalunta aktivoitu ilman ulkoista painetta.
+Askel 153 | k?dchy          | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 154 | dal             | HYDROSTATIC_PUMP_UP        | 2      | HIGH_PRESSURE   | HYDROSTAATTINEN PUMPPAUS: Paine kytketty, neste pakotettu nousemaan ylöspäin.
+Askel 155 | dcheo           | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 156 | shody           | SYSTEM_REBOOT              | 2      | HIGH_PRESSURE   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 157 | koshey          | SYSTEM_REBOOT              | 2      | HIGH_PRESSURE   | JÄRJESTELMÄN NOLLAUS: Kellojakson salpa ja tahdistuspulssi aktivoitu.
+Askel 158 | cthy            | THERMAL_INFUSION           | 1      | THERMAL_VAPOR   | TERMISTEN KÄSITTELY: Lämpöenergia kytketty (Uutto/Tislausvaihe aktiivinen).
+Askel 159 | ok,chey         | FLUID_STABILIZATION        | 1      | THERMAL_VAPOR   | NESTEEN TASAUS: Virtausnopeuden pudotus ja linjapuskurointi aktivoitu.
+Askel 160 | keey            | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 161 | keey,dal        | HYDROSTATIC_PUMP_UP        | 0      | HIGH_PRESSURE   | HYDROSTAATTINEN PUMPPAUS: Paine kytketty, neste pakotettu nousemaan ylöspäin.
+Askel 162 | chtor           | REFRACTORY_RESTART         | 0      | HIGH_PRESSURE   | JÄÄHTYMISVAIHE: Linjan kiertoreititys ja cooldown-jakso käynnistetty.
+Askel 163 | ?eo?            | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 164 | chol            | BYPASS_FREE_FLOW           | 0      | HIGH_PRESSURE   | OHIPUTKI KYTKETTY: Paineentasaus ja vapaavalunta aktivoitu ilman ulkoista painetta.
+Askel 165 | chok            | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 166 | choty           | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 167 | chotey          | UNKNOWN                    | -      | -               | Varoitus: Tuntematon komponentti.
+Askel 168 | dchaiin         | CLOSED_HIGH_PRESSURE_LINE  | 0      | HIGH_PRESSURE   | RISTIRIITA: Kuivapumppaus ilman nestesyöttöä!
+-------------------------------------------------------------------------------------------------------------------
+ KÄÄNNÖS VALMIS. Askeleita ajettu: 168 | Havaitut ristiriidat: 6 | Yhteensopivuus: 96.43%
+
+C:\Temp\vdm_compiler_v12>
