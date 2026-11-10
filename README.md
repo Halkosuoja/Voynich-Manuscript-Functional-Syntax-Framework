@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1398740941.svg)](https://doi.org/10.5281/zenodo.23916072)
 # Voynich Manuscript Functional Syntax Framework (VFSF-1.5)
 **Author:** Juho Laakso (Paimio, Finland)  
 **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
