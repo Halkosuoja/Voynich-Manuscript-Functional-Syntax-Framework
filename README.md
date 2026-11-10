@@ -1,7 +1,10 @@
 [![DOI](https://zenodo.org/badge/1398740941.svg)](https://doi.org/10.5281/zenodo.23916072)
 # Voynich Manuscript Functional Syntax Framework (VFSF-1.5)
 **Author:** Juho Laakso (Paimio, Finland)  
-**License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+This project utilizes a standardized open-science dual-licensing structure:
+* **Documentation, White Paper, and research texts** are licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) license.
+* **Source code, Python scripts, and algorithms** are licensed under the [MIT License](LICENSE-CODE).
 
 This repository contains the hypothetical and experimental syntax
 that was developed by **Juho Olavi Laakso** in 2026 and provides a
