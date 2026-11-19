@@ -15,7 +15,7 @@ repeatable, cryptographically plausible mechanism for reconstructing Text from V
 **IMPORTANT NOTE FOR REVIEWERS AND CODE EVALUATORS:** 
 This framework is currently a **Proof of Concept (PoC)** and an ongoing research hypothesis how one would work. It is *not* presented as a completed, 100% stable production-ready syntax framework. 
 
-The repository serves as an open-source testing ground to debug, refactor, and refine these syntax framework rules and permutation indices through community regression testing. The model is fully open to empirical testing, adaptation, and falsification.
+The repository serves as an open-source testing ground to debug, refactor, and refine these Hypotheses, syntax framework rules and permutation indices through community regression testing. The model is fully open to empirical testing, adaptation, and falsification.
 
 
 ## 1. Core Architectural Framework
