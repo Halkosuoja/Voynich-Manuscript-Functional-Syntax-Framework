@@ -1,0 +1,1178 @@
+C:\Temp\vfsf_digital_twin_v1>python vfsf_digital_twin_v2.py folio_39r.txt
+
+Ajetaan Digital Twin v2.0 tiedostolle 'folio_39r.txt' (156 käskyä)...
+--------------------------------------------------------------------------------------------------------------------------
+ASKEL  | SANA         | TOIMENPIDE                | ALLAS | REAKT | R.LÄMPÖ | L.LÄMPÖ | PAINE   | TUOTTO | TILA
+--------------------------------------------------------------------------------------------------------------------------
+00001  | tedo         | HOLD_STATE                |  20.0 |   0.0 |  20.0°C |  20.0°C | 1.00bar |    0.0 | OK
+00002  | chshd        | HOLD_STATE                |  20.0 |   0.0 |  20.0°C |  20.0°C | 1.00bar |    0.0 | OK
+00003  | cphhofy      | CROSS_FLOW_BALANCE        |  20.0 |   0.0 |  20.0°C |  20.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00004  | chdain       | OPEN_LOW_PRESSURE         |  20.0 |   0.0 |  20.0°C |  20.0°C | 1.00bar |    0.0 | Paine vapautettu
+00005  | shey         | RESET_VALVES              |  20.0 |   0.0 |  20.0°C |  20.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00006  | fy           | HOLD_STATE                |  20.0 |   0.0 |  20.0°C |  20.0°C | 1.00bar |    0.0 | OK
+00007  | dy           | HOLD_STATE                |  20.0 |   0.0 |  20.0°C |  20.0°C | 1.00bar |    0.0 | OK
+00008  | orain        | COOL_CONDENSER            |  20.0 |   0.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00009  | cheepaiin    | SEAL_HIGH_PRESSURE        |  20.0 |   0.0 |  20.0°C |  15.0°C | 1.80bar |    0.0 | Korkeapaine lukittu
+00010  | ofy          | HOLD_STATE                |  20.0 |   0.0 |  20.0°C |  15.0°C | 1.80bar |    0.0 | OK
+00011  | shey         | RESET_VALVES              |  20.0 |   0.0 |  20.0°C |  15.0°C | 1.20bar |    0.0 | Ohivirtaus / venttiilit avattu
+00012  | kly          | HOLD_STATE                |  20.0 |   0.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00013  | dy           | HOLD_STATE                |  20.0 |   0.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00014  | olchey       | COOL_CONDENSER            |  20.0 |   0.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00015  | cheky        | HOLD_STATE                |  20.0 |   0.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00016  | qokedy       | BOOST_PRESSURE            |  20.0 |   0.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00017  | shekshey     | RESET_VALVES              |  20.0 |   0.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00018  | qolain       | BYPASS_FLOW               |  20.0 |   0.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00019  | chy          | HOLD_STATE                |  20.0 |   0.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00020  | chdy         | HOLD_STATE                |  20.0 |   0.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00021  | dair         | FILL_FEED_BASIN           |  25.0 |   0.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Syöttöallasta täytetty
+00022  | shckhey      | RESET_VALVES              |  25.0 |   0.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00023  | dold         | GRAVITY_DRAIN_TO_RECEIVER |  25.0 |   0.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Painovoimainen valuma keräysastiaan
+00024  | qokalchdy    | BOOST_PRESSURE            |  25.0 |   0.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00025  | chekaiin     | SEAL_HIGH_PRESSURE        |  25.0 |   0.0 |  20.0°C |  15.0°C | 1.80bar |    0.0 | Korkeapaine lukittu
+00026  | checkhy      | HOLD_STATE                |  25.0 |   0.0 |  20.0°C |  15.0°C | 1.80bar |    0.0 | OK
+00027  | darshed      | FILL_FEED_BASIN           |  30.0 |   0.0 |  20.0°C |  15.0°C | 1.80bar |    0.0 | Syöttöallasta täytetty
+00028  | qokeedar     | FILL_FEED_BASIN           |  40.0 |   0.0 |  20.0°C |  15.0°C | 1.80bar |    0.0 | Syöttöallasta täytetty
+00029  | eeedy        | HOLD_STATE                |  40.0 |   0.0 |  20.0°C |  15.0°C | 1.80bar |    0.0 | OK
+00030  | dar          | FILL_FEED_BASIN           |  45.0 |   0.0 |  20.0°C |  15.0°C | 1.80bar |    0.0 | Syöttöallasta täytetty
+00031  | ar           | SETTLE_SEDIMENT           |  45.0 |   0.0 |  20.0°C |  15.0°C | 1.80bar |    0.0 | OK
+00032  | cheey        | HOLD_STATE                |  45.0 |   0.0 |  20.0°C |  15.0°C | 1.80bar |    0.0 | OK
+00033  | dyckhy       | HOLD_STATE                |  45.0 |   0.0 |  20.0°C |  15.0°C | 1.80bar |    0.0 | OK
+00034  | tchedy       | COOL_CONDENSER            |  45.0 |   0.0 |  20.0°C |  15.0°C | 1.60bar |    0.0 | Lauhdutinta jäähdytetty
+00035  | chdy         | HOLD_STATE                |  45.0 |   0.0 |  20.0°C |  15.0°C | 1.60bar |    0.0 | OK
+00036  | olaiin       | SEAL_HIGH_PRESSURE        |  45.0 |   0.0 |  20.0°C |  15.0°C | 2.00bar |    0.0 | Korkeapaine lukittu
+00037  | chedy        | COOL_CONDENSER            |  45.0 |   0.0 |  20.0°C |  15.0°C | 1.80bar |    0.0 | Lauhdutinta jäähdytetty
+00038  | shckhdchy    | HOLD_STATE                |  45.0 |   0.0 |  20.0°C |  15.0°C | 1.80bar |    0.0 | OK
+00039  | chol         | BYPASS_FLOW               |  45.0 |   0.0 |  20.0°C |  15.0°C | 1.20bar |    0.0 | Ohivirtaus / venttiilit avattu
+00040  | or           | COOL_CONDENSER            |  45.0 |   0.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00041  | ordy         | COOL_CONDENSER            |  45.0 |   0.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00042  | chees        | HOLD_STATE                |  45.0 |   0.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00043  | aly          | PUMP_UP_TO_REACTOR        |  42.0 |   3.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00044  | okalcheg     | PUMP_UP_TO_REACTOR        |  39.0 |   6.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00045  | dchdy        | HOLD_STATE                |  39.0 |   6.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00046  | chdy         | HOLD_STATE                |  39.0 |   6.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00047  | ykaiin       | SEAL_HIGH_PRESSURE        |  39.0 |   6.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00048  | pchdaiin     | LOCK_SYSTEM               |  39.0 |   6.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Järjestelmä lukittu sykliin
+00049  | she          | RESET_VALVES              |  39.0 |   6.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00050  | dam          | HOLD_STATE                |  39.0 |   6.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00051  | qofchedy     | COOL_CONDENSER            |  39.0 |   6.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00052  | shedy        | RESET_VALVES              |  39.0 |   6.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00053  | kchdy        | HOLD_STATE                |  39.0 |   6.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00054  | dydy         | HOLD_STATE                |  39.0 |   6.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00055  | opchekaiin   | SEAL_HIGH_PRESSURE        |  39.0 |   6.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00056  | shoy         | RESET_VALVES              |  39.0 |   6.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00057  | shdalo       | PUMP_UP_TO_REACTOR        |  36.0 |   9.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00058  | ry           | HOLD_STATE                |  36.0 |   9.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00059  | dchdar       | FILL_FEED_BASIN           |  41.0 |   9.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Syöttöallasta täytetty
+00060  | chedy        | COOL_CONDENSER            |  41.0 |   9.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00061  | cholal       | PUMP_UP_TO_REACTOR        |  38.0 |  12.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00062  | qokedar      | FILL_FEED_BASIN           |  43.0 |  12.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Syöttöallasta täytetty
+00063  | chdy         | HOLD_STATE                |  43.0 |  12.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00064  | chckhdy      | HOLD_STATE                |  43.0 |  12.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00065  | dar          | FILL_FEED_BASIN           |  48.0 |  12.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Syöttöallasta täytetty
+00066  | ar           | SETTLE_SEDIMENT           |  48.0 |  12.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00067  | al           | PUMP_UP_TO_REACTOR        |  45.0 |  15.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00068  | ydy          | HOLD_STATE                |  45.0 |  15.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00069  | eee          | HOLD_STATE                |  45.0 |  15.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00070  | s            | HOLD_STATE                |  45.0 |  15.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00071  | aiiin        | HOLD_STATE                |  45.0 |  15.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00072  | lchedy       | COOL_CONDENSER            |  45.0 |  15.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00073  | shedy        | RESET_VALVES              |  45.0 |  15.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00074  | qokaiin      | BOOST_PRESSURE            |  45.0 |  15.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00075  | chkeey       | HOLD_STATE                |  45.0 |  15.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | OK
+00076  | fchedy       | COOL_CONDENSER            |  45.0 |  15.0 |  20.0°C |  15.0°C | 1.20bar |    0.0 | Lauhdutinta jäähdytetty
+00077  | okam         | HOLD_STATE                |  45.0 |  15.0 |  20.0°C |  15.0°C | 1.20bar |    0.0 | OK
+00078  | chy          | HOLD_STATE                |  45.0 |  15.0 |  20.0°C |  15.0°C | 1.20bar |    0.0 | OK
+00079  | saiin        | SEAL_HIGH_PRESSURE        |  45.0 |  15.0 |  20.0°C |  15.0°C | 1.60bar |    0.0 | Korkeapaine lukittu
+00080  | chckhy       | HOLD_STATE                |  45.0 |  15.0 |  20.0°C |  15.0°C | 1.60bar |    0.0 | OK
+00081  | daisog       | HOLD_STATE                |  45.0 |  15.0 |  20.0°C |  15.0°C | 1.60bar |    0.0 | OK
+00082  | tchedy       | COOL_CONDENSER            |  45.0 |  15.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Lauhdutinta jäähdytetty
+00083  | shol         | RESET_VALVES              |  45.0 |  15.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00084  | odal         | PUMP_UP_TO_REACTOR        |  42.0 |  18.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00085  | qokaiin      | BOOST_PRESSURE            |  42.0 |  18.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00086  | shdaiin      | LOCK_SYSTEM               |  42.0 |  18.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Järjestelmä lukittu sykliin
+00087  | pchdar       | FILL_FEED_BASIN           |  47.0 |  18.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Syöttöallasta täytetty
+00088  | shedy        | RESET_VALVES              |  47.0 |  18.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00089  | ar           | SETTLE_SEDIMENT           |  47.0 |  18.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00090  | aiir         | HOLD_STATE                |  47.0 |  18.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00091  | okair        | HOLD_STATE                |  47.0 |  18.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00092  | ykeols       | BYPASS_FLOW               |  47.0 |  18.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00093  | shedy        | RESET_VALVES              |  47.0 |  18.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00094  | qockhdy      | HOLD_STATE                |  47.0 |  18.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00095  | laiin        | SEAL_HIGH_PRESSURE        |  47.0 |  18.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00096  | ky           | HOLD_STATE                |  47.0 |  18.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | OK
+00097  | dshdy        | RESET_VALVES              |  47.0 |  18.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00098  | ar           | SETTLE_SEDIMENT           |  47.0 |  18.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00099  | aiin         | SEAL_HIGH_PRESSURE        |  47.0 |  18.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00100  | y            | HOLD_STATE                |  47.0 |  18.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | OK
+00101  | yk           | HOLD_STATE                |  47.0 |  18.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | OK
+00102  | chdy         | HOLD_STATE                |  47.0 |  18.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | OK
+00103  | ykal         | PUMP_UP_TO_REACTOR        |  44.0 |  21.0 |  20.0°C |  15.0°C | 1.30bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00104  | olkaiin      | SEAL_HIGH_PRESSURE        |  44.0 |  21.0 |  20.0°C |  15.0°C | 1.70bar |    0.0 | Korkeapaine lukittu
+00105  | qokaldar     | FILL_FEED_BASIN           |  49.0 |  21.0 |  20.0°C |  15.0°C | 1.70bar |    0.0 | Syöttöallasta täytetty
+00106  | cheol        | BYPASS_FLOW               |  49.0 |  21.0 |  20.0°C |  15.0°C | 1.10bar |    0.0 | Ohivirtaus / venttiilit avattu
+00107  | dar          | FILL_FEED_BASIN           |  54.0 |  21.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Syöttöallasta täytetty
+00108  | aiin         | SEAL_HIGH_PRESSURE        |  54.0 |  21.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00109  | tolchda      | BYPASS_FLOW               |  54.0 |  21.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00110  | chckhy       | HOLD_STATE                |  54.0 |  21.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00111  | s            | HOLD_STATE                |  54.0 |  21.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00112  | aiin         | SEAL_HIGH_PRESSURE        |  54.0 |  21.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00113  | olor         | COOL_CONDENSER            |  54.0 |  21.0 |  20.0°C |  15.0°C | 1.20bar |    0.0 | Lauhdutinta jäähdytetty
+00114  | chls         | HOLD_STATE                |  54.0 |  21.0 |  20.0°C |  15.0°C | 1.20bar |    0.0 | OK
+00115  | aiin         | SEAL_HIGH_PRESSURE        |  54.0 |  21.0 |  20.0°C |  15.0°C | 1.60bar |    0.0 | Korkeapaine lukittu
+00116  | oky          | HOLD_STATE                |  54.0 |  21.0 |  20.0°C |  15.0°C | 1.60bar |    0.0 | OK
+00117  | ches         | HOLD_STATE                |  54.0 |  21.0 |  20.0°C |  15.0°C | 1.60bar |    0.0 | OK
+00118  | aiin         | SEAL_HIGH_PRESSURE        |  54.0 |  21.0 |  20.0°C |  15.0°C | 2.00bar |    0.0 | Korkeapaine lukittu
+00119  | dal          | PUMP_UP_TO_REACTOR        |  51.0 |  24.0 |  20.0°C |  15.0°C | 1.90bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00120  | ytor         | COOL_CONDENSER            |  51.0 |  24.0 |  20.0°C |  15.0°C | 1.45bar |    0.0 | Lauhdutinta jäähdytetty
+00121  | chdar        | FILL_FEED_BASIN           |  56.0 |  24.0 |  20.0°C |  15.0°C | 1.20bar |    0.0 | Syöttöallasta täytetty
+00122  | shey         | RESET_VALVES              |  56.0 |  24.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00123  | qokaiin      | BOOST_PRESSURE            |  56.0 |  24.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00124  | chor         | COOL_CONDENSER            |  56.0 |  24.0 |  20.0°C |  15.0°C | 1.20bar |    0.0 | Lauhdutinta jäähdytetty
+00125  | kar          | SETTLE_SEDIMENT           |  56.0 |  24.0 |  20.0°C |  15.0°C | 1.20bar |    0.0 | OK
+00126  | sheolkedy    | BYPASS_FLOW               |  56.0 |  24.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00127  | otedy        | GRAVITY_FEED              |  55.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Painovoimainen syöttö
+00128  | tedy         | HOLD_STATE                |  55.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00129  | s            | HOLD_STATE                |  55.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00130  | aiin         | SEAL_HIGH_PRESSURE        |  55.0 |  25.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00131  | daiin        | LOCK_SYSTEM               |  55.0 |  25.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Järjestelmä lukittu sykliin
+00132  | shckhy       | RESET_VALVES              |  55.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00133  | chekl        | HOLD_STATE                |  55.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00134  | ol           | BYPASS_FLOW               |  55.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00135  | daiin        | LOCK_SYSTEM               |  55.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Järjestelmä lukittu sykliin
+00136  | chedy        | COOL_CONDENSER            |  55.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00137  | ykeey        | HOLD_STATE                |  55.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00138  | daiin        | LOCK_SYSTEM               |  55.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Järjestelmä lukittu sykliin
+00139  | otal         | PUMP_UP_TO_REACTOR        |  52.0 |  28.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00140  | chdam        | HOLD_STATE                |  52.0 |  28.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00141  | qokam        | BOOST_PRESSURE            |  52.0 |  28.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00142  | qolkain      | BYPASS_FLOW               |  52.0 |  28.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00143  | ol           | BYPASS_FLOW               |  52.0 |  28.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00144  | cheol        | BYPASS_FLOW               |  52.0 |  28.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00145  | daiin        | LOCK_SYSTEM               |  52.0 |  28.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Järjestelmä lukittu sykliin
+00146  | dar          | FILL_FEED_BASIN           |  57.0 |  28.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Syöttöallasta täytetty
+00147  | ol           | BYPASS_FLOW               |  57.0 |  28.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00148  | dld          | HOLD_STATE                |  57.0 |  28.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00149  | ador         | COOL_CONDENSER            |  57.0 |  28.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00150  | aiin         | SEAL_HIGH_PRESSURE        |  57.0 |  28.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00151  | ofcheefar    | SETTLE_SEDIMENT           |  57.0 |  28.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | OK
+00152  | oteol        | BYPASS_FLOW               |  57.0 |  28.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00153  | cholkal      | PUMP_UP_TO_REACTOR        |  54.0 |  31.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00154  | qokal        | BOOST_PRESSURE            |  54.0 |  31.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00155  | dar          | FILL_FEED_BASIN           |  59.0 |  31.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Syöttöallasta täytetty
+00156  | ykdy         | HOLD_STATE                |  59.0 |  31.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | OK
+--------------------------------------------------------------------------------------------------------------------------
+
+============================================================================
+ DIGITAL TWIN v2.0 + MONTE CARLO -YHTEENVETO
+============================================================================
+ AITO JÄRJESTYS:
+  - Valmis tuotto (yield):        0.00 yksikköä
+  - Huippupaine / Loppupaine:     2.00 / 1.40 bar
+  - Turvallisuushälytykset:       0 kpl
+----------------------------------------------------------------------------
+ MONTE CARLO (1000 sivunsisäistä sekoitusta):
+  - Hälytysten ka. (min-max):     0.00 (0-0) | p = 1.0000
+  - Huippupaineen ka. (min-max):  2.56 (1.80-4.20) | p = 0.0799
+  - Tuoton ka. (min-max):         0.00 (0.00-0.00) | p = 1.0000
+============================================================================
+
+C:\Temp\vfsf_digital_twin_v1>python vfsf_digital_twin_v2.py folio_95r2.txt
+
+Ajetaan Digital Twin v2.0 tiedostolle 'folio_95r2.txt' (79 käskyä)...
+--------------------------------------------------------------------------------------------------------------------------
+ASKEL  | SANA         | TOIMENPIDE                | ALLAS | REAKT | R.LÄMPÖ | L.LÄMPÖ | PAINE   | TUOTTO | TILA
+--------------------------------------------------------------------------------------------------------------------------
+00001  | kshedy       | RESET_VALVES              |  20.0 |   0.0 |  20.0°C |  20.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00002  | or           | COOL_CONDENSER            |  20.0 |   0.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00003  | chdy         | HOLD_STATE                |  20.0 |   0.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00004  | dalfchy      | PUMP_UP_TO_REACTOR        |  17.0 |   3.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00005  | qodaiin      | LOCK_SYSTEM               |  17.0 |   3.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Järjestelmä lukittu sykliin
+00006  | chckhyfchy   | HOLD_STATE                |  17.0 |   3.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00007  | daraiin      | FILL_FEED_BASIN           |  22.0 |   3.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Syöttöallasta täytetty
+00008  | dalal        | PUMP_UP_TO_REACTOR        |  19.0 |   6.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00009  | daiin        | LOCK_SYSTEM               |  19.0 |   6.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Järjestelmä lukittu sykliin
+00010  | shody        | RESET_VALVES              |  19.0 |   6.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00011  | chkain       | HOLD_STATE                |  19.0 |   6.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00012  | chol         | BYPASS_FLOW               |  19.0 |   6.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00013  | chckhy       | HOLD_STATE                |  19.0 |   6.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00014  | otain        | GRAVITY_FEED              |  18.0 |   7.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Painovoimainen syöttö
+00015  | oty          | GRAVITY_FEED              |  17.0 |   8.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Painovoimainen syöttö
+00016  | oteedy       | GRAVITY_FEED              |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Painovoimainen syöttö
+00017  | kar          | SETTLE_SEDIMENT           |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00018  | okam         | HOLD_STATE                |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00019  | todaiin      | LOCK_SYSTEM               |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Järjestelmä lukittu sykliin
+00020  | chor         | COOL_CONDENSER            |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00021  | chckhy       | HOLD_STATE                |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00022  | qokol        | BOOST_PRESSURE            |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00023  | chkar        | SETTLE_SEDIMENT           |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | OK
+00024  | ol           | BYPASS_FLOW               |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00025  | otaiin       | SEAL_HIGH_PRESSURE        |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00026  | ofar         | SETTLE_SEDIMENT           |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | OK
+00027  | okain        | HOLD_STATE                |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | OK
+00028  | aram         | SETTLE_SEDIMENT           |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | OK
+00029  | daiin        | LOCK_SYSTEM               |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Järjestelmä lukittu sykliin
+00030  | shody        | RESET_VALVES              |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00031  | tor          | COOL_CONDENSER            |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00032  | or           | COOL_CONDENSER            |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00033  | okain        | HOLD_STATE                |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00034  | chckhey      | HOLD_STATE                |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00035  | tshod        | RESET_VALVES              |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00036  | qokal        | BOOST_PRESSURE            |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00037  | ody          | HOLD_STATE                |  15.0 |  10.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | OK
+00038  | chcfhol      | JET_INJECT                |  12.0 |  13.0 |  20.0°C |  15.0°C | 1.30bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00039  | okal         | PUMP_UP_TO_REACTOR        |   9.0 |  16.0 |  20.0°C |  15.0°C | 1.20bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00040  | chedy        | COOL_CONDENSER            |   9.0 |  16.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00041  | dalshdy      | PUMP_UP_TO_REACTOR        |   6.0 |  19.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00042  | qopchdy      | HOLD_STATE                |   6.0 |  19.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00043  | kary         | SETTLE_SEDIMENT           |   6.0 |  19.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00044  | y            | HOLD_STATE                |   6.0 |  19.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00045  | olkor        | COOL_CONDENSER            |   6.0 |  19.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00046  | ol           | BYPASS_FLOW               |   6.0 |  19.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00047  | shol         | RESET_VALVES              |   6.0 |  19.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00048  | qotar        | THROTTLE_PRESSURE         |   6.0 |  19.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Painetta kuristettu/säädetty
+00049  | chdy         | HOLD_STATE                |   6.0 |  19.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00050  | chdy         | HOLD_STATE                |   6.0 |  19.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00051  | qokar        | BOOST_PRESSURE            |   6.0 |  19.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00052  | okar         | SETTLE_SEDIMENT           |   6.0 |  19.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | OK
+00053  | qokar        | BOOST_PRESSURE            |   6.0 |  19.0 |  20.0°C |  15.0°C | 1.80bar |    0.0 | Korkeapaine lukittu
+00054  | odaly        | PUMP_UP_TO_REACTOR        |   3.0 |  22.0 |  20.0°C |  15.0°C | 1.70bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00055  | dshedy       | RESET_VALVES              |   3.0 |  22.0 |  20.0°C |  15.0°C | 1.10bar |    0.0 | Ohivirtaus / venttiilit avattu
+00056  | otal         | PUMP_UP_TO_REACTOR        |   0.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00057  | qokal        | BOOST_PRESSURE            |   0.0 |  25.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00058  | dol          | GRAVITY_DRAIN_TO_RECEIVER |   0.0 |  25.0 |  20.0°C |  15.0°C | 1.15bar |    0.0 | Painovoimainen valuma keräysastiaan
+00059  | or           | COOL_CONDENSER            |   0.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00060  | eeedy        | HOLD_STATE                |   0.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00061  | okeedy       | HOLD_STATE                |   0.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00062  | okedyted     | HOLD_STATE                |   0.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00063  | otam         | GRAVITY_FEED              |   0.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Painovoimainen syöttö
+00064  | tedykaiin    | SEAL_HIGH_PRESSURE        |   0.0 |  25.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00065  | y            | HOLD_STATE                |   0.0 |  25.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | OK
+00066  | cheol        | BYPASS_FLOW               |   0.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00067  | okal         | PUMP_UP_TO_REACTOR        |   0.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | VAROITUS: Syöttöallas tyhjä
+00068  | chedy        | COOL_CONDENSER            |   0.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00069  | shdy         | RESET_VALVES              |   0.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00070  | qokchdy      | PRESSURE_CALIBRATE        |   0.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Painetta kuristettu/säädetty
+00071  | otar         | SETTLE_SEDIMENT           |   0.0 |  25.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00072  | chctham      | HEAT_REACTOR              |   0.0 |  25.0 |  36.5°C |  15.0°C | 1.00bar |    0.0 | Reaktoria lämmitetty
+00073  | poiin        | HOLD_STATE                |   0.0 |  25.0 |  35.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00074  | okar         | SETTLE_SEDIMENT           |   0.0 |  25.0 |  33.5°C |  15.0°C | 1.00bar |    0.0 | OK
+00075  | qokol        | BOOST_PRESSURE            |   0.0 |  25.0 |  32.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00076  | shsdy        | RESET_VALVES              |   0.0 |  25.0 |  30.5°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00077  | okar         | SETTLE_SEDIMENT           |   0.0 |  25.0 |  29.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00078  | chdaiin      | LOCK_SYSTEM               |  15.0 |  25.0 |  27.5°C |  15.0°C | 1.00bar |    0.0 | Järjestelmä lukittu sykliin
+00079  | olky         | BYPASS_FLOW               |  15.0 |  25.0 |  26.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+--------------------------------------------------------------------------------------------------------------------------
+
+============================================================================
+ DIGITAL TWIN v2.0 + MONTE CARLO -YHTEENVETO
+============================================================================
+ AITO JÄRJESTYS:
+  - Valmis tuotto (yield):        0.00 yksikköä
+  - Huippupaine / Loppupaine:     1.80 / 1.00 bar
+  - Turvallisuushälytykset:       0 kpl
+----------------------------------------------------------------------------
+ MONTE CARLO (1000 sivunsisäistä sekoitusta):
+  - Hälytysten ka. (min-max):     0.00 (0-0) | p = 1.0000
+  - Huippupaineen ka. (min-max):  1.93 (1.40-3.25) | p = 0.5534
+  - Tuoton ka. (min-max):         0.00 (0.00-0.00) | p = 1.0000
+============================================================================
+
+C:\Temp\vfsf_digital_twin_v1>python vfsf_digital_twin_v2.py Voynich_test_source.txt
+
+Ajetaan Digital Twin v2.0 tiedostolle 'Voynich_test_source.txt' (876 käskyä)...
+--------------------------------------------------------------------------------------------------------------------------
+ASKEL  | SANA         | TOIMENPIDE                | ALLAS | REAKT | R.LÄMPÖ | L.LÄMPÖ | PAINE   | TUOTTO | TILA
+--------------------------------------------------------------------------------------------------------------------------
+00001  | fachys       | HOLD_STATE                |  20.0 |   0.0 |  20.0°C |  20.0°C | 1.00bar |    0.0 | OK
+00002  | ykal         | PUMP_UP_TO_REACTOR        |  17.0 |   3.0 |  20.0°C |  20.0°C | 1.00bar |    0.0 | Siirretty 3.0 yks. reaktoriin
+00003  | ar           | SETTLE_SEDIMENT           |  17.0 |   3.0 |  20.0°C |  20.0°C | 1.00bar |    0.0 | OK
+00004  | ataiin       | SEAL_HIGH_PRESSURE        |  17.0 |   3.0 |  20.0°C |  20.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00005  | shol         | RESET_VALVES              |  17.0 |   3.0 |  20.0°C |  20.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00006  | shory        | COOL_CONDENSER            |  17.0 |   3.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00007  | res          | HOLD_STATE                |  17.0 |   3.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00008  | y            | HOLD_STATE                |  17.0 |   3.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00009  | kor          | COOL_CONDENSER            |  17.0 |   3.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00010  | sholdy       | RESET_VALVES              |  17.0 |   3.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00011  | sory         | COOL_CONDENSER            |  17.0 |   3.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00012  | ckhar        | SETTLE_SEDIMENT           |  17.0 |   3.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00013  | or           | COOL_CONDENSER            |  17.0 |   3.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00014  | y            | HOLD_STATE                |  17.0 |   3.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00015  | kair         | HOLD_STATE                |  17.0 |   3.0 |  20.0°C |  15.0°C | 1.00bar |    0.0 | OK
+00016  | chtaiin      | SEAL_HIGH_PRESSURE        |  17.0 |   3.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00017  | shar         | SETTLE_SEDIMENT           |  17.0 |   3.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | OK
+00018  | ase          | HOLD_STATE                |  17.0 |   3.0 |  20.0°C |  15.0°C | 1.40bar |    0.0 | OK
+00019  | cthar        | HEAT_REACTOR              |  17.0 |   3.0 |  36.5°C |  15.0°C | 1.65bar |    0.0 | Reaktoria lämmitetty
+00020  | cthar        | HEAT_REACTOR              |  17.0 |   3.0 |  53.0°C |  15.0°C | 1.90bar |    0.0 | Reaktoria lämmitetty
+00021  | dan          | HOLD_STATE                |  17.0 |   3.0 |  51.5°C |  15.0°C | 1.90bar |    0.0 | OK
+00022  | syaiir       | HOLD_STATE                |  17.0 |   3.0 |  50.0°C |  15.0°C | 1.90bar |    0.0 | OK
+00023  | sheky        | RESET_VALVES              |  17.0 |   3.0 |  48.5°C |  15.0°C | 1.30bar |    0.0 | Ohivirtaus / venttiilit avattu
+00024  | or           | COOL_CONDENSER            |  17.0 |   3.0 |  47.0°C |  15.0°C | 1.00bar |    0.0 | Lauhdutinta jäähdytetty
+00025  | ykaiin       | SEAL_HIGH_PRESSURE        |  17.0 |   3.0 |  45.5°C |  15.0°C | 1.40bar |    0.0 | Korkeapaine lukittu
+00026  | shod         | RESET_VALVES              |  17.0 |   3.0 |  44.0°C |  15.0°C | 1.00bar |    0.0 | Ohivirtaus / venttiilit avattu
+00027  | cthoary      | HEAT_REACTOR              |  17.0 |   3.0 |  60.5°C |  15.0°C | 1.00bar |    0.0 | Reaktoria lämmitetty
+00028  | cthes        | HEAT_REACTOR              |  17.0 |   1.5 |  77.0°C |  15.0°C | 1.08bar |    1.2 | Reaktoria lämmitetty
+00029  | daraiin      | FILL_FEED_BASIN           |  22.0 |   0.0 |  75.5°C |  15.0°C | 1.08bar |    2.4 | Syöttöallasta täytetty
+00030  | sy           | HOLD_STATE                |  22.0 |   0.0 |  74.0°C |  15.0°C | 1.00bar |    3.0 | OK
+00031  | soiin        | HOLD_STATE                |  22.0 |   0.0 |  72.5°C |  15.0°C | 1.00bar |    3.0 | OK
+00032  | oteey        | GRAVITY_FEED              |  20.0 |   2.0 |  69.5°C |  15.0°C | 1.00bar |    3.0 | Painovoimainen syöttö
+00033  | oteo         | GRAVITY_FEED              |  19.0 |   3.0 |  68.0°C |  15.0°C | 1.00bar |    3.0 | Painovoimainen syöttö
+00034  | roloty       | BYPASS_FLOW               |  19.0 |   3.0 |  66.5°C |  15.0°C | 1.00bar |    3.0 | Ohivirtaus / venttiilit avattu
+00035  | cthiar       | HEAT_REACTOR              |  19.0 |   1.5 |  83.0°C |  15.0°C | 1.08bar |    4.2 | Reaktoria lämmitetty
+00036  | daiin        | LOCK_SYSTEM               |  19.0 |   0.0 |  81.5°C |  15.0°C | 1.16bar |    5.4 | Järjestelmä lukittu sykliin
+00037  | okaiin       | SEAL_HIGH_PRESSURE        |  19.0 |   0.0 |  80.0°C |  15.0°C | 1.50bar |    6.0 | Korkeapaine lukittu
+00038  | or           | COOL_CONDENSER            |  19.0 |   0.0 |  78.5°C |  15.0°C | 1.30bar |    6.0 | Lauhdutinta jäähdytetty
+00039  | okan         | HOLD_STATE                |  19.0 |   0.0 |  77.0°C |  15.0°C | 1.30bar |    6.0 | OK
+00040  | sair         | HOLD_STATE                |  19.0 |   0.0 |  75.5°C |  15.0°C | 1.30bar |    6.0 | OK
+00041  | y            | HOLD_STATE                |  19.0 |   0.0 |  74.0°C |  15.0°C | 1.30bar |    6.0 | OK
+00042  | chear        | SETTLE_SEDIMENT           |  19.0 |   0.0 |  72.5°C |  15.0°C | 1.30bar |    6.0 | OK
+00043  | cthaiin      | HEAT_REACTOR              |  19.0 |   0.0 |  89.0°C |  15.0°C | 1.55bar |    6.0 | HÄLYTYS: Reaktorin kuivakeitto!
+00044  | cphar        | CROSS_FLOW_BALANCE        |  19.0 |   0.0 |  87.5°C |  15.0°C | 1.00bar |    6.0 | HÄLYTYS: Reaktorin kuivakeitto!
+00045  | cfhaiin      | JET_INJECT                |  16.0 |   1.5 |  86.0°C |  15.0°C | 1.08bar |    7.2 | Siirretty 3.0 yks. reaktoriin
+00046  | ydaraishy    | FILL_FEED_BASIN           |  21.0 |   0.0 |  84.5°C |  15.0°C | 1.08bar |    8.4 | Syöttöallasta täytetty
+00047  | odar         | FILL_FEED_BASIN           |  26.0 |   0.0 |  83.0°C |  15.0°C | 1.00bar |    9.0 | Syöttöallasta täytetty
+00048  | shol         | RESET_VALVES              |  26.0 |   0.0 |  81.5°C |  15.0°C | 1.00bar |    9.0 | Ohivirtaus / venttiilit avattu
+00049  | cphoy        | CROSS_FLOW_BALANCE        |  26.0 |   0.0 |  80.0°C |  15.0°C | 1.00bar |    9.0 | Ohivirtaus / venttiilit avattu
+00050  | oydar        | FILL_FEED_BASIN           |  31.0 |   0.0 |  78.5°C |  15.0°C | 1.00bar |    9.0 | Syöttöallasta täytetty
+00051  | sh           | RESET_VALVES              |  31.0 |   0.0 |  77.0°C |  15.0°C | 1.00bar |    9.0 | Ohivirtaus / venttiilit avattu
+00052  | s            | HOLD_STATE                |  31.0 |   0.0 |  75.5°C |  15.0°C | 1.00bar |    9.0 | OK
+00053  | cfhoaiin     | JET_INJECT                |  28.0 |   3.0 |  74.0°C |  15.0°C | 1.00bar |    9.0 | Siirretty 3.0 yks. reaktoriin
+00054  | shodary      | FILL_FEED_BASIN           |  33.0 |   3.0 |  72.5°C |  15.0°C | 1.00bar |    9.0 | Syöttöallasta täytetty
+00055  | yshey        | RESET_VALVES              |  33.0 |   3.0 |  71.0°C |  15.0°C | 1.00bar |    9.0 | Ohivirtaus / venttiilit avattu
+00056  | shody        | RESET_VALVES              |  33.0 |   3.0 |  69.5°C |  15.0°C | 1.00bar |    9.0 | Ohivirtaus / venttiilit avattu
+00057  | okchoy       | HOLD_STATE                |  33.0 |   3.0 |  68.0°C |  15.0°C | 1.00bar |    9.0 | OK
+00058  | otchol       | BYPASS_FLOW               |  33.0 |   3.0 |  66.5°C |  15.0°C | 1.00bar |    9.0 | Ohivirtaus / venttiilit avattu
+00059  | chocthy      | HEAT_REACTOR              |  33.0 |   1.5 |  83.0°C |  15.0°C | 1.08bar |   10.2 | Reaktoria lämmitetty
+00060  | os           | HOLD_STATE                |  33.0 |   0.0 |  81.5°C |  15.0°C | 1.08bar |   11.4 | OK
+00061  | chy          | HOLD_STATE                |  33.0 |   0.0 |  80.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00062  | dain         | OPEN_LOW_PRESSURE         |  33.0 |   0.0 |  78.5°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00063  | chor         | COOL_CONDENSER            |  33.0 |   0.0 |  77.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00064  | kos          | HOLD_STATE                |  33.0 |   0.0 |  75.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00065  | daiin        | LOCK_SYSTEM               |  33.0 |   0.0 |  74.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00066  | shos         | RESET_VALVES              |  33.0 |   0.0 |  72.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00067  | cfhol        | JET_INJECT                |  30.0 |   3.0 |  71.0°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00068  | shody        | RESET_VALVES              |  30.0 |   3.0 |  69.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00069  | dain         | OPEN_LOW_PRESSURE         |  30.0 |   3.0 |  68.0°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00070  | os           | HOLD_STATE                |  30.0 |   3.0 |  66.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00071  | teody        | HOLD_STATE                |  30.0 |   3.0 |  65.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00072  | ydain        | OPEN_LOW_PRESSURE         |  30.0 |   3.0 |  63.5°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00073  | cphesaiin    | CROSS_FLOW_BALANCE        |  30.0 |   3.0 |  62.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00074  | ols          | BYPASS_FLOW               |  30.0 |   3.0 |  60.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00075  | cphey        | CROSS_FLOW_BALANCE        |  30.0 |   3.0 |  59.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00076  | ytain        | HOLD_STATE                |  30.0 |   3.0 |  57.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00077  | shoshy       | RESET_VALVES              |  30.0 |   3.0 |  56.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00078  | cphodal      | PUMP_UP_TO_REACTOR        |  27.0 |   6.0 |  54.5°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00079  | es           | HOLD_STATE                |  27.0 |   6.0 |  53.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00080  | oksho        | RESET_VALVES              |  27.0 |   6.0 |  51.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00081  | kshoy        | RESET_VALVES              |  27.0 |   6.0 |  50.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00082  | otairin      | GRAVITY_FEED              |  26.0 |   7.0 |  48.5°C |  15.0°C | 1.00bar |   12.0 | Painovoimainen syöttö
+00083  | oteol        | BYPASS_FLOW               |  26.0 |   7.0 |  47.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00084  | okan         | HOLD_STATE                |  26.0 |   7.0 |  45.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00085  | shodain      | OPEN_LOW_PRESSURE         |  26.0 |   7.0 |  44.0°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00086  | sckhey       | HOLD_STATE                |  26.0 |   7.0 |  42.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00087  | daiin        | LOCK_SYSTEM               |  26.0 |   7.0 |  41.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00088  | shoy         | RESET_VALVES              |  26.0 |   7.0 |  39.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00089  | ckhey        | HOLD_STATE                |  26.0 |   7.0 |  38.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00090  | kodaiin      | LOCK_SYSTEM               |  26.0 |   7.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00091  | cphy         | CROSS_FLOW_BALANCE        |  26.0 |   7.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00092  | cphodaiils   | CROSS_FLOW_BALANCE        |  26.0 |   7.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00093  | cthey        | HEAT_REACTOR              |  26.0 |   7.0 |  50.0°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00094  | sho          | RESET_VALVES              |  26.0 |   7.0 |  48.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00095  | oldain       | OPEN_LOW_PRESSURE         |  26.0 |   7.0 |  47.0°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00096  | d            | HOLD_STATE                |  26.0 |   7.0 |  45.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00097  | dain         | OPEN_LOW_PRESSURE         |  26.0 |   7.0 |  44.0°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00098  | oiin         | HOLD_STATE                |  26.0 |   7.0 |  42.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00099  | chol         | BYPASS_FLOW               |  26.0 |   7.0 |  41.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00100  | odaiin       | LOCK_SYSTEM               |  26.0 |   7.0 |  39.5°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00101  | chodain      | OPEN_LOW_PRESSURE         |  26.0 |   7.0 |  38.0°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00102  | chdy         | HOLD_STATE                |  26.0 |   7.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00103  | okin         | HOLD_STATE                |  26.0 |   7.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00104  | d            | HOLD_STATE                |  26.0 |   7.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00105  | n            | HOLD_STATE                |  26.0 |   7.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00106  | cthy         | HEAT_REACTOR              |  26.0 |   7.0 |  48.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00107  | kod          | HOLD_STATE                |  26.0 |   7.0 |  47.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00108  | daiin        | LOCK_SYSTEM               |  26.0 |   7.0 |  45.5°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00109  | shckhey      | RESET_VALVES              |  26.0 |   7.0 |  44.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00110  | eo           | HOLD_STATE                |  26.0 |   7.0 |  42.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00111  | r            | HOLD_STATE                |  26.0 |   7.0 |  41.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00112  | char         | SETTLE_SEDIMENT           |  26.0 |   7.0 |  39.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00113  | shey         | RESET_VALVES              |  26.0 |   7.0 |  38.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00114  | kol          | BYPASS_FLOW               |  26.0 |   7.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00115  | chol         | BYPASS_FLOW               |  26.0 |   7.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00116  | chol         | BYPASS_FLOW               |  26.0 |   7.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00117  | kor          | COOL_CONDENSER            |  26.0 |   7.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00118  | chal         | PUMP_UP_TO_REACTOR        |  23.0 |  10.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00119  | sho          | RESET_VALVES              |  23.0 |  10.0 |  29.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00120  | chol         | BYPASS_FLOW               |  23.0 |  10.0 |  27.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00121  | shodan       | RESET_VALVES              |  23.0 |  10.0 |  26.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00122  | kshy         | RESET_VALVES              |  23.0 |  10.0 |  24.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00123  | kchy         | HOLD_STATE                |  23.0 |  10.0 |  23.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00124  | d            | HOLD_STATE                |  23.0 |  10.0 |  21.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00125  | or           | COOL_CONDENSER            |  23.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00126  | chodaiin     | LOCK_SYSTEM               |  23.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00127  | sho          | RESET_VALVES              |  23.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00128  | koeam        | HOLD_STATE                |  23.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00129  | ycho         | HOLD_STATE                |  23.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00130  | tchey        | COOL_CONDENSER            |  23.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00131  | chekain      | HOLD_STATE                |  23.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00132  | sheo         | RESET_VALVES              |  23.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00133  | pshol        | RESET_VALVES              |  23.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00134  | dydyd        | HOLD_STATE                |  23.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00135  | cthy         | HEAT_REACTOR              |  23.0 |  10.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00136  | daiy         | HOLD_STATE                |  23.0 |  10.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00137  | yto          | HOLD_STATE                |  23.0 |  10.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00138  | shol         | RESET_VALVES              |  23.0 |  10.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00139  | she          | RESET_VALVES              |  23.0 |  10.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00140  | kodshey      | RESET_VALVES              |  23.0 |  10.0 |  29.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00141  | cphealy      | CROSS_FLOW_BALANCE        |  23.0 |  10.0 |  27.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00142  | dar          | FILL_FEED_BASIN           |  28.0 |  10.0 |  26.0°C |  15.0°C | 1.00bar |   12.0 | Syöttöallasta täytetty
+00143  | ain          | HOLD_STATE                |  28.0 |  10.0 |  24.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00144  | dain         | OPEN_LOW_PRESSURE         |  28.0 |  10.0 |  23.0°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00145  | ckhyds       | HOLD_STATE                |  28.0 |  10.0 |  21.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00146  | dchar        | SETTLE_SEDIMENT           |  28.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00147  | shcthaiin    | HEAT_REACTOR              |  28.0 |  10.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00148  | okaiir       | HOLD_STATE                |  28.0 |  10.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00149  | chey         | COOL_CONDENSER            |  28.0 |  10.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00150  | chy          | HOLD_STATE                |  28.0 |  10.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00151  | tol          | BYPASS_FLOW               |  28.0 |  10.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00152  | cthols       | HEAT_REACTOR              |  28.0 |  10.0 |  47.0°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00153  | dloo         | HOLD_STATE                |  28.0 |  10.0 |  45.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00154  | shok         | RESET_VALVES              |  28.0 |  10.0 |  44.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00155  | chor         | COOL_CONDENSER            |  28.0 |  10.0 |  42.5°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00156  | chey         | COOL_CONDENSER            |  28.0 |  10.0 |  41.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00157  | dain         | OPEN_LOW_PRESSURE         |  28.0 |  10.0 |  39.5°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00158  | ckhey        | HOLD_STATE                |  28.0 |  10.0 |  38.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00159  | otol         | BYPASS_FLOW               |  28.0 |  10.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00160  | daiiin       | HOLD_STATE                |  28.0 |  10.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00161  | cpho         | CROSS_FLOW_BALANCE        |  28.0 |  10.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00162  | shaiin       | SEAL_HIGH_PRESSURE        |  28.0 |  10.0 |  32.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00163  | shokcheey    | HOLD_STATE                |  28.0 |  10.0 |  29.0°C |  15.0°C | 1.40bar |   12.0 | OK
+00164  | chol         | BYPASS_FLOW               |  28.0 |  10.0 |  27.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00165  | tshodeesy    | RESET_VALVES              |  28.0 |  10.0 |  24.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00166  | shey         | RESET_VALVES              |  28.0 |  10.0 |  23.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00167  | pydeey       | HOLD_STATE                |  28.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00168  | cha          | HOLD_STATE                |  28.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00169  | ro           | HOLD_STATE                |  28.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00170  | dar          | FILL_FEED_BASIN           |  33.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Syöttöallasta täytetty
+00171  | ydoin        | HOLD_STATE                |  33.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00172  | chol         | BYPASS_FLOW               |  33.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00173  | dain         | OPEN_LOW_PRESSURE         |  33.0 |  10.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00174  | cthal        | HEAT_REACTOR              |  33.0 |  10.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00175  | dar          | FILL_FEED_BASIN           |  38.0 |  10.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | Syöttöallasta täytetty
+00176  | shear        | SETTLE_SEDIMENT           |  38.0 |  10.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00177  | kaiin        | SEAL_HIGH_PRESSURE        |  38.0 |  10.0 |  32.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00178  | dar          | FILL_FEED_BASIN           |  43.0 |  10.0 |  30.5°C |  15.0°C | 1.40bar |   12.0 | Syöttöallasta täytetty
+00179  | shey         | RESET_VALVES              |  43.0 |  10.0 |  29.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00180  | cthar        | HEAT_REACTOR              |  43.0 |  10.0 |  45.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00181  | cho          | HOLD_STATE                |  43.0 |  10.0 |  44.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00182  | o            | GRAVITY_FEED              |  42.0 |  11.0 |  42.5°C |  15.0°C | 1.00bar |   12.0 | Painovoimainen syöttö
+00183  | kaiin        | SEAL_HIGH_PRESSURE        |  42.0 |  11.0 |  41.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00184  | shoaiin      | SEAL_HIGH_PRESSURE        |  42.0 |  11.0 |  39.5°C |  15.0°C | 1.80bar |   12.0 | Korkeapaine lukittu
+00185  | okol         | BYPASS_FLOW               |  42.0 |  11.0 |  38.0°C |  15.0°C | 1.20bar |   12.0 | Ohivirtaus / venttiilit avattu
+00186  | daiin        | LOCK_SYSTEM               |  42.0 |  11.0 |  36.5°C |  15.0°C | 1.20bar |   12.0 | Järjestelmä lukittu sykliin
+00187  | far          | SETTLE_SEDIMENT           |  42.0 |  11.0 |  35.0°C |  15.0°C | 1.20bar |   12.0 | OK
+00188  | cthol        | HEAT_REACTOR              |  42.0 |  11.0 |  51.5°C |  15.0°C | 1.45bar |   12.0 | Reaktoria lämmitetty
+00189  | daiin        | LOCK_SYSTEM               |  42.0 |  11.0 |  50.0°C |  15.0°C | 1.45bar |   12.0 | Järjestelmä lukittu sykliin
+00190  | ctholdar     | FILL_FEED_BASIN           |  47.0 |  11.0 |  48.5°C |  15.0°C | 1.45bar |   12.0 | Syöttöallasta täytetty
+00191  | ycheey       | HOLD_STATE                |  47.0 |  11.0 |  45.5°C |  15.0°C | 1.45bar |   12.0 | OK
+00192  | okeey        | HOLD_STATE                |  47.0 |  11.0 |  42.5°C |  15.0°C | 1.45bar |   12.0 | OK
+00193  | oky          | HOLD_STATE                |  47.0 |  11.0 |  41.0°C |  15.0°C | 1.45bar |   12.0 | OK
+00194  | daiin        | LOCK_SYSTEM               |  47.0 |  11.0 |  39.5°C |  15.0°C | 1.45bar |   12.0 | Järjestelmä lukittu sykliin
+00195  | okchey       | COOL_CONDENSER            |  47.0 |  11.0 |  38.0°C |  15.0°C | 1.25bar |   12.0 | Lauhdutinta jäähdytetty
+00196  | kokaiin      | SEAL_HIGH_PRESSURE        |  47.0 |  11.0 |  36.5°C |  15.0°C | 1.65bar |   12.0 | Korkeapaine lukittu
+00197  | o            | GRAVITY_FEED              |  47.0 |  11.0 |  35.0°C |  15.0°C | 1.65bar |   12.0 | Syöttö estetty (venttiilit lukossa)
+00198  | chol         | BYPASS_FLOW               |  47.0 |  11.0 |  33.5°C |  15.0°C | 1.05bar |   12.0 | Ohivirtaus / venttiilit avattu
+00199  | k            | HOLD_STATE                |  47.0 |  11.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00200  | dchy         | HOLD_STATE                |  47.0 |  11.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00201  | dal          | PUMP_UP_TO_REACTOR        |  44.0 |  14.0 |  29.0°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00202  | dcheo        | HOLD_STATE                |  44.0 |  14.0 |  27.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00203  | shody        | RESET_VALVES              |  44.0 |  14.0 |  26.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00204  | koshey       | RESET_VALVES              |  44.0 |  14.0 |  24.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00205  | cthy         | HEAT_REACTOR              |  44.0 |  14.0 |  41.0°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00206  | ok           | HOLD_STATE                |  44.0 |  14.0 |  39.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00207  | chey         | COOL_CONDENSER            |  44.0 |  14.0 |  38.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00208  | keey         | HOLD_STATE                |  44.0 |  14.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00209  | keey         | HOLD_STATE                |  44.0 |  14.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00210  | dal          | PUMP_UP_TO_REACTOR        |  41.0 |  17.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00211  | chtor        | COOL_CONDENSER            |  41.0 |  17.0 |  29.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00212  | eo           | HOLD_STATE                |  41.0 |  17.0 |  27.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00213  | chol         | BYPASS_FLOW               |  41.0 |  17.0 |  26.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00214  | chok         | HOLD_STATE                |  41.0 |  17.0 |  24.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00215  | choty        | HOLD_STATE                |  41.0 |  17.0 |  23.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00216  | chotey       | HOLD_STATE                |  41.0 |  17.0 |  21.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00217  | dchaiin      | SEAL_HIGH_PRESSURE        |  41.0 |  17.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00218  | kchsy        | HOLD_STATE                |  41.0 |  17.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00219  | chydaiin     | LOCK_SYSTEM               |  41.0 |  17.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00220  | olo          | BYPASS_FLOW               |  41.0 |  17.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00221  | l            | OPEN_DRAIN                |  41.0 |  17.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00222  | tchey        | COOL_CONDENSER            |  41.0 |  17.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00223  | char         | SETTLE_SEDIMENT           |  41.0 |  17.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00224  | cfhar        | JET_INJECT                |  38.0 |  20.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00225  | am           | HOLD_STATE                |  38.0 |  20.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00226  | yteey        | HOLD_STATE                |  38.0 |  20.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00227  | char         | SETTLE_SEDIMENT           |  38.0 |  20.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00228  | or           | COOL_CONDENSER            |  38.0 |  20.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00229  | ochydcho     | HOLD_STATE                |  38.0 |  20.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00230  | lkody        | HOLD_STATE                |  38.0 |  20.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00231  | okodar       | FILL_FEED_BASIN           |  43.0 |  20.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Syöttöallasta täytetty
+00232  | chody        | HOLD_STATE                |  43.0 |  20.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00233  | da           | HOLD_STATE                |  43.0 |  20.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00234  | ckhy         | HOLD_STATE                |  43.0 |  20.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00235  | ckhockhy     | HOLD_STATE                |  43.0 |  20.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00236  | shydksheey   | RESET_VALVES              |  43.0 |  20.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00237  | cthy         | HEAT_REACTOR              |  43.0 |  20.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00238  | kotchody     | HOLD_STATE                |  43.0 |  20.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00239  | dal          | PUMP_UP_TO_REACTOR        |  40.0 |  23.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00240  | dol          | GRAVITY_DRAIN_TO_RECEIVER |  40.0 |  23.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | Painovoimainen valuma keräysastiaan
+00241  | chokeo       | HOLD_STATE                |  40.0 |  23.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00242  | dair         | FILL_FEED_BASIN           |  45.0 |  23.0 |  29.0°C |  15.0°C | 1.00bar |   12.0 | Syöttöallasta täytetty
+00243  | damsochey    | COOL_CONDENSER            |  45.0 |  23.0 |  27.5°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00244  | chokody      | HOLD_STATE                |  45.0 |  23.0 |  26.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00245  | potoy        | GRAVITY_FEED              |  44.0 |  24.0 |  24.5°C |  15.0°C | 1.00bar |   12.0 | Painovoimainen syöttö
+00246  | shol         | RESET_VALVES              |  44.0 |  24.0 |  23.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00247  | dair         | FILL_FEED_BASIN           |  49.0 |  24.0 |  21.5°C |  15.0°C | 1.00bar |   12.0 | Syöttöallasta täytetty
+00248  | cphoaldar    | FILL_FEED_BASIN           |  54.0 |  24.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Syöttöallasta täytetty
+00249  | chey         | COOL_CONDENSER            |  54.0 |  24.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00250  | tody         | HOLD_STATE                |  54.0 |  24.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00251  | otoaiin      | SEAL_HIGH_PRESSURE        |  54.0 |  24.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00252  | shoshy       | RESET_VALVES              |  54.0 |  24.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00253  | choky        | HOLD_STATE                |  54.0 |  24.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00254  | chol         | BYPASS_FLOW               |  54.0 |  24.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00255  | ctho         | HEAT_REACTOR              |  54.0 |  24.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00256  | l            | OPEN_DRAIN                |  54.0 |  24.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00257  | shol         | RESET_VALVES              |  54.0 |  24.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00258  | okaldolchey  | GRAVITY_DRAIN_TO_RECEIVER |  54.0 |  24.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | Painovoimainen valuma keräysastiaan
+00259  | chodo        | HOLD_STATE                |  54.0 |  24.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00260  | lol          | BYPASS_FLOW               |  54.0 |  24.0 |  29.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00261  | chy          | HOLD_STATE                |  54.0 |  24.0 |  27.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00262  | cthy         | HEAT_REACTOR              |  54.0 |  24.0 |  44.0°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00263  | qo           | HOLD_STATE                |  54.0 |  24.0 |  42.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00264  | ol           | BYPASS_FLOW               |  54.0 |  24.0 |  41.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00265  | choees       | HOLD_STATE                |  54.0 |  24.0 |  38.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00266  | cheol        | BYPASS_FLOW               |  54.0 |  24.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00267  | dol          | GRAVITY_DRAIN_TO_RECEIVER |  54.0 |  24.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | Painovoimainen valuma keräysastiaan
+00268  | ctheyykol    | HEAT_REACTOR              |  54.0 |  24.0 |  51.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00269  | dol          | GRAVITY_DRAIN_TO_RECEIVER |  54.0 |  24.0 |  50.0°C |  15.0°C | 1.00bar |   12.0 | Painovoimainen valuma keräysastiaan
+00270  | dolo         | GRAVITY_DRAIN_TO_RECEIVER |  54.0 |  24.0 |  48.5°C |  15.0°C | 1.00bar |   12.0 | Painovoimainen valuma keräysastiaan
+00271  | ykol         | BYPASS_FLOW               |  54.0 |  24.0 |  47.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00272  | do           | HOLD_STATE                |  54.0 |  24.0 |  45.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00273  | lchiody      | HOLD_STATE                |  54.0 |  24.0 |  44.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00274  | okolshol     | RESET_VALVES              |  54.0 |  24.0 |  42.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00275  | kol          | BYPASS_FLOW               |  54.0 |  24.0 |  41.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00276  | kechy        | HOLD_STATE                |  54.0 |  24.0 |  39.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00277  | chol         | BYPASS_FLOW               |  54.0 |  24.0 |  38.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00278  | kychol       | BYPASS_FLOW               |  54.0 |  24.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00279  | cthol        | HEAT_REACTOR              |  54.0 |  24.0 |  53.0°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00280  | chody        | HOLD_STATE                |  54.0 |  24.0 |  51.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00281  | chol         | BYPASS_FLOW               |  54.0 |  24.0 |  50.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00282  | daiin        | LOCK_SYSTEM               |  54.0 |  24.0 |  48.5°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00283  | shor         | COOL_CONDENSER            |  54.0 |  24.0 |  47.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00284  | okol         | BYPASS_FLOW               |  54.0 |  24.0 |  45.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00285  | chol         | BYPASS_FLOW               |  54.0 |  24.0 |  44.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00286  | dol          | GRAVITY_DRAIN_TO_RECEIVER |  54.0 |  24.0 |  42.5°C |  15.0°C | 1.00bar |   12.0 | Painovoimainen valuma keräysastiaan
+00287  | ky           | HOLD_STATE                |  54.0 |  24.0 |  41.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00288  | darshol      | FILL_FEED_BASIN           |  59.0 |  24.0 |  39.5°C |  15.0°C | 1.00bar |   12.0 | Syöttöallasta täytetty
+00289  | dchor        | COOL_CONDENSER            |  59.0 |  24.0 |  38.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00290  | o            | GRAVITY_FEED              |  58.0 |  25.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Painovoimainen syöttö
+00291  | tcho         | HOLD_STATE                |  58.0 |  25.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00292  | dar          | FILL_FEED_BASIN           |  63.0 |  25.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | Syöttöallasta täytetty
+00293  | ody          | HOLD_STATE                |  63.0 |  25.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00294  | taor         | COOL_CONDENSER            |  63.0 |  25.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00295  | chotchey     | COOL_CONDENSER            |  63.0 |  25.0 |  29.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00296  | dal          | PUMP_UP_TO_REACTOR        |  60.0 |  28.0 |  27.5°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00297  | chodyschody  | HOLD_STATE                |  60.0 |  28.0 |  26.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00298  | pol          | BYPASS_FLOW               |  60.0 |  28.0 |  24.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00299  | chodar       | FILL_FEED_BASIN           |  65.0 |  28.0 |  23.0°C |  15.0°C | 1.00bar |   12.0 | Syöttöallasta täytetty
+00300  | kydainy      | OPEN_LOW_PRESSURE         |  65.0 |  28.0 |  21.5°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00301  | ypchol       | BYPASS_FLOW               |  65.0 |  28.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00302  | daiin        | LOCK_SYSTEM               |  65.0 |  28.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00303  | otchalypchaiin | PUMP_UP_TO_REACTOR        |  62.0 |  31.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00304  | ckholsy      | BYPASS_FLOW               |  62.0 |  31.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00305  | dorchorychkar | COOL_CONDENSER            |  62.0 |  31.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00306  | sshor        | COOL_CONDENSER            |  62.0 |  31.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00307  | cthy         | HEAT_REACTOR              |  62.0 |  31.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00308  | qotaiincthey | HEAT_REACTOR              |  62.0 |  31.0 |  53.0°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00309  | ychor        | COOL_CONDENSER            |  62.0 |  31.0 |  51.5°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00310  | chy          | HOLD_STATE                |  62.0 |  31.0 |  50.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00311  | ydychaiin    | SEAL_HIGH_PRESSURE        |  62.0 |  31.0 |  48.5°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00312  | aiidychtod   | HOLD_STATE                |  62.0 |  31.0 |  47.0°C |  15.0°C | 1.40bar |   12.0 | OK
+00313  | dycphy       | CROSS_FLOW_BALANCE        |  62.0 |  31.0 |  45.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00314  | dalschokaiin | PUMP_UP_TO_REACTOR        |  59.0 |  34.0 |  44.0°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00315  | d            | HOLD_STATE                |  59.0 |  34.0 |  42.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00316  | otochor      | COOL_CONDENSER            |  59.0 |  34.0 |  41.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00317  | alshodaiinchol | LOCK_SYSTEM               |  59.0 |  34.0 |  39.5°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00318  | danytchaiin  | SEAL_HIGH_PRESSURE        |  59.0 |  34.0 |  38.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00319  | dan          | HOLD_STATE                |  59.0 |  34.0 |  36.5°C |  15.0°C | 1.40bar |   12.0 | OK
+00320  | saiin        | SEAL_HIGH_PRESSURE        |  59.0 |  34.0 |  35.0°C |  15.0°C | 1.80bar |   12.0 | Korkeapaine lukittu
+00321  | dain         | OPEN_LOW_PRESSURE         |  59.0 |  34.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00322  | ddkol        | BYPASS_FLOW               |  59.0 |  34.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00323  | sorytoldydchol | COOL_CONDENSER            |  59.0 |  34.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00324  | dchy         | HOLD_STATE                |  59.0 |  34.0 |  29.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00325  | cthy         | HEAT_REACTOR              |  59.0 |  34.0 |  45.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00326  | shor         | COOL_CONDENSER            |  59.0 |  34.0 |  44.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00327  | ckhy         | HOLD_STATE                |  59.0 |  34.0 |  42.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00328  | daiinychol   | LOCK_SYSTEM               |  59.0 |  34.0 |  41.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00329  | dan          | HOLD_STATE                |  59.0 |  34.0 |  39.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00330  | kydain       | OPEN_LOW_PRESSURE         |  59.0 |  34.0 |  38.0°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00331  | shaiin       | SEAL_HIGH_PRESSURE        |  59.0 |  34.0 |  36.5°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00332  | qoy          | HOLD_STATE                |  59.0 |  34.0 |  35.0°C |  15.0°C | 1.40bar |   12.0 | OK
+00333  | s            | HOLD_STATE                |  59.0 |  34.0 |  33.5°C |  15.0°C | 1.40bar |   12.0 | OK
+00334  | shol         | RESET_VALVES              |  59.0 |  34.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00335  | fodanyksh    | RESET_VALVES              |  59.0 |  34.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00336  | olsheey      | BYPASS_FLOW               |  59.0 |  34.0 |  27.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00337  | daiildy      | HOLD_STATE                |  59.0 |  34.0 |  26.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00338  | dls          | HOLD_STATE                |  59.0 |  34.0 |  24.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00339  | sho          | RESET_VALVES              |  59.0 |  34.0 |  23.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00340  | kol          | BYPASS_FLOW               |  59.0 |  34.0 |  21.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00341  | sheey        | RESET_VALVES              |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00342  | qokey        | BOOST_PRESSURE            |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00343  | ykody        | HOLD_STATE                |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | OK
+00344  | sochol       | BYPASS_FLOW               |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00345  | yky          | HOLD_STATE                |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00346  | dain         | OPEN_LOW_PRESSURE         |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00347  | daiisol      | BYPASS_FLOW               |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00348  | qo           | HOLD_STATE                |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00349  | ky           | HOLD_STATE                |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00350  | cholaiin     | SEAL_HIGH_PRESSURE        |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00351  | shol         | RESET_VALVES              |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00352  | sheky        | RESET_VALVES              |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00353  | daiincthey   | LOCK_SYSTEM               |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00354  | keol         | BYPASS_FLOW               |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00355  | saiin        | SEAL_HIGH_PRESSURE        |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00356  | e            | HOLD_STATE                |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | OK
+00357  | a            | HOLD_STATE                |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | OK
+00358  | iin          | HOLD_STATE                |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | OK
+00359  | ychain       | HOLD_STATE                |  59.0 |  34.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | OK
+00360  | dal          | PUMP_UP_TO_REACTOR        |  56.0 |  37.0 |  20.0°C |  15.0°C | 1.30bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00361  | chy          | HOLD_STATE                |  56.0 |  37.0 |  20.0°C |  15.0°C | 1.05bar |   12.0 | OK
+00362  | dalor        | PUMP_UP_TO_REACTOR        |  53.0 |  40.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00363  | shan         | RESET_VALVES              |  53.0 |  40.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00364  | danolsaiin   | SEAL_HIGH_PRESSURE        |  53.0 |  40.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00365  | sheey        | RESET_VALVES              |  53.0 |  40.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00366  | ckhor        | COOL_CONDENSER            |  53.0 |  40.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00367  | okol         | BYPASS_FLOW               |  53.0 |  40.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00368  | chy          | HOLD_STATE                |  53.0 |  40.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00369  | chor         | COOL_CONDENSER            |  53.0 |  40.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00370  | cthor        | HEAT_REACTOR              |  53.0 |  40.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00371  | yor          | COOL_CONDENSER            |  53.0 |  40.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00372  | an           | HOLD_STATE                |  53.0 |  40.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00373  | chansaiin    | SEAL_HIGH_PRESSURE        |  53.0 |  40.0 |  32.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00374  | chety        | HOLD_STATE                |  53.0 |  40.0 |  30.5°C |  15.0°C | 1.40bar |   12.0 | OK
+00375  | chyky        | HOLD_STATE                |  53.0 |  40.0 |  29.0°C |  15.0°C | 1.40bar |   12.0 | OK
+00376  | sal          | PUMP_UP_TO_REACTOR        |  50.0 |  43.0 |  27.5°C |  15.0°C | 1.30bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00377  | sho          | RESET_VALVES              |  50.0 |  43.0 |  26.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00378  | ykeey        | HOLD_STATE                |  50.0 |  43.0 |  23.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00379  | chey         | COOL_CONDENSER            |  50.0 |  43.0 |  21.5°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00380  | daiin        | LOCK_SYSTEM               |  50.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00381  | chcthy       | ADJUST_VALVES             |  50.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Painetta kuristettu/säädetty
+00382  | ytoail       | HOLD_STATE                |  50.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00383  | ios          | HOLD_STATE                |  50.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00384  | an           | HOLD_STATE                |  50.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00385  | on           | HOLD_STATE                |  50.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00386  | kooiin       | HOLD_STATE                |  50.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00387  | cheo         | HOLD_STATE                |  50.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00388  | pchor        | COOL_CONDENSER            |  50.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00389  | otaiin       | SEAL_HIGH_PRESSURE        |  50.0 |  43.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00390  | odain        | OPEN_LOW_PRESSURE         |  50.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00391  | chordair     | FILL_FEED_BASIN           |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Syöttöallasta täytetty
+00392  | shty         | RESET_VALVES              |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00393  | kcho         | HOLD_STATE                |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00394  | kchy         | HOLD_STATE                |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00395  | sho          | RESET_VALVES              |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00396  | shol         | RESET_VALVES              |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00397  | qotcho       | THROTTLE_PRESSURE         |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Painetta kuristettu/säädetty
+00398  | loeees       | HOLD_STATE                |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00399  | qotychor     | THROTTLE_PRESSURE         |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Painetta kuristettu/säädetty
+00400  | daiin        | LOCK_SYSTEM               |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00401  | otchy        | HOLD_STATE                |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00402  | chor         | COOL_CONDENSER            |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00403  | lshy         | RESET_VALVES              |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00404  | chol         | BYPASS_FLOW               |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00405  | chody        | HOLD_STATE                |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00406  | chodainchcthy | ADJUST_VALVES             |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Painetta kuristettu/säädetty
+00407  | daiin        | LOCK_SYSTEM               |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00408  | sho          | RESET_VALVES              |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00409  | cholo        | BYPASS_FLOW               |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00410  | cheor        | COOL_CONDENSER            |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00411  | chodaiin     | LOCK_SYSTEM               |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00412  | kchor        | COOL_CONDENSER            |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00413  | shy          | RESET_VALVES              |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00414  | daiiin       | HOLD_STATE                |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00415  | chms         | HOLD_STATE                |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00416  | shey         | RESET_VALVES              |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00417  | dor          | COOL_CONDENSER            |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00418  | chol         | BYPASS_FLOW               |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00419  | daiin        | LOCK_SYSTEM               |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00420  | dor          | COOL_CONDENSER            |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00421  | chol         | BYPASS_FLOW               |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00422  | chor         | COOL_CONDENSER            |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00423  | chol         | BYPASS_FLOW               |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00424  | keol         | BYPASS_FLOW               |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00425  | chy          | HOLD_STATE                |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00426  | chtydaiin    | LOCK_SYSTEM               |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00427  | o            | GRAVITY_FEED              |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Syöttö estetty (venttiilit lukossa)
+00428  | tchor        | COOL_CONDENSER            |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00429  | chan         | HOLD_STATE                |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00430  | daiin        | LOCK_SYSTEM               |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00431  | chotchey     | COOL_CONDENSER            |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00432  | qoteeey      | THROTTLE_PRESSURE         |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Painetta kuristettu/säädetty
+00433  | chokeoschees | HOLD_STATE                |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00434  | chr          | HOLD_STATE                |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00435  | cheaiin      | SEAL_HIGH_PRESSURE        |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00436  | chokoishe    | HOLD_STATE                |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | OK
+00437  | chor         | COOL_CONDENSER            |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.20bar |   12.0 | Lauhdutinta jäähdytetty
+00438  | cheol        | BYPASS_FLOW               |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00439  | chol         | BYPASS_FLOW               |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00440  | dolody       | GRAVITY_DRAIN_TO_RECEIVER |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Painovoimainen valuma keräysastiaan
+00441  | tsheos       | RESET_VALVES              |  55.0 |  43.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00442  | qopal        | PUMP_UP_TO_REACTOR        |  52.0 |  46.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00443  | chol         | BYPASS_FLOW               |  52.0 |  46.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00444  | cthol        | HEAT_REACTOR              |  52.0 |  46.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00445  | daimg        | HOLD_STATE                |  52.0 |  46.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00446  | ycheor       | COOL_CONDENSER            |  52.0 |  46.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00447  | chor         | COOL_CONDENSER            |  52.0 |  46.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00448  | dam          | HOLD_STATE                |  52.0 |  46.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00449  | qotcham      | THROTTLE_PRESSURE         |  52.0 |  46.0 |  29.0°C |  15.0°C | 1.00bar |   12.0 | Painetta kuristettu/säädetty
+00450  | cham         | HOLD_STATE                |  52.0 |  46.0 |  27.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00451  | ochor        | COOL_CONDENSER            |  52.0 |  46.0 |  26.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00452  | qocheor      | COOL_CONDENSER            |  52.0 |  46.0 |  24.5°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00453  | chol         | BYPASS_FLOW               |  52.0 |  46.0 |  23.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00454  | daiin        | LOCK_SYSTEM               |  52.0 |  46.0 |  21.5°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00455  | cthy         | HEAT_REACTOR              |  52.0 |  46.0 |  38.0°C |  15.0°C | 1.25bar |   12.0 | Reaktoria lämmitetty
+00456  | schey        | COOL_CONDENSER            |  52.0 |  46.0 |  36.5°C |  15.0°C | 1.05bar |   12.0 | Lauhdutinta jäähdytetty
+00457  | chor         | COOL_CONDENSER            |  52.0 |  46.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00458  | chal         | PUMP_UP_TO_REACTOR        |  49.0 |  49.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00459  | chag         | HOLD_STATE                |  49.0 |  49.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00460  | cham         | HOLD_STATE                |  49.0 |  49.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00461  | cho          | HOLD_STATE                |  49.0 |  49.0 |  29.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00462  | qokol        | BOOST_PRESSURE            |  49.0 |  49.0 |  27.5°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00463  | chololy      | BYPASS_FLOW               |  49.0 |  49.0 |  26.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00464  | s            | HOLD_STATE                |  49.0 |  49.0 |  24.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00465  | cham         | HOLD_STATE                |  49.0 |  49.0 |  23.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00466  | cthol        | HEAT_REACTOR              |  49.0 |  49.0 |  39.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00467  | ychtaiin     | SEAL_HIGH_PRESSURE        |  49.0 |  49.0 |  38.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00468  | chor         | COOL_CONDENSER            |  49.0 |  49.0 |  36.5°C |  15.0°C | 1.20bar |   12.0 | Lauhdutinta jäähdytetty
+00469  | cthom        | HEAT_REACTOR              |  49.0 |  49.0 |  53.0°C |  15.0°C | 1.45bar |   12.0 | Reaktoria lämmitetty
+00470  | otaldam      | PUMP_UP_TO_REACTOR        |  46.0 |  50.0 |  51.5°C |  15.0°C | 1.35bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00471  | otchol       | BYPASS_FLOW               |  46.0 |  50.0 |  50.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00472  | qodaiin      | LOCK_SYSTEM               |  46.0 |  50.0 |  48.5°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00473  | chom         | HOLD_STATE                |  46.0 |  50.0 |  47.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00474  | shom         | RESET_VALVES              |  46.0 |  50.0 |  45.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00475  | damo         | HOLD_STATE                |  46.0 |  50.0 |  44.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00476  | ysheor       | COOL_CONDENSER            |  46.0 |  50.0 |  42.5°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00477  | chor         | COOL_CONDENSER            |  46.0 |  50.0 |  41.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00478  | chol         | BYPASS_FLOW               |  46.0 |  50.0 |  39.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00479  | oky          | HOLD_STATE                |  46.0 |  50.0 |  38.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00480  | dago         | HOLD_STATE                |  46.0 |  50.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00481  | sho          | RESET_VALVES              |  46.0 |  50.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00482  | vor          | COOL_CONDENSER            |  46.0 |  50.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00483  | sheoldam     | BYPASS_FLOW               |  46.0 |  50.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00484  | otchody      | HOLD_STATE                |  46.0 |  50.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00485  | ol           | BYPASS_FLOW               |  46.0 |  50.0 |  29.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00486  | ydar         | FILL_FEED_BASIN           |  51.0 |  50.0 |  27.5°C |  15.0°C | 1.00bar |   12.0 | Syöttöallasta täytetty
+00487  | cholcthom    | HEAT_REACTOR              |  51.0 |  50.0 |  44.0°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00488  | pcheol       | BYPASS_FLOW               |  51.0 |  50.0 |  42.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00489  | shol         | RESET_VALVES              |  51.0 |  50.0 |  41.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00490  | sols         | BYPASS_FLOW               |  51.0 |  50.0 |  39.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00491  | sheol        | BYPASS_FLOW               |  51.0 |  50.0 |  38.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00492  | shey         | RESET_VALVES              |  51.0 |  50.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00493  | okadaiin     | LOCK_SYSTEM               |  51.0 |  50.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00494  | qokchor      | PRESSURE_CALIBRATE        |  51.0 |  50.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | Painetta kuristettu/säädetty
+00495  | qo           | HOLD_STATE                |  51.0 |  50.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00496  | schodam      | HOLD_STATE                |  51.0 |  50.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00497  | octhy        | HEAT_REACTOR              |  51.0 |  50.0 |  47.0°C |  15.0°C | 1.25bar |   12.0 | Reaktoria lämmitetty
+00498  | qokeey       | BOOST_PRESSURE            |  51.0 |  50.0 |  44.0°C |  15.0°C | 2.05bar |   12.0 | Korkeapaine lukittu
+00499  | qot          | THROTTLE_PRESSURE         |  51.0 |  50.0 |  42.5°C |  15.0°C | 1.90bar |   12.0 | Painetta kuristettu/säädetty
+00500  | shey         | RESET_VALVES              |  51.0 |  50.0 |  41.0°C |  15.0°C | 1.30bar |   12.0 | Ohivirtaus / venttiilit avattu
+00501  | qokody       | BOOST_PRESSURE            |  51.0 |  50.0 |  39.5°C |  15.0°C | 1.70bar |   12.0 | Korkeapaine lukittu
+00502  | qokshey      | RESET_VALVES              |  51.0 |  50.0 |  38.0°C |  15.0°C | 1.10bar |   12.0 | Ohivirtaus / venttiilit avattu
+00503  | cheody       | HOLD_STATE                |  51.0 |  50.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00504  | chor         | COOL_CONDENSER            |  51.0 |  50.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00505  | qodair       | FILL_FEED_BASIN           |  56.0 |  50.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | Syöttöallasta täytetty
+00506  | okeey        | HOLD_STATE                |  56.0 |  50.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00507  | qokeey       | BOOST_PRESSURE            |  56.0 |  50.0 |  27.5°C |  15.0°C | 1.80bar |   12.0 | Korkeapaine lukittu
+00508  | tsheoarom    | SETTLE_SEDIMENT           |  56.0 |  50.0 |  26.0°C |  15.0°C | 1.80bar |   12.0 | OK
+00509  | shor         | COOL_CONDENSER            |  56.0 |  50.0 |  24.5°C |  15.0°C | 1.60bar |   12.0 | Lauhdutinta jäähdytetty
+00510  | or           | COOL_CONDENSER            |  56.0 |  50.0 |  23.0°C |  15.0°C | 1.40bar |   12.0 | Lauhdutinta jäähdytetty
+00511  | chor         | COOL_CONDENSER            |  56.0 |  50.0 |  21.5°C |  15.0°C | 1.20bar |   12.0 | Lauhdutinta jäähdytetty
+00512  | olchsy       | BYPASS_FLOW               |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00513  | chom         | HOLD_STATE                |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00514  | otchomoporar | COOL_CONDENSER            |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00515  | oteol        | BYPASS_FLOW               |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00516  | chol         | BYPASS_FLOW               |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00517  | s            | HOLD_STATE                |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00518  | cheol        | BYPASS_FLOW               |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00519  | ekshy        | RESET_VALVES              |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00520  | qokeom       | BOOST_PRESSURE            |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00521  | qokol        | BOOST_PRESSURE            |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.80bar |   12.0 | Korkeapaine lukittu
+00522  | daiinsoleeg  | LOCK_SYSTEM               |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.80bar |   12.0 | Järjestelmä lukittu sykliin
+00523  | soeom        | HOLD_STATE                |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.80bar |   12.0 | OK
+00524  | okeom        | HOLD_STATE                |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.80bar |   12.0 | OK
+00525  | yteody       | HOLD_STATE                |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.80bar |   12.0 | OK
+00526  | qokeeodal    | PUMP_UP_TO_REACTOR        |  50.0 |  50.0 |  20.0°C |  15.0°C | 1.60bar |   12.0 | Siirretty 6.0 yks. reaktoriin
+00527  | sam          | HOLD_STATE                |  50.0 |  50.0 |  20.0°C |  15.0°C | 1.35bar |   12.0 | OK
+00528  | pcheoldom    | BYPASS_FLOW               |  50.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00529  | shodaiin     | LOCK_SYSTEM               |  50.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00530  | qopchor      | COOL_CONDENSER            |  50.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00531  | qopol        | BYPASS_FLOW               |  50.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00532  | opchol       | BYPASS_FLOW               |  50.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00533  | qotyotolom   | THROTTLE_PRESSURE         |  50.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Painetta kuristettu/säädetty
+00534  | otchor       | COOL_CONDENSER            |  50.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00535  | ol           | BYPASS_FLOW               |  50.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00536  | cheor        | COOL_CONDENSER            |  50.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00537  | qoeor        | COOL_CONDENSER            |  50.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00538  | dair         | FILL_FEED_BASIN           |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Syöttöallasta täytetty
+00539  | qoteol       | THROTTLE_PRESSURE         |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Painetta kuristettu/säädetty
+00540  | qosaiinchor  | COOL_CONDENSER            |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00541  | cthy         | HEAT_REACTOR              |  55.0 |  50.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00542  | ycheor       | COOL_CONDENSER            |  55.0 |  50.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00543  | chol         | BYPASS_FLOW               |  55.0 |  50.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00544  | odaiin       | LOCK_SYSTEM               |  55.0 |  50.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00545  | chol         | BYPASS_FLOW               |  55.0 |  50.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00546  | s            | HOLD_STATE                |  55.0 |  50.0 |  29.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00547  | aiin         | SEAL_HIGH_PRESSURE        |  55.0 |  50.0 |  27.5°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00548  | okol         | BYPASS_FLOW               |  55.0 |  50.0 |  26.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00549  | or           | COOL_CONDENSER            |  55.0 |  50.0 |  24.5°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00550  | am           | HOLD_STATE                |  55.0 |  50.0 |  23.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00551  | koaiin       | SEAL_HIGH_PRESSURE        |  55.0 |  50.0 |  21.5°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00552  | cphor        | CROSS_FLOW_BALANCE        |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00553  | qotoy        | THROTTLE_PRESSURE         |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Painetta kuristettu/säädetty
+00554  | sha          | RESET_VALVES              |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00555  | ckhol        | BYPASS_FLOW               |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00556  | ykoaiin      | SEAL_HIGH_PRESSURE        |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00557  | s            | HOLD_STATE                |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | OK
+00558  | oly          | BYPASS_FLOW               |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00559  | daiidy       | HOLD_STATE                |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00560  | qoteeol      | THROTTLE_PRESSURE         |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Painetta kuristettu/säädetty
+00561  | okeeor       | COOL_CONDENSER            |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00562  | okor         | COOL_CONDENSER            |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00563  | olytol       | BYPASS_FLOW               |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00564  | dol          | GRAVITY_DRAIN_TO_RECEIVER |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Painovoimainen valuma keräysastiaan
+00565  | dar          | FILL_FEED_BASIN           |  60.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Syöttöallasta täytetty
+00566  | okom         | HOLD_STATE                |  60.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00567  | chol         | BYPASS_FLOW               |  60.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00568  | shol         | RESET_VALVES              |  60.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00569  | seees        | HOLD_STATE                |  60.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00570  | chom         | HOLD_STATE                |  60.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00571  | cheeykam     | HOLD_STATE                |  60.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00572  | okai         | HOLD_STATE                |  60.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00573  | qodar        | FILL_FEED_BASIN           |  65.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Syöttöallasta täytetty
+00574  | ees          | HOLD_STATE                |  65.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00575  | eey          | HOLD_STATE                |  65.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00576  | kcheol       | BYPASS_FLOW               |  65.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00577  | okal         | PUMP_UP_TO_REACTOR        |  62.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00578  | do           | HOLD_STATE                |  62.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00579  | r            | HOLD_STATE                |  62.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00580  | chear        | SETTLE_SEDIMENT           |  62.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00581  | een          | HOLD_STATE                |  62.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00582  | ychear       | SETTLE_SEDIMENT           |  62.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00583  | otchal       | PUMP_UP_TO_REACTOR        |  59.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00584  | cho          | HOLD_STATE                |  59.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00585  | r            | HOLD_STATE                |  59.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00586  | char         | SETTLE_SEDIMENT           |  59.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00587  | ckh          | HOLD_STATE                |  59.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00588  | or           | COOL_CONDENSER            |  59.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00589  | cheor        | COOL_CONDENSER            |  59.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00590  | kor          | COOL_CONDENSER            |  59.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00591  | chodaly      | PUMP_UP_TO_REACTOR        |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00592  | chom         | HOLD_STATE                |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00593  | tchor        | COOL_CONDENSER            |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00594  | otcham       | HOLD_STATE                |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00595  | chor         | COOL_CONDENSER            |  56.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00596  | cfham        | JET_INJECT                |  53.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00597  | s            | HOLD_STATE                |  53.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00598  | ykchy        | HOLD_STATE                |  53.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00599  | kchom        | HOLD_STATE                |  53.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00600  | chor         | COOL_CONDENSER            |  53.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00601  | chckhol      | BYPASS_FLOW               |  53.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00602  | oka          | HOLD_STATE                |  53.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00603  | ytcheear     | SETTLE_SEDIMENT           |  53.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00604  | okeol        | BYPASS_FLOW               |  53.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00605  | cthodoaly    | HEAT_REACTOR              |  53.0 |  50.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00606  | chor         | COOL_CONDENSER            |  53.0 |  50.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00607  | cthy         | HEAT_REACTOR              |  53.0 |  50.0 |  51.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00608  | ochos        | HOLD_STATE                |  53.0 |  50.0 |  50.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00609  | daiin        | LOCK_SYSTEM               |  53.0 |  50.0 |  48.5°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00610  | qokshol      | RESET_VALVES              |  53.0 |  50.0 |  47.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00611  | daiim        | HOLD_STATE                |  53.0 |  50.0 |  45.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00612  | chol         | BYPASS_FLOW               |  53.0 |  50.0 |  44.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00613  | okary        | SETTLE_SEDIMENT           |  53.0 |  50.0 |  42.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00614  | sho          | RESET_VALVES              |  53.0 |  50.0 |  41.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00615  | shockho      | RESET_VALVES              |  53.0 |  50.0 |  39.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00616  | ckhy         | HOLD_STATE                |  53.0 |  50.0 |  38.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00617  | tchor        | COOL_CONDENSER            |  53.0 |  50.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00618  | chodaiin     | LOCK_SYSTEM               |  53.0 |  50.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00619  | chom         | HOLD_STATE                |  53.0 |  50.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00620  | osh          | RESET_VALVES              |  53.0 |  50.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00621  | chodair      | FILL_FEED_BASIN           |  58.0 |  50.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | Syöttöallasta täytetty
+00622  | ytchy        | HOLD_STATE                |  58.0 |  50.0 |  29.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00623  | tchor        | COOL_CONDENSER            |  58.0 |  50.0 |  27.5°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00624  | kcham        | HOLD_STATE                |  58.0 |  50.0 |  26.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00625  | s            | HOLD_STATE                |  58.0 |  50.0 |  24.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00626  | shar         | SETTLE_SEDIMENT           |  58.0 |  50.0 |  23.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00627  | shkaiin      | SEAL_HIGH_PRESSURE        |  58.0 |  50.0 |  21.5°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00628  | qokchy       | PRESSURE_CALIBRATE        |  58.0 |  50.0 |  20.0°C |  15.0°C | 1.25bar |   12.0 | Painetta kuristettu/säädetty
+00629  | yty          | HOLD_STATE                |  58.0 |  50.0 |  20.0°C |  15.0°C | 1.25bar |   12.0 | OK
+00630  | cthal        | HEAT_REACTOR              |  58.0 |  50.0 |  36.5°C |  15.0°C | 1.50bar |   12.0 | Reaktoria lämmitetty
+00631  | chky         | HOLD_STATE                |  58.0 |  50.0 |  35.0°C |  15.0°C | 1.50bar |   12.0 | OK
+00632  | dain         | OPEN_LOW_PRESSURE         |  58.0 |  50.0 |  33.5°C |  15.0°C | 1.00bar |   12.0 | Paine vapautettu
+00633  | sheam        | RESET_VALVES              |  58.0 |  50.0 |  32.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00634  | y            | HOLD_STATE                |  58.0 |  50.0 |  30.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00635  | keam         | HOLD_STATE                |  58.0 |  50.0 |  29.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00636  | kodalchy     | PUMP_UP_TO_REACTOR        |  55.0 |  50.0 |  27.5°C |  15.0°C | 1.00bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00637  | chpady       | HOLD_STATE                |  55.0 |  50.0 |  26.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00638  | sheol        | BYPASS_FLOW               |  55.0 |  50.0 |  24.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00639  | ol           | BYPASS_FLOW               |  55.0 |  50.0 |  23.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00640  | sheey        | RESET_VALVES              |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00641  | qoteydoiin   | THROTTLE_PRESSURE         |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Painetta kuristettu/säädetty
+00642  | chor         | COOL_CONDENSER            |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00643  | ytoy         | HOLD_STATE                |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00644  | dchor        | COOL_CONDENSER            |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00645  | shol         | RESET_VALVES              |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00646  | shol         | RESET_VALVES              |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00647  | cthol        | HEAT_REACTOR              |  55.0 |  50.0 |  36.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00648  | shtchy       | HOLD_STATE                |  55.0 |  50.0 |  35.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00649  | chaiin       | SEAL_HIGH_PRESSURE        |  55.0 |  50.0 |  33.5°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00650  | schoraiin    | COOL_CONDENSER            |  55.0 |  50.0 |  32.0°C |  15.0°C | 1.20bar |   12.0 | Lauhdutinta jäähdytetty
+00651  | chom         | HOLD_STATE                |  55.0 |  50.0 |  30.5°C |  15.0°C | 1.20bar |   12.0 | OK
+00652  | otchol       | BYPASS_FLOW               |  55.0 |  50.0 |  29.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00653  | chol         | BYPASS_FLOW               |  55.0 |  50.0 |  27.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00654  | chy          | HOLD_STATE                |  55.0 |  50.0 |  26.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00655  | chaiin       | SEAL_HIGH_PRESSURE        |  55.0 |  50.0 |  24.5°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00656  | qotaiindaiin | LOCK_SYSTEM               |  55.0 |  50.0 |  23.0°C |  15.0°C | 1.40bar |   12.0 | Järjestelmä lukittu sykliin
+00657  | shain        | RESET_VALVES              |  55.0 |  50.0 |  21.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00658  | qotchol      | THROTTLE_PRESSURE         |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Painetta kuristettu/säädetty
+00659  | chy          | HOLD_STATE                |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00660  | yty          | HOLD_STATE                |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00661  | daiin        | LOCK_SYSTEM               |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00662  | okaiin       | SEAL_HIGH_PRESSURE        |  55.0 |  50.0 |  20.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00663  | cthy         | HEAT_REACTOR              |  55.0 |  50.0 |  36.5°C |  15.0°C | 1.65bar |   12.0 | Reaktoria lämmitetty
+00664  | pydaiin      | LOCK_SYSTEM               |  55.0 |  50.0 |  35.0°C |  15.0°C | 1.65bar |   12.0 | Järjestelmä lukittu sykliin
+00665  | qotchy       | THROTTLE_PRESSURE         |  55.0 |  50.0 |  33.5°C |  15.0°C | 1.50bar |   12.0 | Painetta kuristettu/säädetty
+00666  | dy           | HOLD_STATE                |  55.0 |  50.0 |  32.0°C |  15.0°C | 1.50bar |   12.0 | OK
+00667  | tydy         | HOLD_STATE                |  55.0 |  50.0 |  30.5°C |  15.0°C | 1.50bar |   12.0 | OK
+00668  | chor         | COOL_CONDENSER            |  55.0 |  50.0 |  29.0°C |  15.0°C | 1.30bar |   12.0 | Lauhdutinta jäähdytetty
+00669  | shytchy      | HOLD_STATE                |  55.0 |  50.0 |  27.5°C |  15.0°C | 1.30bar |   12.0 | OK
+00670  | dytcheey     | HOLD_STATE                |  55.0 |  50.0 |  24.5°C |  15.0°C | 1.30bar |   12.0 | OK
+00671  | qotaiin      | THROTTLE_PRESSURE         |  55.0 |  50.0 |  23.0°C |  15.0°C | 1.15bar |   12.0 | Painetta kuristettu/säädetty
+00672  | cthol        | HEAT_REACTOR              |  55.0 |  50.0 |  39.5°C |  15.0°C | 1.40bar |   12.0 | Reaktoria lämmitetty
+00673  | daiin        | LOCK_SYSTEM               |  55.0 |  50.0 |  38.0°C |  15.0°C | 1.40bar |   12.0 | Järjestelmä lukittu sykliin
+00674  | cthom        | HEAT_REACTOR              |  55.0 |  50.0 |  54.5°C |  15.0°C | 1.65bar |   12.0 | Reaktoria lämmitetty
+00675  | shor         | COOL_CONDENSER            |  55.0 |  50.0 |  53.0°C |  15.0°C | 1.45bar |   12.0 | Lauhdutinta jäähdytetty
+00676  | shol         | RESET_VALVES              |  55.0 |  50.0 |  51.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00677  | shol         | RESET_VALVES              |  55.0 |  50.0 |  50.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00678  | cthy         | HEAT_REACTOR              |  55.0 |  50.0 |  66.5°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00679  | cpholdy      | CROSS_FLOW_BALANCE        |  55.0 |  50.0 |  65.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00680  | daiin        | LOCK_SYSTEM               |  55.0 |  50.0 |  63.5°C |  15.0°C | 1.00bar |   12.0 | Järjestelmä lukittu sykliin
+00681  | ckhochy      | HOLD_STATE                |  55.0 |  50.0 |  62.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00682  | tchy         | HOLD_STATE                |  55.0 |  50.0 |  60.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00683  | kor          | COOL_CONDENSER            |  55.0 |  50.0 |  59.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00684  | aiin         | SEAL_HIGH_PRESSURE        |  55.0 |  50.0 |  57.5°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00685  | odal         | PUMP_UP_TO_REACTOR        |  52.0 |  50.0 |  56.0°C |  15.0°C | 1.30bar |   12.0 | Siirretty 3.0 yks. reaktoriin
+00686  | shor         | COOL_CONDENSER            |  52.0 |  50.0 |  54.5°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00687  | shyshol      | RESET_VALVES              |  52.0 |  50.0 |  53.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00688  | cphaiin      | CROSS_FLOW_BALANCE        |  52.0 |  50.0 |  51.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00689  | qotchoiin    | THROTTLE_PRESSURE         |  52.0 |  50.0 |  50.0°C |  15.0°C | 1.00bar |   12.0 | Painetta kuristettu/säädetty
+00690  | sher         | RESET_VALVES              |  52.0 |  50.0 |  48.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00691  | qoty         | THROTTLE_PRESSURE         |  52.0 |  50.0 |  47.0°C |  15.0°C | 1.00bar |   12.0 | Painetta kuristettu/säädetty
+00692  | soiin        | HOLD_STATE                |  52.0 |  50.0 |  45.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00693  | chaiin       | SEAL_HIGH_PRESSURE        |  52.0 |  50.0 |  44.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00694  | chaiin       | SEAL_HIGH_PRESSURE        |  52.0 |  50.0 |  42.5°C |  15.0°C | 1.80bar |   12.0 | Korkeapaine lukittu
+00695  | daiin        | LOCK_SYSTEM               |  52.0 |  50.0 |  41.0°C |  15.0°C | 1.80bar |   12.0 | Järjestelmä lukittu sykliin
+00696  | cthey        | HEAT_REACTOR              |  52.0 |  50.0 |  57.5°C |  15.0°C | 2.05bar |   12.0 | Reaktoria lämmitetty
+00697  | pchooiin     | HOLD_STATE                |  52.0 |  50.0 |  56.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00698  | ksheo        | RESET_VALVES              |  52.0 |  50.0 |  54.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00699  | kchoy        | HOLD_STATE                |  52.0 |  50.0 |  53.0°C |  15.0°C | 1.00bar |   12.0 | OK
+00700  | chopchy      | HOLD_STATE                |  52.0 |  50.0 |  51.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00701  | doldsdlod    | GRAVITY_DRAIN_TO_RECEIVER |  52.0 |  50.0 |  50.0°C |  15.0°C | 1.00bar |   12.0 | Painovoimainen valuma keräysastiaan
+00702  | ol           | BYPASS_FLOW               |  52.0 |  50.0 |  48.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00703  | chey         | COOL_CONDENSER            |  52.0 |  50.0 |  47.0°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00704  | chy          | HOLD_STATE                |  52.0 |  50.0 |  45.5°C |  15.0°C | 1.00bar |   12.0 | OK
+00705  | cthy         | HEAT_REACTOR              |  52.0 |  50.0 |  62.0°C |  15.0°C | 1.00bar |   12.0 | Reaktoria lämmitetty
+00706  | shkchor      | COOL_CONDENSER            |  52.0 |  50.0 |  60.5°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00707  | sheo         | RESET_VALVES              |  52.0 |  50.0 |  59.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00708  | cheorycholdy | COOL_CONDENSER            |  52.0 |  50.0 |  57.5°C |  15.0°C | 1.00bar |   12.0 | Lauhdutinta jäähdytetty
+00709  | sho          | RESET_VALVES              |  52.0 |  50.0 |  56.0°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00710  | sho          | RESET_VALVES              |  52.0 |  50.0 |  54.5°C |  15.0°C | 1.00bar |   12.0 | Ohivirtaus / venttiilit avattu
+00711  | chaiin       | SEAL_HIGH_PRESSURE        |  52.0 |  50.0 |  53.0°C |  15.0°C | 1.40bar |   12.0 | Korkeapaine lukittu
+00712  | shaiin       | SEAL_HIGH_PRESSURE        |  52.0 |  50.0 |  51.5°C |  15.0°C | 1.80bar |   12.0 | Korkeapaine lukittu
+00713  | daiin        | LOCK_SYSTEM               |  52.0 |  50.0 |  50.0°C |  15.0°C | 1.80bar |   12.0 | Järjestelmä lukittu sykliin
+00714  | qodaiino     | LOCK_SYSTEM               |  52.0 |  50.0 |  48.5°C |  15.0°C | 1.80bar |   12.0 | Järjestelmä lukittu sykliin
+00715  | aram         | SETTLE_SEDIMENT           |  52.0 |  50.0 |  47.0°C |  15.0°C | 1.80bar |   12.0 | OK
+00716  | qoky         | BOOST_PRESSURE            |  52.0 |  50.0 |  45.5°C |  15.0°C | 2.20bar |   12.0 | Korkeapaine lukittu
+00717  | qocthy       | HEAT_REACTOR              |  52.0 |  50.0 |  62.0°C |  15.0°C | 2.45bar |   12.0 | Reaktoria lämmitetty
+00718  | choteol      | BYPASS_FLOW               |  52.0 |  50.0 |  60.5°C |  15.0°C | 1.85bar |   12.0 | Ohivirtaus / venttiilit avattu
+00719  | daiin        | LOCK_SYSTEM               |  52.0 |  50.0 |  59.0°C |  15.0°C | 1.85bar |   12.0 | Järjestelmä lukittu sykliin
+00720  | ctheychoaiin | HEAT_REACTOR              |  52.0 |  48.5 |  75.5°C |  15.0°C | 2.18bar |   13.2 | Reaktoria lämmitetty
+00721  | shor         | COOL_CONDENSER            |  52.0 |  48.5 |  74.0°C |  15.0°C | 1.98bar |   13.5 | Lauhdutinta jäähdytetty
+00722  | sheey        | RESET_VALVES              |  52.0 |  48.5 |  71.0°C |  15.0°C | 1.00bar |   13.5 | Ohivirtaus / venttiilit avattu
+00723  | otoiin       | GRAVITY_FEED              |  51.0 |  49.5 |  69.5°C |  15.0°C | 1.00bar |   13.5 | Painovoimainen syöttö
+00724  | shey         | RESET_VALVES              |  51.0 |  49.5 |  68.0°C |  15.0°C | 1.00bar |   13.5 | Ohivirtaus / venttiilit avattu
+00725  | qotchoiinchodain | OPEN_LOW_PRESSURE         |  51.0 |  49.5 |  66.5°C |  15.0°C | 1.00bar |   13.5 | Paine vapautettu
+00726  | ytchoy       | HOLD_STATE                |  51.0 |  49.5 |  65.0°C |  15.0°C | 1.00bar |   13.5 | OK
+00727  | shokchy      | HOLD_STATE                |  51.0 |  49.5 |  63.5°C |  15.0°C | 1.00bar |   13.5 | OK
+00728  | cphody       | CROSS_FLOW_BALANCE        |  51.0 |  49.5 |  62.0°C |  15.0°C | 1.00bar |   13.5 | Ohivirtaus / venttiilit avattu
+00729  | torchy       | COOL_CONDENSER            |  51.0 |  49.5 |  60.5°C |  15.0°C | 1.00bar |   13.5 | Lauhdutinta jäähdytetty
+00730  | sheeor       | COOL_CONDENSER            |  51.0 |  49.5 |  57.5°C |  15.0°C | 1.00bar |   13.5 | Lauhdutinta jäähdytetty
+00731  | chor         | COOL_CONDENSER            |  51.0 |  49.5 |  56.0°C |  15.0°C | 1.00bar |   13.5 | Lauhdutinta jäähdytetty
+00732  | chokch       | HOLD_STATE                |  51.0 |  49.5 |  54.5°C |  15.0°C | 1.00bar |   13.5 | OK
+00733  | cphydy       | CROSS_FLOW_BALANCE        |  51.0 |  49.5 |  53.0°C |  15.0°C | 1.00bar |   13.5 | Ohivirtaus / venttiilit avattu
+00734  | oleeeb       | BYPASS_FLOW               |  51.0 |  49.5 |  48.5°C |  15.0°C | 1.00bar |   13.5 | Ohivirtaus / venttiilit avattu
+00735  | chor         | COOL_CONDENSER            |  51.0 |  49.5 |  47.0°C |  15.0°C | 1.00bar |   13.5 | Lauhdutinta jäähdytetty
+00736  | cthol        | HEAT_REACTOR              |  51.0 |  49.5 |  63.5°C |  15.0°C | 1.00bar |   13.5 | Reaktoria lämmitetty
+00737  | sho          | RESET_VALVES              |  51.0 |  49.5 |  62.0°C |  15.0°C | 1.00bar |   13.5 | Ohivirtaus / venttiilit avattu
+00738  | otor         | COOL_CONDENSER            |  51.0 |  49.5 |  60.5°C |  15.0°C | 1.00bar |   13.5 | Lauhdutinta jäähdytetty
+00739  | cthory       | HEAT_REACTOR              |  51.0 |  48.0 |  77.0°C |  15.0°C | 1.08bar |   14.7 | Reaktoria lämmitetty
+00740  | qooko        | HOLD_STATE                |  51.0 |  46.5 |  75.5°C |  15.0°C | 1.08bar |   15.9 | OK
+00741  | iiin         | HOLD_STATE                |  51.0 |  46.5 |  74.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00742  | cheog        | HOLD_STATE                |  51.0 |  46.5 |  72.5°C |  15.0°C | 1.00bar |   16.5 | OK
+00743  | chcthy       | ADJUST_VALVES             |  51.0 |  46.5 |  71.0°C |  15.0°C | 1.00bar |   16.5 | Painetta kuristettu/säädetty
+00744  | shoky        | RESET_VALVES              |  51.0 |  46.5 |  69.5°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00745  | daiin        | LOCK_SYSTEM               |  51.0 |  46.5 |  68.0°C |  15.0°C | 1.00bar |   16.5 | Järjestelmä lukittu sykliin
+00746  | otaiin       | SEAL_HIGH_PRESSURE        |  51.0 |  46.5 |  66.5°C |  15.0°C | 1.40bar |   16.5 | Korkeapaine lukittu
+00747  | sheo         | RESET_VALVES              |  51.0 |  46.5 |  65.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00748  | okeody       | HOLD_STATE                |  51.0 |  46.5 |  63.5°C |  15.0°C | 1.00bar |   16.5 | OK
+00749  | chol         | BYPASS_FLOW               |  51.0 |  46.5 |  62.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00750  | chokeody     | HOLD_STATE                |  51.0 |  46.5 |  60.5°C |  15.0°C | 1.00bar |   16.5 | OK
+00751  | sho          | RESET_VALVES              |  51.0 |  46.5 |  59.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00752  | kcheor       | COOL_CONDENSER            |  51.0 |  46.5 |  57.5°C |  15.0°C | 1.00bar |   16.5 | Lauhdutinta jäähdytetty
+00753  | shody        | RESET_VALVES              |  51.0 |  46.5 |  56.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00754  | shtaiin      | SEAL_HIGH_PRESSURE        |  51.0 |  46.5 |  54.5°C |  15.0°C | 1.40bar |   16.5 | Korkeapaine lukittu
+00755  | qotol        | THROTTLE_PRESSURE         |  51.0 |  46.5 |  53.0°C |  15.0°C | 1.25bar |   16.5 | Painetta kuristettu/säädetty
+00756  | daiin        | LOCK_SYSTEM               |  51.0 |  46.5 |  51.5°C |  15.0°C | 1.25bar |   16.5 | Järjestelmä lukittu sykliin
+00757  | qokey        | BOOST_PRESSURE            |  51.0 |  46.5 |  50.0°C |  15.0°C | 1.65bar |   16.5 | Korkeapaine lukittu
+00758  | sho          | RESET_VALVES              |  51.0 |  46.5 |  48.5°C |  15.0°C | 1.05bar |   16.5 | Ohivirtaus / venttiilit avattu
+00759  | okeol        | BYPASS_FLOW               |  51.0 |  46.5 |  47.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00760  | s            | HOLD_STATE                |  51.0 |  46.5 |  45.5°C |  15.0°C | 1.00bar |   16.5 | OK
+00761  | keey         | HOLD_STATE                |  51.0 |  46.5 |  42.5°C |  15.0°C | 1.00bar |   16.5 | OK
+00762  | shar         | SETTLE_SEDIMENT           |  51.0 |  46.5 |  41.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00763  | char         | SETTLE_SEDIMENT           |  51.0 |  46.5 |  39.5°C |  15.0°C | 1.00bar |   16.5 | OK
+00764  | ody          | HOLD_STATE                |  51.0 |  46.5 |  38.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00765  | shody        | RESET_VALVES              |  51.0 |  46.5 |  36.5°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00766  | s            | HOLD_STATE                |  51.0 |  46.5 |  35.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00767  | cheor        | COOL_CONDENSER            |  51.0 |  46.5 |  33.5°C |  15.0°C | 1.00bar |   16.5 | Lauhdutinta jäähdytetty
+00768  | chokody      | HOLD_STATE                |  51.0 |  46.5 |  32.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00769  | shodaiin     | LOCK_SYSTEM               |  51.0 |  46.5 |  30.5°C |  15.0°C | 1.00bar |   16.5 | Järjestelmä lukittu sykliin
+00770  | qoty         | THROTTLE_PRESSURE         |  51.0 |  46.5 |  29.0°C |  15.0°C | 1.00bar |   16.5 | Painetta kuristettu/säädetty
+00771  | ochody       | HOLD_STATE                |  51.0 |  46.5 |  27.5°C |  15.0°C | 1.00bar |   16.5 | OK
+00772  | chy          | HOLD_STATE                |  51.0 |  46.5 |  26.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00773  | key          | HOLD_STATE                |  51.0 |  46.5 |  24.5°C |  15.0°C | 1.00bar |   16.5 | OK
+00774  | chtody       | HOLD_STATE                |  51.0 |  46.5 |  23.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00775  | kchody       | HOLD_STATE                |  51.0 |  46.5 |  21.5°C |  15.0°C | 1.00bar |   16.5 | OK
+00776  | fchoy        | HOLD_STATE                |  51.0 |  46.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00777  | chkoy        | HOLD_STATE                |  51.0 |  46.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00778  | oaiin        | SEAL_HIGH_PRESSURE        |  51.0 |  46.5 |  20.0°C |  15.0°C | 1.40bar |   16.5 | Korkeapaine lukittu
+00779  | oar          | SETTLE_SEDIMENT           |  51.0 |  46.5 |  20.0°C |  15.0°C | 1.40bar |   16.5 | OK
+00780  | olsy         | BYPASS_FLOW               |  51.0 |  46.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00781  | chody        | HOLD_STATE                |  51.0 |  46.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00782  | dkshy        | RESET_VALVES              |  51.0 |  46.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00783  | dy           | HOLD_STATE                |  51.0 |  46.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00784  | ochey        | COOL_CONDENSER            |  51.0 |  46.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Lauhdutinta jäähdytetty
+00785  | okey         | HOLD_STATE                |  51.0 |  46.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00786  | qokaiin      | BOOST_PRESSURE            |  51.0 |  46.5 |  20.0°C |  15.0°C | 1.40bar |   16.5 | Korkeapaine lukittu
+00787  | sho          | RESET_VALVES              |  51.0 |  46.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00788  | ckhoy        | HOLD_STATE                |  51.0 |  46.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00789  | cthey        | HEAT_REACTOR              |  51.0 |  46.5 |  36.5°C |  15.0°C | 1.00bar |   16.5 | Reaktoria lämmitetty
+00790  | chey         | COOL_CONDENSER            |  51.0 |  46.5 |  35.0°C |  15.0°C | 1.00bar |   16.5 | Lauhdutinta jäähdytetty
+00791  | oks          | HOLD_STATE                |  51.0 |  46.5 |  33.5°C |  15.0°C | 1.00bar |   16.5 | OK
+00792  | otol         | BYPASS_FLOW               |  51.0 |  46.5 |  32.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00793  | qoaiin       | SEAL_HIGH_PRESSURE        |  51.0 |  46.5 |  30.5°C |  15.0°C | 1.40bar |   16.5 | Korkeapaine lukittu
+00794  | otan         | GRAVITY_FEED              |  51.0 |  46.5 |  29.0°C |  15.0°C | 1.40bar |   16.5 | Syöttö estetty (venttiilit lukossa)
+00795  | chy          | HOLD_STATE                |  51.0 |  46.5 |  27.5°C |  15.0°C | 1.40bar |   16.5 | OK
+00796  | daiin        | LOCK_SYSTEM               |  51.0 |  46.5 |  26.0°C |  15.0°C | 1.40bar |   16.5 | Järjestelmä lukittu sykliin
+00797  | oteeeb       | GRAVITY_FEED              |  51.0 |  46.5 |  21.5°C |  15.0°C | 1.40bar |   16.5 | Syöttö estetty (venttiilit lukossa)
+00798  | chocthy      | HEAT_REACTOR              |  51.0 |  46.5 |  38.0°C |  15.0°C | 1.65bar |   16.5 | Reaktoria lämmitetty
+00799  | otchy        | HOLD_STATE                |  51.0 |  46.5 |  36.5°C |  15.0°C | 1.65bar |   16.5 | OK
+00800  | qotchody     | THROTTLE_PRESSURE         |  51.0 |  46.5 |  35.0°C |  15.0°C | 1.50bar |   16.5 | Painetta kuristettu/säädetty
+00801  | otain        | GRAVITY_FEED              |  51.0 |  46.5 |  33.5°C |  15.0°C | 1.50bar |   16.5 | Syöttö estetty (venttiilit lukossa)
+00802  | sheody       | RESET_VALVES              |  51.0 |  46.5 |  32.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00803  | chan         | HOLD_STATE                |  51.0 |  46.5 |  30.5°C |  15.0°C | 1.00bar |   16.5 | OK
+00804  | s            | HOLD_STATE                |  51.0 |  46.5 |  29.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00805  | cheor        | COOL_CONDENSER            |  51.0 |  46.5 |  27.5°C |  15.0°C | 1.00bar |   16.5 | Lauhdutinta jäähdytetty
+00806  | chocthy      | HEAT_REACTOR              |  51.0 |  46.5 |  44.0°C |  15.0°C | 1.00bar |   16.5 | Reaktoria lämmitetty
+00807  | tchy         | HOLD_STATE                |  51.0 |  46.5 |  42.5°C |  15.0°C | 1.00bar |   16.5 | OK
+00808  | shody        | RESET_VALVES              |  51.0 |  46.5 |  41.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00809  | qoaiin       | SEAL_HIGH_PRESSURE        |  51.0 |  46.5 |  39.5°C |  15.0°C | 1.40bar |   16.5 | Korkeapaine lukittu
+00810  | cholols      | BYPASS_FLOW               |  51.0 |  46.5 |  38.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00811  | sho          | RESET_VALVES              |  51.0 |  46.5 |  36.5°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00812  | qotcheo      | THROTTLE_PRESSURE         |  51.0 |  46.5 |  35.0°C |  15.0°C | 1.00bar |   16.5 | Painetta kuristettu/säädetty
+00813  | daiin        | LOCK_SYSTEM               |  51.0 |  46.5 |  33.5°C |  15.0°C | 1.00bar |   16.5 | Järjestelmä lukittu sykliin
+00814  | shodaiin     | LOCK_SYSTEM               |  51.0 |  46.5 |  32.0°C |  15.0°C | 1.00bar |   16.5 | Järjestelmä lukittu sykliin
+00815  | sho          | RESET_VALVES              |  51.0 |  46.5 |  30.5°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00816  | cheor        | COOL_CONDENSER            |  51.0 |  46.5 |  29.0°C |  15.0°C | 1.00bar |   16.5 | Lauhdutinta jäähdytetty
+00817  | chey         | COOL_CONDENSER            |  51.0 |  46.5 |  27.5°C |  15.0°C | 1.00bar |   16.5 | Lauhdutinta jäähdytetty
+00818  | qoeeey       | HOLD_STATE                |  51.0 |  46.5 |  23.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00819  | qoykeeey     | HOLD_STATE                |  51.0 |  46.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00820  | qoeor        | COOL_CONDENSER            |  51.0 |  46.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Lauhdutinta jäähdytetty
+00821  | cthy         | HEAT_REACTOR              |  51.0 |  46.5 |  36.5°C |  15.0°C | 1.00bar |   16.5 | Reaktoria lämmitetty
+00822  | shotshy      | RESET_VALVES              |  51.0 |  46.5 |  35.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00823  | dy           | HOLD_STATE                |  51.0 |  46.5 |  33.5°C |  15.0°C | 1.00bar |   16.5 | OK
+00824  | qotoeey      | THROTTLE_PRESSURE         |  51.0 |  46.5 |  30.5°C |  15.0°C | 1.00bar |   16.5 | Painetta kuristettu/säädetty
+00825  | keey         | HOLD_STATE                |  51.0 |  46.5 |  27.5°C |  15.0°C | 1.00bar |   16.5 | OK
+00826  | cheo         | HOLD_STATE                |  51.0 |  46.5 |  26.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00827  | kchy         | HOLD_STATE                |  51.0 |  46.5 |  24.5°C |  15.0°C | 1.00bar |   16.5 | OK
+00828  | shody        | RESET_VALVES              |  51.0 |  46.5 |  23.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00829  | k            | HOLD_STATE                |  51.0 |  46.5 |  21.5°C |  15.0°C | 1.00bar |   16.5 | OK
+00830  | o            | GRAVITY_FEED              |  50.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Painovoimainen syöttö
+00831  | cheor        | COOL_CONDENSER            |  50.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Lauhdutinta jäähdytetty
+00832  | chor         | COOL_CONDENSER            |  50.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Lauhdutinta jäähdytetty
+00833  | ytchey       | COOL_CONDENSER            |  50.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Lauhdutinta jäähdytetty
+00834  | pshod        | RESET_VALVES              |  50.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00835  | chols        | BYPASS_FLOW               |  50.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00836  | chodaiin     | LOCK_SYSTEM               |  50.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Järjestelmä lukittu sykliin
+00837  | ytoiiin      | HOLD_STATE                |  50.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00838  | daiin        | LOCK_SYSTEM               |  50.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Järjestelmä lukittu sykliin
+00839  | dchol        | BYPASS_FLOW               |  50.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00840  | chol         | BYPASS_FLOW               |  50.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00841  | otaiin       | SEAL_HIGH_PRESSURE        |  50.0 |  47.5 |  20.0°C |  15.0°C | 1.40bar |   16.5 | Korkeapaine lukittu
+00842  | dain         | OPEN_LOW_PRESSURE         |  50.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Paine vapautettu
+00843  | cthor        | HEAT_REACTOR              |  50.0 |  47.5 |  36.5°C |  15.0°C | 1.00bar |   16.5 | Reaktoria lämmitetty
+00844  | chots        | HOLD_STATE                |  50.0 |  47.5 |  35.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00845  | ychopordg    | COOL_CONDENSER            |  50.0 |  47.5 |  33.5°C |  15.0°C | 1.00bar |   16.5 | Lauhdutinta jäähdytetty
+00846  | qotcho       | THROTTLE_PRESSURE         |  50.0 |  47.5 |  32.0°C |  15.0°C | 1.00bar |   16.5 | Painetta kuristettu/säädetty
+00847  | ytor         | COOL_CONDENSER            |  50.0 |  47.5 |  30.5°C |  15.0°C | 1.00bar |   16.5 | Lauhdutinta jäähdytetty
+00848  | daiin        | LOCK_SYSTEM               |  50.0 |  47.5 |  29.0°C |  15.0°C | 1.00bar |   16.5 | Järjestelmä lukittu sykliin
+00849  | daiin        | LOCK_SYSTEM               |  50.0 |  47.5 |  27.5°C |  15.0°C | 1.00bar |   16.5 | Järjestelmä lukittu sykliin
+00850  | otchor       | COOL_CONDENSER            |  50.0 |  47.5 |  26.0°C |  15.0°C | 1.00bar |   16.5 | Lauhdutinta jäähdytetty
+00851  | daiin        | LOCK_SYSTEM               |  50.0 |  47.5 |  24.5°C |  15.0°C | 1.00bar |   16.5 | Järjestelmä lukittu sykliin
+00852  | q            | HOLD_STATE                |  50.0 |  47.5 |  23.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00853  | o            | GRAVITY_FEED              |  50.0 |  47.5 |  21.5°C |  15.0°C | 1.00bar |   16.5 | Syöttö estetty (venttiilit lukossa)
+00854  | darchor      | FILL_FEED_BASIN           |  55.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Syöttöallasta täytetty
+00855  | do           | HOLD_STATE                |  55.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00856  | qotor        | THROTTLE_PRESSURE         |  55.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Painetta kuristettu/säädetty
+00857  | shees        | RESET_VALVES              |  55.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00858  | otol         | BYPASS_FLOW               |  55.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00859  | ykoiin       | HOLD_STATE                |  55.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | OK
+00860  | shol         | RESET_VALVES              |  55.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00861  | daiin        | LOCK_SYSTEM               |  55.0 |  47.5 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Järjestelmä lukittu sykliin
+00862  | cthor        | HEAT_REACTOR              |  55.0 |  47.5 |  36.5°C |  15.0°C | 1.25bar |   16.5 | Reaktoria lämmitetty
+00863  | okch         | HOLD_STATE                |  55.0 |  47.5 |  35.0°C |  15.0°C | 1.25bar |   16.5 | OK
+00864  | y            | HOLD_STATE                |  55.0 |  47.5 |  33.5°C |  15.0°C | 1.25bar |   16.5 | OK
+00865  | taiin        | SEAL_HIGH_PRESSURE        |  55.0 |  47.5 |  32.0°C |  15.0°C | 1.65bar |   16.5 | Korkeapaine lukittu
+00866  | shokeeol     | BYPASS_FLOW               |  55.0 |  47.5 |  29.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00867  | chor         | COOL_CONDENSER            |  55.0 |  47.5 |  27.5°C |  15.0°C | 1.00bar |   16.5 | Lauhdutinta jäähdytetty
+00868  | cheotol      | BYPASS_FLOW               |  55.0 |  47.5 |  26.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00869  | otchol       | BYPASS_FLOW               |  55.0 |  47.5 |  24.5°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00870  | daiin        | LOCK_SYSTEM               |  55.0 |  47.5 |  23.0°C |  15.0°C | 1.00bar |   16.5 | Järjestelmä lukittu sykliin
+00871  | dal          | PUMP_UP_TO_REACTOR        |  52.0 |  50.0 |  21.5°C |  15.0°C | 1.00bar |   16.5 | Siirretty 3.0 yks. reaktoriin
+00872  | chol         | BYPASS_FLOW               |  52.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00873  | chotaiin     | SEAL_HIGH_PRESSURE        |  52.0 |  50.0 |  20.0°C |  15.0°C | 1.40bar |   16.5 | Korkeapaine lukittu
+00874  | otol         | BYPASS_FLOW               |  52.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00875  | chol         | BYPASS_FLOW               |  52.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Ohivirtaus / venttiilit avattu
+00876  | dairodg      | FILL_FEED_BASIN           |  57.0 |  50.0 |  20.0°C |  15.0°C | 1.00bar |   16.5 | Syöttöallasta täytetty
+--------------------------------------------------------------------------------------------------------------------------
+
+============================================================================
+ DIGITAL TWIN v2.0 + MONTE CARLO -YHTEENVETO
+============================================================================
+ AITO JÄRJESTYS:
+  - Valmis tuotto (yield):        16.50 yksikköä
+  - Huippupaine / Loppupaine:     2.45 / 1.00 bar
+  - Turvallisuushälytykset:       2 kpl
+----------------------------------------------------------------------------
+ MONTE CARLO (1000 sivunsisäistä sekoitusta):
+  - Hälytysten ka. (min-max):     7.04 (0-106) | p = 0.7163
+  - Huippupaineen ka. (min-max):  2.39 (1.80-4.21) | p = 0.6623
+  - Tuoton ka. (min-max):         21.05 (0.00-91.00) | p = 0.5215
+============================================================================
+
+C:\Temp\vfsf_digital_twin_v1>

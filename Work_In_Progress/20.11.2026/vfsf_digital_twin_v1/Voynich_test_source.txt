@@ -1,0 +1,255 @@
+#=IVTFF Eva- 2.0 M 5
+# ZL transliteration file, updated from EVMT project
+# Version 3b of 13/05/2025
+#
+<f1r>      <! $Q=A $P=A $F=a $B=1 $I=T $L=A $H=1 $C=1 $X=V>
+# page 1
+# text only
+# Currier's Language A, hand 1
+# There is a key-like sequence in the right margin apparently added after
+# the main text was written. Unclear in Petersen copies, but seems to be
+# the roman alphabet. It starts at the end of the second line and it
+# is not well aligned with the rest of the lines: a,b,c,d,e,f,g,h,
+# i, (j is missing) k, (l,m,n are not readable),o,p,q,r
+# There is non-Voynich text at bottom of folio: the signature
+# of Jacobus de Tepenecz
+#
+# At the end of the paragraphs there are further words (right justified)
+# as if they were the name of the author in a quotation.
+#
+# Next to the end of the 1st line there is a thick non-Voynich symbol
+# resembling an underlined 29 (commented as @254; )
+# The 2nd and 3rd paragraphs start with thick non-Voynich symbols.
+#
+<f1r.1,@P0>       <%>fachys.ykal.ar.ataiin.shol.shory.[cth:oto]res.y.kor.sholdy<!@254;>
+<f1r.2,+P0>       sory.ckhar.or,y.kair.chtaiin.shar.ase.cthar.cthar,dan
+<f1r.3,+P0>       syaiir.sheky.or.ykaiin.shod.cthoary.cthes.daraiin.sy
+<f1r.4,+P0>       soiin.oteey.oteo[s:r],roloty.cthiar,daiin.okaiin.or.okan
+<f1r.5,+P0>       sair,y.chear.cthaiin.cphar.cfhaiin
+<f1r.6,=Pt>       ydaraishy<$>
+#
+<f1r.7,*P0>       <%><!@252;>odar.{c'y}.shol.cphoy.oydar.sh.s.cfhoaiin.shodary
+<f1r.8,+P0>       yshey.shody.okchoy.otchol.chocthy.os,chy.dain.chor.kos
+<f1r.9,+P0>       daiin.shos.cfhol.shody
+<f1r.10,=Pt>      dain.os.teody<$>
+#
+<f1r.11,*P0>      <%><!@253;>ydain.cphesaiin.ols.cphey.ytain.shoshy.cphodal,es
+<f1r.12,+P0>      oksho.kshoy.otairin.oteol.okan.shodain.sckhey.daiin
+<f1r.13,+P0>      shoy.ckhey.kodaiin.cphy.cphodaiils.cthey.sho.oldain.d
+<f1r.14,+P0>      dain.oiin.chol.odaiin.chodain.chdy.ok[a:o]in.d?n.cthy.kod
+<f1r.15,+P0>      daiin.shckhey.{ck}eo.r.char.shey.kol.chol.chol.kor.chal
+<f1r.16,+P0>      sho.chol.shodan.kshy.kchy.d.or.chodaiin.sho.koeam
+<f1r.17,+P0>      ycho.tchey.chekain.sheo,pshol.dydyd.cthy.dai[{cto}:@194;]y
+<f1r.18,+P0>      yto.shol.she.kodshey.cphealy.dar,ain.dain.ckhyds
+<f1r.19,+P0>      dchar.shcthaiin.okaiir.chey.@192;chy.@130;tol.cthols.dlo{ct}o
+<f1r.20,+P0>      shok.chor.chey.dain.ckhey
+<f1r.21,=Pt>      otol.daiiin<$>
+#
+<f1r.22,*P0>      <%>cpho.shaiin.shokcheey.chol.tshodeesy.shey.pydeey.cha.ro,dar
+<f1r.23,+P0>      ydoin.chol.dain.cthal.dar.shear.kaiin.dar.shey.cthar
+<f1r.24,+P0>      cho.?o.kaiin.shoaiin.okol.daiin.far.cthol.daiin.ctholdar
+<f1r.25,+P0>      ycheey.okeey.oky.daiin.okchey.kokaiin.o?chol.k?dchy.dal
+<f1r.26,+P0>      dcheo.shody.koshey.cthy.ok,chey.keey.keey,dal.chtor
+<f1r.27,+P0>      ?eo?.chol.chok.choty.chotey
+<f1r.28,=Pt>      dchaiin<$>
+#
+#
+<f1v>      <! $Q=A $P=B $F=a $B=1 $I=H $L=A $H=1 $C=1 $X=C>
+# page 2
+# herbal
+# Currier's language A, hand 1
+# Plant ID: uva lupi, aterpa belladonn[a], solatrum d[iv|w]ale, solanum nigrum=morella
+# Ref: Fuchs p.398, Fischer p.17
+# Same plant as f102r1[3,2] (Petersen, Stolfi)
+# Two paragraphs of text, plant cutting through middle
+#
+<f1v.1,@P0>       <%>kchsy.chydaiin.ol<->o,l,tchey.char.cfhar,am
+<f1v.2,+P0>       yteey.char.or.ochy<->dcho.lkody.okodar.chody
+<f1v.3,+P0>       da,ckhy.ckhockhy.shy<->dksheey.cthy.kotchody.dal
+<f1v.4,+P0>       dol.chokeo.dair.dam<->sochey.chokody<$>
+#
+<f1v.5,+P0>       <%>potoy.shol.dair.cphoal<->dar.chey.tody.otoaiin.shoshy
+<f1v.6,+P0>       choky.chol.ctho,l,shol.okal<->dolchey.chodo.lol.chy.cthy
+<f1v.7,+P0>       qo<!bar over o>.ol,choees.cheol.dol.cthey<->ykol.dol.dolo.ykol.do,lchiody<!corr?>
+<f1v.8,+P0>       okolshol.kol,kechy.chol.ky<->chol.cthol.chody.chol.daiin
+<f1v.9,+P0>       shor.okol.chol.dol,ky.dar<->shol.dchor.o,tcho.dar.[sh:{@209;h}]ody
+<f1v.10,+P0>      taor.chotchey.dal.chody<->schody.pol.chodar<$>
+#
+#
+<f2r>      <! $Q=A $P=C $F=b $B=2 $I=H $L=A $H=1 $C=1>
+# page 3
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Cyanus segelis coeruleus (Kornblume), centaurea (cf. Holm)
+# Two paragraphs, top one cut in many places. 1 label near plant leaf
+#
+<f2r.1,@P0>       <%>kydainy.ypchol.daiin.otchal<->ypchaiin.ckholsy
+<f2r.2,+P0>       dorchory<->chkar.s<->shor.cthy.{cto}
+<f2r.3,+P0>       qotaiin<->cthey.y<->chor.chy.ydy<->chaiin
+<f2r.4,+P0>       {c'o}aiidy<->chtod,dy<->cphy.dals<->chokaiin.d
+<f2r.5,+P0>       otochor.al<->shodaiin<->chol,dan<->ytchaiin.dan
+<f2r.6,+P0>       saiin.dain,d<->dkol.sor<->ytoldy<->dchol.dchy.cthy
+<f2r.7,+P0>       shor.ckhy.daiiny<->chol,dan<$>
+#
+<f2r.8,+P0>       <%>kydain.shaiin.qoy.s.shol.fodan<->yksh.olsheey.daiildy
+<f2r.9,+P0>       dls,sho.kol.sheey.qokey.ykody.so<->chol,yky.dain.daiisol
+<f2r.10,+P0>      qo'ky.cholaiin.shol.sheky.daiin<->cthey.keol.saiin.e'a'iin
+<f2r.11,+P0>      ychain.dal.chy.dalor.shan.dan<->olsaiin.sheey.ckhor
+<f2r.12,+P0>      okol.chy.chor.cthor.yor.an.chan<->saiin.chety.chyky.sal
+<f2r.13,+P0>      sho.ykeey.chey.daiin.chcthy<$>
+<f2r.14,@Lp>      ytoail
+<f2r.15,@L0>      ios.an.on
+#
+#
+<f2v>      <! $Q=A $P=D $F=b $B=2 $I=H $L=A $H=1 $C=1 $X=O>
+# page 4
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Collocasia, Egyptian lotus, Nymphoides Peltata (R. Zandbergen)
+# Just 8 lines, all cut by plant
+#
+<f2v.1,@P0>       <%>kooiin.cheo,pchor.otaiin,odain.chor<->dair.shty
+<f2v.2,+P0>       kcho,kchy.sho.shol.qotcho.loeees.qoty<->chor.daiin
+<f2v.3,+P0>       otchy.chor.lshy.chol.chody.chodain<->chcthy.daiin
+<f2v.4,+P0>       sho.cholo.cheor.chodaiin<$>
+#
+<f2v.5,+P0>       <%>kchor<!mark above o>.shy.daiiin.ch{cko}m<->s,shey.dor,chol,daiin
+<f2v.6,+P0>       dor.chol.chor.chol.keol.chy.chty<->daiin.o,tchor.chan
+<f2v.7,+P0>       daiin.chotchey.qoteeey.chokeos<->chees.chr.cheaiin
+<f2v.8,+P0>       chokoishe.chor.cheol.chol.dolody<$>
+#
+#
+<f3r>      <! $Q=A $P=E $F=c $B=3 $I=H $L=A $H=1 $C=1>
+# page 5
+# herbal
+# Currier's language A, hand 1
+# Plant ID: crassulatea (Cretan Dittany)
+# 20 normal lines of text
+#
+<f3r.1,@P0>       <%>tsheos.qopal.chol.cthol.daimg
+<f3r.2,+P0>       ycheor.chor.dam.qotcham.cham
+<f3r.3,+P0>       ochor.qocheor.chol.daiin.cthy
+<f3r.4,+P0>       schey.chor.chal.chag.cham.cho
+<f3r.5,+P0>       qokol.chololy.s.cham.cthol
+<f3r.6,+P0>       ychtaiin.chor.cthom.otaldam
+<f3r.7,+P0>       otchol.qodaiin.chom.shom.damo
+<f3r.8,+P0>       ysheor.chor.chol.oky.dago
+<f3r.9,+P0>       sho.vor.sheoldam.otchody.ol
+<f3r.10,+P0>      ydar.cholcthom<$>
+#
+<f3r.11,+P0>      <%>pcheol.shol.sols.sheol.shey
+<f3r.12,+P0>      okadaiin.qokchor.qo,schodam.octhy
+<f3r.13,+P0>      qokeey.qot,shey.qokody.qokshey.cheody
+<f3r.14,+P0>      chor.qodair.okeey.qokeey<$>
+#
+<f3r.15,+P0>      <%>tsheoarom.shor.or.chor.olchsy.chom.otchom<->oporar
+<f3r.16,+P0>      oteol.chol.s.cheol.ekshy.qokeom.qokol.daiin<->soleeg
+<f3r.17,+P0>      soeom.okeom.yteody.qokeeodal.sam<$>
+#
+<f3r.18,+P0>      <%>pcheoldom.shodaiin.qopchor.qopol.opchol,qoty<->otolom
+<f3r.19,+P0>      otchor.ol,cheor.qoeor.dair.qoteol.qosaiin<->chor.cthy
+<f3r.20,+P0>      ycheor.chol.odaiin.chol.s.aiin.okol,or.am<$>
+#
+#
+<f3v>      <! $Q=A $P=F $F=c $B=3 $I=H $L=A $H=1 $C=1>
+# page 6
+# Currier's language A, hand 1
+# herbal
+# Two paragraphs of text, left of plant picture
+# Same root as f100v [1,1] (Petersen
+#
+<f3v.1,@P0>       <%>koaiin.cphor.qotoy.sha.ckhol.ykoaiin.s.oly
+<f3v.2,+P0>       daiidy.qoteeol.okeeor.okor.olytol.dol,dar
+<f3v.3,+P0>       okom.chol.shol.seees.chom.cheeykam.okai
+<f3v.4,+P0>       qodar.ees.eey.kcheol.okal.do.r.chear,een
+<f3v.5,+P0>       ychear.otchal.cho,r.char.ckh[a:y]
+<f3v.6,+P0>       or.cheor.kor.chodaly.chom<$>
+#
+<f3v.7,+P0>       <%>tchor.otcham.chor.cfham.s
+<f3v.8,+P0>       ykchy.kchom.chor.chckhol.oka
+<f3v.9,+P0>       ytcheear.okeol.cthodoaly.chor.cthy
+<f3v.10,+P0>      ochos.daiin.qokshol.daiim.chol.okary
+<f3v.11,+P0>      sho.shockho.ckhy.tchor.chodaiin.chom
+<f3v.12,+P0>      osh.chodair.ytchy.tchor.kcham.s
+<f3v.13,+P0>      shar.shkaiin.qokchy.yty.cthal.chky
+<f3v.14,+P0>      dain.sheam.y,keam<$>
+#
+#
+<f4r>      <! $Q=A $P=G $F=d $B=4 $I=H $L=A $H=1 $C=1 $X=C>
+# page 7
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Hypericum; Centaurium Erythaea (O'Neill)
+# Two paragraphs of text, flower cuts through top one
+#
+<f4r.1,@P0>       <%>kodalchy.chpady.sheol.ol,sheey.qotey<->doiin.chor.ytoy
+<f4r.2,+P0>       dchor.shol.shol.cthol.shtchy.chaiin.@163;s<->choraiin.chom
+<f4r.3,+P0>       otchol.chol.chy.chaiin.qotaiin<->daiin.shain
+<f4r.4,+P0>       qotchol,chy.yty.daiin.okaiin.cthy<$>
+#
+<f4r.5,+P0>       <%>pydaiin.qotchy.dy,tydy
+<f4r.6,+P0>       chor.shytchy.dytcheey
+<f4r.7,+P0>       qotaiin.cthol.daiin.cthom
+<f4r.8,+P0>       shor.shol.shol.cthy.cpholdy
+<f4r.9,+P0>       daiin.ckhochy.tchy.kor,aiin
+<f4r.10,+P0>      odal.shor.shyshol.cphaiin
+<f4r.11,+P0>      qotchoiin.she[o:a]r.qoty
+<f4r.12,+P0>      soiin.chaiin.chaiin
+<f4r.13,+P0>      daiin.cthey<$>
+#
+#
+<f4v>      <! $Q=A $P=H $F=d $B=4 $I=H $L=A $H=1 $C=1>
+# page 8
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Convulvula Ipomea? (climbing plant)
+# Two paragraphs, top one split by plant
+#
+<f4v.1,@P0>       <%>pchooiin.ksheo.kchoy.chopchy.dolds<->dlod
+<f4v.2,+P0>       ol.chey.chy.cthy.shkchor.sheo.cheory<->choldy
+<f4v.3,+P0>       sho.sho.chaiin.shaiin.daiin.qodaiin<->o,aram
+<f4v.4,+P0>       qok[sh:ch]y.qocthy.choteol.daiin.cthey<->choaiin
+<f4v.5,+P0>       shor.sheey.{cto}.otoiin.shey.qotchoiin<->chodain
+<f4v.6,+P0>       ytchoy.shokchy.cphody<$>
+#
+<f4v.7,+P0>       <%>torchy.sheeor.chor.chokch[y:e].cphydy
+<f4v.8,+P0>       oleeeb.chor.cthol.sho.otor.cthory
+<f4v.9,+P0>       qooko,iiin,cheog.chcthy.shoky.daiin
+<f4v.10,+P0>      otaiin.sheo.okeody.chol,chokeody
+<f4v.11,+P0>      sho.kcheor.shody.shtaiin.qotol,daiin
+<f4v.12,+P0>      qokey.sho.okeol.s,keey.shar,char,ody
+<f4v.13,+P0>      shody.s.cheor.chokody.shodaiin.qoty
+<f4v.14,+P0>      ochody.chy,key.chtody<$>
+#
+#
+<f5r>      <! $Q=A $P=I $F=w $B=4 $I=H $L=A $H=1 $C=1>
+# page 9
+# herbal
+# Currier's language A, hand 1
+# Plant ID: [Herba] Paris, Indian Cucumber?
+# Two paragraphs
+#
+<f5r.1,@P0>       <%>kchody.fchoy.chkoy.oaiin.oar,olsy.chody.dkshy,dy
+<f5r.2,+P0>       ochey.okey.qokaiin.sho.ckhoy.cthey.chey.ok[a:y]{@131;o}s.otol
+<f5r.3,+P0>       qoaiin.otan,chy.daiin.oteeeb.chocthy.otchy.qotchody
+<f5r.4,+P0>       otain.sheody.chan.s.cheor.chocthy<$>
+#
+<f5r.5,+P0>       <%>tchy.shody.qoaiin.cholols.sho.qotcheo.daiin.shodaiin
+<f5r.6,+P0>       sho.cheor,chey.qoeeey.qoykeeey.qoeor.cthy.shotshy.dy
+<f5r.7,+P0>       qotoeey.keey.cheo,kchy.shody<$>
+#
+#
+<f5v>      <! $Q=A $P=J $F=w $B=4 $I=H $L=A $H=1 $C=1>
+# page 10
+# herbal
+# Currier's language A, hand 1
+# Plant ID: Paretaria Urtica (O'Neill)
+# Only one paragraph of text
+#
+<f5v.1,@P0>       <%>k,o,cheor.chor.ytchey.pshod.chols.chodaiin.ytoiiin.daiin
+<f5v.2,+P0>       dchol.{c'y}.chol.otaiin.dain.cthor.chots.ychopordg
+<f5v.3,+P0>       qotcho.ytor.daiin.daiin.otchor.daiin.q'o.darchor.do
+<f5v.4,+P0>       qotor.shees.otol.ykoiin.shol,daiin.cthor.okch,y,taiin
+<f5v.5,+P0>       shokeeol.chor.cheotol.otchol.daiin.dal.chol,chotaiin
+<f5v.6,+P0>       otol.chol.dairodg<$>
+#

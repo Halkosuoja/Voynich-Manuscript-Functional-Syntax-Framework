@@ -1,0 +1,95 @@
+[![DOI](https://zenodo.org)](https://doi.org)
+
+# Voynich Manuscript Functional Syntax Framework (VFSF)
+### Versio 3.8.2 (Pre-release) — Kokeellinen osatila-automaatti ja sekvenssianalyysi
+**Tekijä:** Juho Olavi Laakso (Paimio, Finland)  
+**Tila:** Kokeellinen tutkimus- ja kehitysversio (*Work in Progress*)  
+**Dokumentaatiolisenssi:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)  
+**Lähdekoodilisenssi:** [MIT License](LICENSE-CODE)
+
+---
+
+## Johdanto ja projektin tavoite
+
+Tämä projekti tutkii Voynichin käsikirjoituksen (MS Beinecke 408) tekstirakennetta kokeellisen tietojenkäsittelyn ja prosessimallinnuksen keinoin. Perinteisten foneettisten tai kryptografisten tulkintojen sijaan tässä mallissa testataan hypoteesia, jonka mukaan käsikirjoituksen pintasyntaksi toimii **modulaarisena ohjauskoodistona ja osatila-automaattina (Finite State Machine, FSM)**.
+
+Projekti on julkaistu avoimen tieteen periaatteiden mukaisesti (*Pre-release*) menetelmäkehityksenä. Tavoitteena on mitata empiirisesti, noudattaako käsikirjoituksen sanajärjestys loogisia tilasiirtymiä ja reunaehtoja tilastollisesti merkitsevällä tavalla verrattuna satunnaistettuun tekstiin.
+
+---
+
+## LUKU 1: Rakenteellinen tausta ja komponenttimalli
+
+### 1.1 Agglutinoiva rakenne ja TTR-havainto
+Koko korpuksen kattava *Type-Token Ratio* (TTR) on noin **0.2691 (26,91 %)**. Vaikka luku muistuttaa pintapuolisesti luonnollista kieltä, korpuksen frekvenssijakauma poikkeaa siitä selvästi: yleisin yksittäinen sana (`daiin`) kattaa vain 2,24 % tekstistä, ja tyypilliset apusanat puuttuvat. 
+
+VFSF-kehys mallintaa tätä rakennetta **modulaarisena komponenttikoodistona**, jossa kiinteät etuliitteet, keskiosan saranamerkit (Gallows Pivot) ja päätteet muodostavat yhdistelmäoperaattoreita.
+
+### 1.2 Toimilaitteet ja Slot 4 Gallows Pivot -jäsennys
+Kääntäjäohjelmisto (`v3.8.2`) jäsentää monimutkaiset merkkijonot halkaisemalla ne keskellä sijaitsevien Gallows-merkkien (`k`, `t`, `p`, `f`) kohdalta tulotilaan ja virtausvektoriin:
+* **`qok`**: Paineistettu tehostus / ohitusohjaus (`HIGH_PRESSURE_OVERRIDE`)
+* **`qot`**: Kuristus / paineensäätö (`PRESSURE_BOOST_THROTTLE`)
+* **`qop`**: Alustus / linjan syöttö (`INIT_ACTIVATION`)
+* **`qof`**: Pikavapautus / tyhjennys (`FORCED_EVACUATION_CYCLE`)
+* **`qol`**: Ohiputkikierto (`BYPASS_FREE_FLOW`)
+* **`k` / `t` / `p` / `f`**: Sulku-, säätö-, avaus- ja suodatusventtiilit
+
+---
+
+## LUKU 2: Tilakoneen reunaehdot ja aikaviiveet
+
+### 2.1 Ajonaikaiset viivekertoimet (Latency Engine)
+Sanojen keskellä esiintyvät toistuvat vokaalijonot (`-ee-` ja `-eee-`) mallinnetaan koodissa ajonaikaisina kestokertoimina (`current_hold_latency`), jotka pidentävät kyseisen tilan kestoa 2- tai 3-kertaiseksi suhteessa perustilaan (`1x Viive`).
+
+### 2.2 Massataseen ($\Delta V$) ja tilasiirtymien säännöt
+Simulaattori valvoo jokaisen askeleen kohdalla seuraavia reunaehtoja:
+1. **Alustus ja Auto-Init:** Sivun vaihtuessa tilakone nollautuu ($V = 0$, `STATE = IDLE`). Viralliset alustusoperaattorit (`tsheos`, `daiin`, `fachys`) tai syöttötilan automaattiherätys (`AUTO_INIT`) asettavat puskuritasoksi $V = 4$ ja tilaksi matalapaineen (`LOW_PRESSURE`).
+2. **Puskurin kulutus ($\Delta V$):** Korkeapaine- ja lämpöoperaatiot kuluttavat puskuria viivekertoimen ($C_L$) verran:
+   $$V \gets \max(0, V - C_L)$$
+   Jos puskuri on tyhjä ($V \le 0$) korkeapaineajon aikana, järjestelmä kirjaa alivuotoristiriidan (`Kuivapumppaus ilman nestesyöttöä!`).
+3. **Puskurin lataus:** Säiliöoperaattori (`CONTAINMENT_RECEPTACLE`) kasvattaa puskuria:
+   $$V \gets V + (2 \times C_L)$$
+4. **Sietorajat:** Yhtäjaksoinen korkeapainejakso on rajattu 4 askeleeseen (`MAX_HIGH_PRESSURE_DURATION = 4`) ja passiivinen linjapito 15 askeleeseen (`MAX_IDLE_STREAK = 15`).
+
+---
+
+## LUKU 3: Visuaalinen ja semanttinen vertailu (P&ID-hypoteesi)
+
+Kääntäjän tuottamia tilalokeja on verrattu käsikirjoituksen kuvitukseen sekä 1400-luvun prosessitekniseen kirjallisuuteen (esim. Hieronymus Brunschwigin tislausmanuaalit). Kuvat näyttävät vastaavan toiminnallisia prosessi- ja kytkentäkaavioita (P&ID):
+
+| Kohde / Folio | Visuaalinen havainto kuvassa | Koodin keskeiset tilat (`v3.8.2`) | Prosessitekninen tulkintahypoteesi |
+| :--- | :--- | :--- | :--- |
+| **Folio f75v** | Marginaalin kirjaimet `s-l-l-o-r-s` ja hahmot altaissa | `SYSTEM_REBOOT` $\rightarrow$ `OPEN_OUTLET_DRAIN` $\rightarrow$ `GRAVITY_FEED_HOLD` $\rightarrow$ `REFRACTORY_RESTART` | Vaiheittainen virtauslinjasto (Stage-Gate). Hahmojen käsiasennot ("nokka ja kahva") kuvaavat suuttimien suuntaa ja altaiden täyttöastetta. |
+| **Folio f70v1 / f71r** | Oinas-symboli keskellä (`Abril`) ja samankeskiset kehät | `COMPLETED_LOCK_HALT`, `CLOSED_HIGH_PRESSURE_LINE`, `BYPASS_FREE_FLOW` | Tuotantokalenterin ajoitusmerkintä (*Batch Timer*, huhtikuu) ja rengasmainen monihaarainen lauhdutusjärjestelmä. |
+| **Folio f35r / f8r** | Kasvimaiset rakenteet: juuristo, paksu varsi, malja ja suuttimet | `COMPLETED_LOCK_HALT`, `CLOSED_HIGH_PRESSURE_LINE`, `THERMAL_INFUSION` | Naamioitu prosessikaavio (*Camouflaged Flowsheet*): imukanavat, pystysuora nousukolonni, höyrystinkammio ja poistosuuttimet. |
+| **Folio f49v** | Vasemman marginaalin numerot `1, 2, 3, 4, 5` ja huipun tähti | `SYSTEM_REBOOT` $\rightarrow$ `PRESSURIZED_CALIBRATION` $\rightarrow$ `VALVE_CALIBRATION` $\rightarrow$ `COMPLETED_LOCK_HALT` | Vaiheittainen esiasetusohjelma (*Step Program*) ja paineen vapautusventtiili. |
+| **Folio 39r vs. 95r2** | Moniputkiallas: 39r:ssä 9/10 putkea suljettu, 95r2:ssa kaikki auki | **39r:** 13 korkeapainelukitusta, 10 ylipainerasitusta<br>**95r2:** 2 lukitusta, enemmän vapaata virtausta | Saman laiteyksikön kaksi eri käyttötilaa: suljettu painekoestusvaihe (39r) ja avoin tuotantovaihe taittosivulla (95r2). |
+
+---
+
+## LUKU 4: Empiiriset tulokset ja nollatestit (Methodological QA)
+
+Mallin luotettavuuden varmistamiseksi yksittäisten kirjainten (`y`, `d`, `o`, `l`, `n`) tunnistus on rajattu tiukkaan täsmäosumaan (`token == key`), ja tilastollinen merkitsevyys testataan **sivunsisäisellä (*Within-Folio*) Monte Carlo -permutaatiolla** (1 000 sekoitusta kunkin sivun sisällä, siemen `1337`).
+
+| Testiaineisto | Tokenit / Vaiheet | Rakennekonvergenssi | Ristiriidat (Aito vs. Kohina) | Empiirinen p-arvo | Tulkinta |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **10 sivun testikorpus** (`f1r–f5v`) | 872 / 881 | **92,96 %** | **62** vs. 73,68 | **`0.030969`** | **Tilastollisesti merkitsevä ($p < 0.05$).** Aito sanajärjestys erottuu satunnaisesta kohinasta. |
+| **Käänteinen lukusuunta** (`kaannetty.txt`) | 872 / 881 | 92,17 % | 69 vs. 73,65 | `0.265734` | **Nollatesti (Falsifikaatio).** Lopusta alkuun luettuna tilastollinen signaali katoaa. |
+| **Yksittäiset sivut** (`f39r`, `f95r2`) | 156 / 79 | 76,3 % – 77,2 % | 37 / 18 | `0.987` / `0.879` | **Otoskokorajoitus.** Lyhyillä yksittäisillä sivuilla permutaatiovarianssi ei riitä tilastolliseen erotteluun. |
+| **Koko korpus** (`ZL3b-n.txt`) | 38 216 / 38 417 | ~93 % | – | – | Todistaa tilakoneen teknisen vakauden ja skaalautuvuuden koko käsikirjoituksen yli. |
+
+### Tunnetut rajoitukset
+* **Sanaston kattavuus:** Osa harvinaisemmista merkkijonoista jää edelleen `UNKNOWN`-tilaan, sillä liian väljä osamerkkijonohaku vääristäisi tilastollista nollatestiä.
+* **Currier A vs. B -murteet:** Nykyiset puskuriparametrit on optimoitu erityisesti B-kielen jaksoille; A-kielen tiheämmät syöttö- ja laskeutusjaksot vaativat jatkossa hienosäätöä.
+* **Semanttinen tulkinta:** Vaikka sanajärjestyksen rakenteellinen signaali on tilastollisesti osoitettu laajassa aineistossa, yksittäisten komponenttien historiallinen merkitys on edelleen työhypoteesi, ei lopullinen käännös.
+
+---
+
+## Lähdekirjallisuus / References
+
+* **Beinecke Rare Book & Manuscript Library, Yale University.** *The Voynich Manuscript*, MS 408. https://yale.edu
+* **Bowern, Claire L., and Luke Lindemann.** “The Linguistics of the Voynich Manuscript.” *Annual Review of Linguistics* 7 (2021): 285–308.
+* **Brunschwig, Hieronymus.** *Liber de arte distillandi de simplicibus*. Strasbourg, 1500.
+* **Currier, Prescott H.** “Some Important New Statistical Findings.” *New Research on the Voynich Manuscript*, 1976.
+* **Davis, Lisa Fagin.** “How Many Glyphs and How Many Scribes? Digital Paleography and the Voynich Manuscript.” *Manuscript Studies* 5, no. 1 (2020): 164–180.
+* **Michael of Rhodes.** *The Book of Michael of Rhodes* (1434). https://imss.fi.it
+* **Zandbergen, René.** *The Voynich Manuscript: Text Analysis and Transliteration*. https://voynich.nu
