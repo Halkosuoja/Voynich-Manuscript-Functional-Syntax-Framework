@@ -8,7 +8,6 @@ mukaisiksi toiminnallisiksi tilaketjuiksi ilman foneettisia oletuksia.
 
 import re
 import sys
-from collections import Counter
 
 def load_zl3b(filepath):
     try:
@@ -23,14 +22,12 @@ def decode_word(word):
     orig = word
     tags = []
 
-    # 1. Erikoisankkurit ja partikkelit
     if word in ("daiin", "dain", "daiiin"):
         med = "MED2" if "ii" in word else "MED1"
         return f"[REF:{orig}({med})]"
     if word in ("ol", "or", "al", "ar", "qol", "qor"):
         return f"[BRIDGE:{orig}]"
 
-    # 2. Etuliite-operaattorit
     rem = word
     if rem.startswith("qo"):
         tags.append("FLOW")
@@ -49,7 +46,6 @@ def decode_word(word):
         tags.append("MOD(l)")
         rem = rem[1:]
 
-    # 3. Kesto-/voimakkuusaste (e/ee/eee) ja väliainerekisteri (i/ii/iii)
     if "eee" in rem:
         tags.append("DUR:3x")
     elif "ee" in rem:
@@ -64,7 +60,6 @@ def decode_word(word):
     elif "i" in rem:
         tags.append("MED:1")
 
-    # 4. Ydinmoduulit
     if re.search(r"c(kh|th|ph|fh)", rem):
         tags.append("COMP_STRUCT")
     elif re.search(r"(ch|sh)e", rem):
@@ -74,7 +69,6 @@ def decode_word(word):
     elif re.search(r"(ch|sh)", rem):
         tags.append("ACT")
 
-    # 5. Loppupäätteet
     if rem.endswith(("am", "om")):
         tags.append("END_LOCK")
     elif rem.endswith(("edy", "ody", "ady", "dy", "ey", "y")):
@@ -89,7 +83,7 @@ def decode_word(word):
     role_str = "+".join(tags) if tags else "CORE"
     return f"[{role_str}: {orig}]"
 def parse_folio(lines, target_folio):
-    """Poimii halutun sivun (esim. 'f1r', 'f75r', 'f103r') kaikki lokukset ja sanat."""
+    """Poimii halutun sivun (esim. 'f1r', 'f75r', 'f71r', 'f103r', 'fRos') kaikki lokukset ja sanat."""
     target_folio = target_folio.strip().lower()
     in_folio = False
     folio_meta = ""
@@ -99,15 +93,16 @@ def parse_folio(lines, target_folio):
         line = line.strip()
         if not line or line.startswith("#"):
             continue
-        if line.startswith("<f") and "<!" in line:
-            m_f = re.match(r"<(f[^>]+)>", line)
-            if m_f:
-                cur_f = m_f.group(1).lower()
-                if cur_f == target_folio:
-                    in_folio = True
-                    folio_meta = line
-                elif in_folio:
-                    break
+
+        # Tunnistetaan varsinainen sivutunniste (ei pistettä lokusnumeron edessä)
+        m_f = re.match(r"^<(f[a-zA-Z0-9]+)>\s*(.*)", line)
+        if m_f:
+            cur_f = m_f.group(1).lower()
+            if cur_f == target_folio:
+                in_folio = True
+                folio_meta = line
+            elif in_folio:
+                break
             continue
 
         if not in_folio:
@@ -167,16 +162,17 @@ def decode_and_print(filepath, target_folio):
     out_lines.append(f"Metadata: {meta}")
     out_lines.append("=" * 78)
 
-    all_words = [w for r in records if r["loc_tag"].startswith("P") for w in r["words"]]
-    total_p = len(all_words)
-    if total_p > 0:
+    all_words = [w for r in records for w in r["words"]]
+    total_w = len(all_words)
+    if total_w > 0:
         qo_cnt = sum(1 for w in all_words if w.startswith("qo"))
-        ok_ot_cnt = sum(1 for w in all_words if w.startswith(("ok", "ot")))
+        ok_cnt = sum(1 for w in all_words if w.startswith("ok"))
+        ot_cnt = sum(1 for w in all_words if w.startswith("ot"))
         ee_cnt = sum(1 for w in all_words if "ee" in w)
         e1_cnt = sum(1 for w in all_words if re.search(r"(?<!e)e(?!e)", w))
-        out_lines.append(f"Leipätekstin tilasto (@P, N={total_p} sanaa):")
-        out_lines.append(f"  - Jatkuvuusoperaattori (qo-): {qo_cnt/total_p*100:.1f} %")
-        out_lines.append(f"  - Tilanvalitsimet (ok-/ot-):  {ok_ot_cnt/total_p*100:.1f} %")
+        out_lines.append(f"Sivun kokonaistilasto (N={total_w} sanaa):")
+        out_lines.append(f"  - Jatkuvuusoperaattori (qo-): {qo_cnt/total_w*100:.1f} %")
+        out_lines.append(f"  - Tilanvalitsimet:            MODE2(ok)={ok_cnt/total_w*100:.1f} %, MODE1(ot)={ot_cnt/total_w*100:.1f} %")
         out_lines.append(f"  - Kestosuhde ee/(e+ee):       {ee_cnt/max(1, e1_cnt+ee_cnt)*100:.1f} %")
         out_lines.append("-" * 78)
 
